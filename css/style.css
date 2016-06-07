@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ********** Layout CSS ****************** */
+body {
+	background-image: url(../imgs/layout/background.jpg);
+	background-repeat: repeat-x;
+	background-color: #25335a;
+}
+/* level 1 header for main content*/
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #42559a;
+	font-size: 26px;
+	font-style: normal;
+	line-height: 28px;
+	font-weight: bold;
+}
+/* level 2 sub headings for main content*/
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #42559a;
+	font-size: 22px;
+	font-style: normal;
+	margin: 0px;
+	padding: 0px;
+}
+/* level 3 sub headings for main content*/
+h4 {
+	font-family: "franklin gothic book";
+	font-size: 18px;
+	text-decoration: none;
+	color:#000;
+	margin: 0px;
+	padding: 0px;
+}
+/* level 1 headings for sidebar */
+h3 {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #42559a;
+	font-size: 18px;
+	font-style: normal;
+	margin: 0px;
+	padding: 0px;
+}
+/* main content labled "main_area"*/
+td#main_area {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+}
+td#main_area a {
+	font-family: Verdana, Geneva, sans-serif;
+	text-decoration: none;
+	color:#000;
+}
+td#main_area a:hover {
+	text-decoration: underline;
+	color:#000;
+}
+td#main_area h4 a {
+	font-family: "franklin gothic book";
+	font-size: 18px;
+	text-decoration: none;
+	color:#000;
+}
+/* sidebar content labled "side_area"*/
+td#side_area {
+}
+/* footer content labled "footer_area"*/
+td#footer_area {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #D6D6D6;
+}
+table {
+	background-repeat: no-repeat;
+}
+ul.list li {
+	text-indent: 50px;
+	list-style-position: inside;
+	/*	list-style-image: url(images/bullet.png);*/
+	list-style-type: circle;
+}
+ul.list li b {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #42559a;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+}
+ul.list_2 li {
+	text-indent: 70px;
+	list-style-position: inside;
+	list-style: none;
+	padding-bottom: 10px;
+}
+table#table_members {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+}
+/* ********** End Layout CSS ****************** */
+
+
+
+/* ********** Start Navigation Bar CSS ********* */
+
+td#nav_area {
+	background: url(../imgs/layout/nav-background.jpg) repeat-x;
+	z-index: 30;
+}
+ul.topnav {
+	list-style: none;
+	padding: 0 0px;
+	margin: 0;
+	float: none;
+	width: 527px;
+	font-size: 17px;
+	font-family: segoe ui;
+	z-index: 30;
+}
+ul.topnav li {
+	float: left;
+	margin: 0;
+	padding: 0px 0px 0 10px;
+	position: relative; /*--Declare X and Y axis base for sub navigation--*/
+	z-index: 30;
+}
+ul.topnav li a {
+	padding: 5px 0px;
+	color: #000;
+	display: block;
+	text-decoration: none;
+	float: left;
+	z-index: 30;
+}
+ul.topnav li a:hover {
+	background: url(../imgs/layout/nav-hover.jpg) no-repeat center top;
+	z-index: 30;
+}
+ul.topnav li span { /*--Drop down trigger styles--*/
+	width: 1px;
+	height: 35px;
+	float: left;
+	background: #FFF;
+	z-index: 30;
+}
+ul.topnav li span.subhover {
+	background-position: center bottom;
+	cursor: pointer;
+} /*--Hover effect for trigger--*/
+ul.topnav li ul.subnav {
+	list-style: none;
+	position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/
+	left: 0;
+	top: 35px;
+	background: #FFF;
+	margin: 0;
+	padding: 0;
+	display: none;
+	float: left;
+	width: 170px;
+	border: 0px solid #111;
+	z-index: 30;
+}
+ul.topnav li ul.subnav li {
+	margin: 0;
+	padding: 0;
+	clear: both;
+	width: 170px;
+	z-index: 30;
+	border-bottom: 1px solid #444;
+}
+html ul.topnav li ul.subnav li a {
+	float: left;
+	width: 145px;
+	background: #FFF;
+	padding-left: 20px;
+	z-index: 30;
+}
+div.footer-links {
+	font: small-caps;
+	font-family: ARIAL;
+	font-size: 14px;
+	border:none;
+}
+div.footer-links a {
+	text-decoration: none;
+	color: #000;
+}
+div.footer-links a:hover {
+	text-decoration: underline;
+}
+div.copyright {
+	font-family: Arial;
+	font-size: 14px;
+}
+div.sponsor-links a {
+	font-family: "franklin gothic book";
+	font-size: 18px;
+	text-decoration: none;
+	color:#000;
+}
+div.sponsor-links a:hover {
+	text-decoration: underline;
+}
+
+
+
+/* ********** End Navigation Bar CSS ****************** */

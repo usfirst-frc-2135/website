@@ -1,0 +1,18 @@
+/* CSS Document */
+
+body {
+	background-color: #1B3866;
+	padding-top: 50px;
+}
+
+.navbar {
+/*	margin-bottom: 0; */
+}
+
+.navbar-brand {
+	height: 50px;
+}
+
+.carousel {
+	max-width: 980px;
+}

@@ -1,0 +1,65 @@
+/*CSS for slideshows on regular pages*/
+
+
+ul, li, body {
+	margin: 0; padding: 0; border:0;
+}
+
+#container {
+	margin: 0px auto;
+	position: relative;
+}
+
+div#slideshow {
+	width: 960px; height: 370px; padding: 0px 0 0 0px;
+	overflow: hidden;
+	position: relative;
+}
+
+div#slideshow ul#nav {
+	display: none;
+	list-style: none;
+	position: relative; 
+	z-index: 50;
+	top: 120px; 
+}
+	div#slideshow ul#nav li#prev {
+	float: left;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0px;
+	z-index: 50;
+	}
+	div#slideshow ul#nav li#next {
+	float: right;
+	margin-right: 80px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	z-index: 50;
+	}
+	div#slideshow ul#nav li a {
+		display: block;
+		width: 74px; height: 75px; 
+		text-indent: -9999px; 
+		z-index: 50;
+		position: absolute;
+	}
+		div#slideshow ul#nav li#prev a {
+			background: url(../../../AAUW%209-10-11/images/prev-arrow2.png);
+			z-index: 50;
+		}
+		div#slideshow ul#nav li#next a {
+			background: url(../../../AAUW%209-10-11/images/next-arrow2.png);
+			z-index: 50;
+		}
+
+	div#slideshow ul#slides {
+		list-style: none;
+		padding: 0 0 0 0;
+	}
+		div#slideshow ul#slides li {
+			margin: 0 0 20px 0;
+			padding: 0 0 0 0;
+		}
