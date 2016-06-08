@@ -16,3 +16,23 @@ body {
 .carousel {
 	max-width: 980px;
 }
+
+.contentHeader.footer {
+    color: #fff;
+    height: 30px;
+    margin-top: -20px;
+    padding-bottom: 0;
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.contentText.footer {
+    color: #fff;
+    margin-top: 0;
+    padding-top: 0;
+    text-align: top;
+    font-size: 14px;
+}
+
