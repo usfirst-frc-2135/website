@@ -5,34 +5,63 @@ body {
 	padding-top: 50px;
 }
 
-.navbar {
-/*	margin-bottom: 0; */
+.container {
+	max-width: 980px;
+}
+
+.carousel .carousel-inner .item {
+	max-width: 980px;
 }
 
 .navbar-brand {
 	height: 50px;
 }
 
-.carousel {
-	max-width: 980px;
+.footer {
+	margin-top: 0px;
+	background-color: #222;
 }
 
 .contentHeader.footer {
-    color: #fff;
-    height: 30px;
-    margin-top: -20px;
-    padding-bottom: 0;
-    padding-top: 20px;
-    font-size: 15px;
-    font-weight: 700;
-    margin-bottom: 4px;
+  color: #9d9d9d;
+  height: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .contentText.footer {
-    color: #fff;
-    margin-top: 0;
-    padding-top: 0;
-    text-align: top;
-    font-size: 14px;
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 4px;
+	padding-top: 4px;
+	padding-bottom: 0px;
 }
 
+.visitSite.downloadInfo {
+    background-color: #636a74;
+    padding: 4px 10px;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 400;
+    border-width: 1px;
+    border-style: none;
+    -moz-border-top-colors: #fff;
+    -moz-border-right-colors: #fff;
+    -moz-border-bottom-colors: #fff;
+    -moz-border-left-colors: #fff;
+    border-radius: 6px;
+    -webkit-transition: background-color .25s,color .25s,transform .25s;
+    transition: background-color .25s,color .25s,transform .25s;
+    border-color: #fff;
+}
+
+.downloadInfo.downloadInfo:hover {
+    background-color: #eee;
+    color: #636a74;
+    transform: scale(1.0);
+}
