@@ -6,11 +6,11 @@ body {
 }
 
 .container {
-	max-width: 980px;
+	max-width: 970px;
 }
 
-.carousel .carousel-inner .item {
-	max-width: 980px;
+.carousel, .carousel-inner, .item {
+	max-width: 970px;
 }
 
 .navbar-brand {
@@ -20,6 +20,34 @@ body {
 .footer {
 	margin-top: 0px;
 	background-color: #222;
+	margin: 15px;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+}
+
+.contentBlock {
+    margin-left: 0;
+    width: 940px;
+    height: 180px;
+    background-color: #fff
+}
+
+.contentBlock.dark {
+    background-color: #F1F1F1
+}
+
+.contentHeader {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000
+}
+
+.contentText {
+    font-size: 13px;
+    width: 95%
 }
 
 .contentHeader.footer {

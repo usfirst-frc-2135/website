@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=980px">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
@@ -33,17 +33,10 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <!-- 2135 Customizations -->
-    <link href="css/custom-phs.css" rel="stylesheet">
+    <link href="css/theme-phs.css" rel="stylesheet">
   </head>
 
   <body>
-
-    <!-- Banner -->
-    <div class="banner">
-      <div class=container>
-        <a class='logo-big' href="https://www.presentationhs.org/robotics"><img src='./img/Banner.png' alt="Team 2135 banner"></a>
-      </div>
-    </div>
 
     <!-- Fixed navbar -->
     <nav class="navbar navbar-dark navbar-inverse navbar-fixed-top">
@@ -111,14 +104,17 @@
 
     <div class="container theme-showcase" role="main">
 
-    	<!-- Main content area for this page -->
+      <!-- Banner -->
+      <div class="banner">
+        <a class="logo-big" href="https://www.presentationhs.org/robotics"><img class="img-responsive" src='./img/Banner.png' alt="Team 2135 banner"></a>
+      </div>
 
-      <div class="container-fluid">
-        <div class="jumbotron">
-          <h2>Main Page Content Goes Here!</h2>
-          <div class=container>
-            <p>This is the customized template for the 2135 web site. Use this as a base for new pages or for cutting/pasting header and footer code.</p>
-          </div>
+      <!-- Main content area for this page -->
+
+      <div class="jumbotron" style="margin: 0">
+        <h2>Main Page Content Goes Here!</h2>
+        <div>
+          <p >This is the customized template for the 2135 web site. Use this as a base for new pages or for cutting/pasting header and footer code.</p>
         </div>
       </div>
 
@@ -126,27 +122,32 @@
 
       <!-- Footer -->
     
-      <div class="footer">
-        <div class="container">
-          <div class="col-sm-1"></div>
-          <div class="col-sm-3">
-            <p class="contentHeader footer">Team 2135</p>
-            <a class="contentText footer" href="http://www.firstinspires.org">FIRST Robotics</a><br>
-            <a class="contentText footer" href="http://www.vexrobotics.org">VEX Robotics</a>
+    	<div class="row">
+        <div class="footer">
+          <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-3">
+              <p class="contentHeader footer">Team 2135</p>
+              <a class="contentText footer" href="http://www.firstinspires.org">FIRST Robotics</a><br>
+              <a class="contentText footer" href="http://www.presentationhs.org">Presentation HS</a>
+            </div>
+            <div class="col-sm-2">
+              <p class="contentHeader footer">About</p>
+              <a class="contentText footer" href="team2.html">The Team</a><br>
+              <a class="contentText footer" href="website2.html">Website</a>
+            </div>
+            <div class="col-sm-3">
+              <p class="contentHeader footer"></p>
+              <a class="contentText footer" href="leaders2.html">Leaders</a><br>
+              <a class="contentText footer" href="mentors2.html">Mentors</a>
+            </div>
+            <div class="col-sm-3">
+              <p class="contentHeader footer">Sponsor Us</p>
+                <a class="contentText footer" href="./img/2135-Yellow-small.png">
+                <button class="visitSite downloadInfo">Download Information</button></a>
+            </div>
           </div>
-          <div class="col-sm-3">
-            <p class="contentHeader footer">About</p>
-            <a class="contentText footer" href="team2.html">The Team</a> 
-            <a class="contentText footer" href="leaders2.html" style="margin-left: 48px;">Leaders</a><br>
-            <a class="contentText footer" href="website2.html">Website</a>
-            <a class="contentText footer" href="mentors2.html" style="margin-left: 61px;">Mentors</a>
-          </div>
-          <div class="col-sm-3">
-            <p class="contentHeader footer">Sponsor Us</p>
-            	<a class="contentText footer" href="./img/2135-Yellow-small.png">
-            	<button class="visitSite downloadInfo">Download Information</button></a>
-          </div>
-        </div>    
+        </div>
       </div>
 
       <!-- End of Footer -->
