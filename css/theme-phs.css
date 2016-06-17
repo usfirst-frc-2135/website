@@ -1,12 +1,19 @@
 /* CSS Document */
 
 body {
-	background-color: #1B3866;
+	background-color: #1B3866; /*Pres Blue */
 	padding-top: 50px;
 }
 
 .container {
 	max-width: 970px;
+}
+
+row {
+}
+
+h1 {
+	font-weight: 700;
 }
 
 .carousel, .carousel-inner, .item {
@@ -19,35 +26,38 @@ body {
 
 .footer {
 	margin-top: 0px;
-	background-color: #222;
-	margin: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #222222;
+	padding-top 5px;
+	padding-bottom: 5px;
 }
 
-.jumbotron {
-	margin-bottom: 0px;
+.page-header {
+	border-bottom-color: #1B3866;
+	margin-top: 30px;
+	color: #1B3866; 	/*Pres Blue */
 }
 
 .contentBlock {
-    margin-left: 0;
-    width: 940px;
-    height: 180px;
-    background-color: #fff
+    background-color: #ffffff;
+		padding: 15px;
 }
 
-.contentBlock.dark {
-    background-color: #F1F1F1
+.contentBlock.shaded {
+    background-color: #EEEEEE;
 }
 
 .contentHeader {
     margin-top: 45px;
     font-size: 16px;
     font-weight: 700;
-    color: #000
+    color: #000000;
 }
 
 .contentText {
     font-size: 13px;
-    width: 95%
+    width: 95%;
 }
 
 .contentHeader.footer {
@@ -74,18 +84,18 @@ body {
     background-color: #636a74;
     padding: 4px 10px;
     font-size: 13px;
-    color: #fff;
+    color: #ffffff;
     font-weight: 400;
     border-width: 1px;
     border-style: none;
-    -moz-border-top-colors: #fff;
-    -moz-border-right-colors: #fff;
-    -moz-border-bottom-colors: #fff;
-    -moz-border-left-colors: #fff;
+    -moz-border-top-colors: #ffffff;
+    -moz-border-right-colors: #ffffff;
+    -moz-border-bottom-colors: #ffffff;
+    -moz-border-left-colors: #ffffff;
     border-radius: 6px;
     -webkit-transition: background-color .25s,color .25s,transform .25s;
     transition: background-color .25s,color .25s,transform .25s;
-    border-color: #fff;
+    border-color: #ffffff;
 }
 
 .downloadInfo.downloadInfo:hover {
