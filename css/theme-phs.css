@@ -35,32 +35,32 @@ h1 {
 
 .page-header {
 	border-bottom-color: #1B3866;
-	margin-top: 30px;
+	margin-top: 15px;
 	color: #1B3866; 	/*Pres Blue */
 }
 
-.contentBlock {
+.content-block {
     background-color: #ffffff;
-		padding: 15px;
+		padding: 30px;
 }
 
-.contentBlock.shaded {
+.content-block.shaded {
     background-color: #EEEEEE;
 }
 
-.contentHeader {
+.content-header {
     margin-top: 45px;
     font-size: 16px;
     font-weight: 700;
     color: #000000;
 }
 
-.contentText {
+.content-text {
     font-size: 13px;
     width: 95%;
 }
 
-.contentHeader.footer {
+.content-header.footer {
   color: #9d9d9d;
   height: 30px;
   margin-top: 0px;
@@ -71,7 +71,7 @@ h1 {
   font-weight: 700;
 }
 
-.contentText.footer {
+.content-text.footer {
   color: #ffffff;
   font-size: 14px;
   margin-top: 0px;
@@ -80,7 +80,7 @@ h1 {
 	padding-bottom: 0px;
 }
 
-.visitSite.downloadInfo {
+.visit-site.download-info {
     background-color: #636a74;
     padding: 4px 10px;
     font-size: 13px;
@@ -98,7 +98,7 @@ h1 {
     border-color: #ffffff;
 }
 
-.downloadInfo.downloadInfo:hover {
+.download-info.download-info:hover {
     background-color: #eee;
     color: #636a74;
     transform: scale(1.0);
