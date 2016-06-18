@@ -47,11 +47,11 @@ div#slideshow ul#nav {
 		position: absolute;
 	}
 		div#slideshow ul#nav li#prev a {
-			background: url(../imgs/logos/prev-arrow2.png);
+			background: url(../old/imgs/logos/prev-arrow2.png);
 			z-index: 50;
 		}
 		div#slideshow ul#nav li#next a {
-			background: url(../imgs/logos/next-arrow2.png);
+			background: url(../old/imgs/logos/next-arrow2.png);
 			z-index: 50;
 		}
 

@@ -3,7 +3,7 @@
 
 /* ********** Layout CSS ****************** */
 body {
-	background-image: url(../imgs/layout/background.jpg);
+	background-image: url(../old/imgs/layout/background.jpg);
 	background-repeat: repeat-x;
 	background-color: #25335a;
 }
@@ -105,7 +105,7 @@ table#table_members {
 /* ********** Start Navigation Bar CSS ********* */
 
 td#nav_area {
-	background: url(../imgs/layout/nav-background.jpg) repeat-x;
+	background: url(../old/imgs/layout/nav-background.jpg) repeat-x;
 	z-index: 30;
 }
 ul.topnav {
@@ -134,7 +134,7 @@ ul.topnav li a {
 	z-index: 30;
 }
 ul.topnav li a:hover {
-	background: url(../imgs/layout/nav-hover.jpg) no-repeat center top;
+	background: url(../old/imgs/layout/nav-hover.jpg) no-repeat center top;
 	z-index: 30;
 }
 ul.topnav li span { /*--Drop down trigger styles--*/
