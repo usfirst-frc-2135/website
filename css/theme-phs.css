@@ -16,6 +16,10 @@ h1 {
 	font-weight: 700;
 }
 
+hr {
+	border-top: 1px solid #9E9E9E;
+}
+
 .carousel, .carousel-inner, .item {
 	max-width: 970px;
 }
