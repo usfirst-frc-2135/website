@@ -1,0 +1,78 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "files.insertFinalNewline": true,
+    "git.autofetch": true,
+    "html.format.wrapLineLength": 200,
+    "notebook.formatOnSave.enabled": true,
+    "redhat.telemetry.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "php.cache.location": "",
+    "php.format.rules.catchOnNewLine": true,
+    "php.format.rules.endWithNewLine": true,
+    "php.format.rules.finallyOnNewLine": true,
+    "php.format.rules.openBraceOnNewLineForAnonymousClasses": true,
+    "php.format.rules.openBraceOnNewLineForBlocks": true,
+    "php.format.rules.openBraceOnNewLineForFunctions": true,
+    "php.format.rules.elseOnNewLine": true,
+    "php.debug.port": 9003,
+    "php.debug.executablePath": "/Applications/MAMP/bin/php/php8.3.14/bin/php",
+    "php.executables": {
+        "v8.3.14": "/Applications/MAMP/bin/php/php8.3.14/bin/php"
+    },
+    "php.executablePath": "/Applications/MAMP/bin/php/php8.3.14/bin/php",
+    "php.validate.enable": true,
+    "php.validate.executablePath": "/Applications/MAMP/bin/php/php8.3.14/bin/php",
+    "php.version": "8.3.14",
+    "phpserver.browser": "",
+    "phpserver.ip": "localhost",
+    "phpserver.phpConfigPath": "/Applications/MAMP/bin/php/php8.3.14/conf/php.ini",
+    "phpserver.phpPath": "/Applications/MAMP/bin/php/php8.3.14/bin/php",
+    "phpserver.port": 3000,
+    "phpTools.language": "en",
+    "database-client.autoSync": true,
+    "eslint.format.enable": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.validate": [
+        "javascript",
+        "html",
+        "php"
+    ],
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "gcode.views.maxAutoRefresh": 100,
+    "gcode.views.stats.autoRefresh": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "intelephense.environment.includePaths": [
+        "./api",
+        "./inc",
+        "./scripts"
+    ],
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "js/ts.format.placeOpenBraceOnNewLineForFunctions": true,
+    "js/ts.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "intelephense.environment.documentRoot": "./",
+    "intelephense.format.braces": "allman",
+    "js/ts.preferences.organizeImports": {
+        "caseFirst": "lower",
+        "caseSensitivity": "caseSensitive"
+    },
+    "js/ts.format.enabled": false,
+    "js/ts.format.indentSwitchCase": false,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "js/ts.autoClosingTags.enabled": false,
+    "settingsSync.ignoredExtensions": [],
+    "intelephense.files.associations": [
+        
+        "*.php",
+        "*.phtml"
+    ],
+}
