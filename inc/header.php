@@ -4,14 +4,20 @@
 <html lang="en" data-bs-theme="light">
 
 <head>
-  <title><?php echo $title; ?></title>
-  <meta charset="UTF-8">
-  <meta name="description" content="Scouting Data Web">
-  <meta name="author" content="FRC 2135">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="./images/favicon.ico">
-  <link rel="icon" href="./images/favicon-32x32.png" type="image/png" sizes="32x32">
-  <link href="./external/bootstrap-5.3.6-dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="FRC 235 Web Site">
+  <meta name="author" content="FRC 2135">
+
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <title>Team 2135 - Presentation Invasion</title>
+
+  <!-- Core theme CSS (includes Bootstrap)-->
+  <link href="css/styles.css" rel="stylesheet" />
+  <!-- 2135 Customizations -->
+  <!-- <link href="css/theme-phs.css" rel="stylesheet"> -->
 
   <style type="text/css" media="screen">
     .form-check-input {
@@ -29,72 +35,96 @@
       color: #fff !important;
       background-color: #000;
     }
+
+    .navbar-brand {
+      margin-top: 0.0rem;
+      padding-top: 0.0rem;
+      height: 50px;
+    }
+
+    .navbar {
+      height: 60px;
+    }
   </style>
 </head>
 
 <body>
-  <!-- Create collapsible navbar and navigation buttons -->
+
+  <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
-    <a class="navbar-brand text-white" href="./index.php">
-      <img src="./images/favicon-32x32.png" alt="Logo" width="24" height="24" class="d-inline-block align-text-top">
-      <span id="navbarEventCode"> ????</span>
-    </a>
-    <div class="nav-item nav-item-dark align-left me-auto">
-      <img id="modeSwitch" src="./images/icons8-moon-50.png" alt="Mode Switch" width="24" height="24">
+    <div class="navbar-brand">
+      <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#menuItems" aria-controls="menuItems" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="visually-hidden">Toggle navigation</span>
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="pull-left" href="home.php"><img src="img/2135-Yellow-sm.png" alt="2135-Logo"></a>
     </div>
-    <button class="navbar-toggler navbar-dark" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-      aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+    <div id="menuItems" class="collapse navbar-collapse">
+      <!-- <ul class="navbar-nav navbar-dark mr-auto"> -->
+      <ul class="nav nav-pills flex-column flex-sm-row">
 
-    <div id="navbarCollapse" class="collapse navbar-collapse">
-      <ul class="navbar-nav navbar-dark mr-auto">
-        <ul class="nav nav-pills flex-column flex-sm-row">
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+          <ul class="dropdown-menu bg-dark">
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_team.php">Team</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_outreach.php">Outreach</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_leaders.php">Leaders</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_mentors.php">Mentors</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_awards.php">Awards</a></li>
+          </ul>
+        </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Teams</a>
-            <ul class="dropdown-menu bg-dark">
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./pitStatus.php">Pit Status</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./teamLookup.php">Team Lookup</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./pitPhotoUpload.php">Photo Upload</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./pitForm.php">Pit Scouting</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./pitData.php">Pit Data</a></li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">FIRST</a>
+          <ul class="dropdown-menu bg-dark">
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_overview.php">Overview</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2026-rebuilt.php">2026 Rebuilt</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2025-reefscape.php">2025 Reefscape</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2024-crescendo.php">2024 Crescendo</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2023-charged_up.php">2023 Charged Up</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2022-rapid_react.php">2022 Rapid React</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2020-infinite_recharge.php">2020 Infinite Recharge</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2019-deepspace.php">2019 Destination: Deep Space</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2018-powerup.php">2018 Power Up</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_2017-steamworks.php">2017 Steamworks</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="first_earlier.php">Previous Games</a></li>
+          </ul>
+        </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Matches</a>
-            <ul class="dropdown-menu bg-dark">
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./matchQrScanner.php">QR Scanner</a></li>
-              <!-- <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./matchFormReefscape.php">Match Form</a></li> -->
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./matchData.php">Match Data</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./rebuiltFuelEstimates.php">Fuel Estimates</a></li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Media</a>
+          <ul class="dropdown-menu bg-dark">
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="media_photos.php">Photos</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="media_videos.php">Videos</a></li>
+          </ul>
+        </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Strategy</a>
-            <ul class="dropdown-menu bg-dark">
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./strategicSchedule.php">Strategic Schedule</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./strategicForm.php">Strategic Scouting</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./strategicData.php">Strategic Data</a></li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
+          <ul class="dropdown-menu bg-dark">
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_calendar.php">Calendar</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_meetings.php">Meetings</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_teamhandbook.php">Team Handbook</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_safetymanual.php">Safety Manual</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_teamwear.php">Teamwear</a></li>
+          </ul>
+        </li>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Event</a>
-            <ul class="dropdown-menu bg-dark">
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./matchSheet.php">Match Sheet</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./eventAverages.php">Event Averages</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./eventCoprData.php">Event COPRs</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" data-bs-toggle="pill" href="./teamCompare.php">Team Compare </a></li>
-            </ul>
-          </li>
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support</a>
+          <ul class="dropdown-menu bg-dark">
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_sponsors.php">Sponsors</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_fundraising.php">Fundraising</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_wishlist.php">Wishlist</a></li>
+            <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_giving.php">Giving</a></li>
+          </ul>
+        </li>
 
-        </ul>
+        <li><a href="blog.php" class="nav-link text-white-50 text-end text-sm-start">Blog</a></li>
+        <li><a href="contact.php" class="nav-link text-white-50 text-end text-sm-start">Contact</a></li>
       </ul>
-    </div>
-
+      <!-- </ul> -->
+    </div><!--/.nav-collapse -->
   </nav>
 
   <script>
@@ -102,7 +132,6 @@
     const currentLocation = location.href;
     const items = document.querySelectorAll("a");
     const length = items.length;
-    let frcEventCode = null;
 
     for (let i = 0; i < items.length; i++) {
       let menuLink = items[i];
@@ -116,47 +145,4 @@
         menuLink.classList.add("text-secondary");
       }
     }
-
-    function selectDarkLightMode() {
-      let mode = localStorage.getItem('dark-light');
-      if (mode == 'dark') {
-        document.documentElement.setAttribute('data-bs-theme', 'dark');
-        document.getElementById('modeSwitch').src = './images/icons8-sun-50.png';
-      } else {
-        document.documentElement.setAttribute('data-bs-theme', 'light');
-        document.getElementById('modeSwitch').src = './images/icons8-moon-50.png';
-      }
-    }
-
-    //
-    // Update navbar with the event code if available
-    //
-    document.addEventListener("DOMContentLoaded", function() {
-      // Load dark
-      selectDarkLightMode();
-
-      // Update the navbar with the event code
-      $.post("api/dbAPI.php", {
-        getDBStatus: true
-      }, function(dbStatus) {
-        console.log("=> getDBStatus");
-        let jDbStatus = JSON.parse(dbStatus);
-        if (jDbStatus["server"] !== "") {
-          $.get("api/dbAPI.php", {
-            getEventCode: true
-          }, function(eventCode) {
-            frcEventCode = eventCode.trim();
-            console.log("=> index: getEventCode: " + frcEventCode + "\n");
-            document.getElementById("navbarEventCode").innerText = frcEventCode;
-          });
-        } else {
-          console.warn("DB server undefined -- cannot retrieve event code!");
-        }
-      });
-    });
-
-    document.getElementById('modeSwitch').addEventListener('click', () => {
-      localStorage.setItem('dark-light', document.documentElement.getAttribute('data-bs-theme') == 'dark' ? 'light' : 'dark');
-      selectDarkLightMode();
-    })
   </script>

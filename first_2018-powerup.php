@@ -1,0 +1,53 @@
+<?php
+$title = 'FRC 2135 - Presentation Invasion';
+require 'inc/header.php';
+?>
+
+<div class="container theme-showcase" role="main">
+
+  <!-- Main content area for this page -->
+
+  <div class="row content-block" style="margin: 0">
+    <div class="page-header">
+      <h1>2018 Power Up</h1>
+    </div>
+    <div>
+      <h3>FIRST POWER UP - The Game</h3>
+    </div>
+    <div>
+      <p>
+        In FIRST Power Up, two alliances of three teams are trapped in an 8bit video game and must use power cubes to defeat the boss! To gain points, alliances can gain ownership of the scale or
+        switches by delivering power cubes to tip them in their favor. They can also exchange power cubes for power ups, which provide a timed advantage during the match. The three power ups that
+        can be played are Force, Boost, and Levitate. At the end of the match, alliances can gain more points by parking on the scale platform or climbing to face the boss. The alliance with the
+        highest score at the end of the match defeats the boss and wins!
+      </p>
+    </div>
+  </div>
+
+  <div class="row content-block shaded" style="margin: 0">
+    <div>
+      <h3>Game Field</h3>
+    </div>
+    <div>
+      <img class="img-responsive" width="880" src="img/first_2018-powerup/PowerUp_Field.jpg" alt="Power Up field">
+    </div>
+  </div>
+
+  <div class="row content-block" style="margin: 0">
+    <div>
+      <h3>Game Reveal Animation</h3>
+    </div>
+    <div class="ratio ratio-16x9">
+      <iframe class="" src="https://www.youtube.com/embed/HZbdwYiCY74" allowfullscreen></iframe>
+      <br><br>
+      <a href="https://youtu.be/HZbdwYiCY74">FIRST POWER UP Game Reveal</a>
+    </div>
+  </div>
+
+  <!-- End of Main content area -->
+
+</div> <!-- /container for theme-showcase -->
+
+<?php include 'inc/footer.php'; ?>
+
+</html>

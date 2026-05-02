@@ -1,0 +1,63 @@
+<?php
+$title = 'FRC 2135 - Presentation Invasion';
+require 'inc/header.php';
+?>
+
+<div class="container theme-showcase" role="main">
+
+  <!-- Main content area for this page -->
+
+  <div class="row content-block" style="margin: 0">
+    <div class="page-header">
+      <h1>2024 Crescendo</h1>
+    </div>
+    <div>
+      <h3>CRESCENDO - The Game</h3>
+    </div>
+    <div class="page-header">
+      <h4>Presented by Haas, the game is themed around music and concerts as part of the overall 2023-24 FIRST in Show season.</h4>
+    </div>
+    <div>
+      <p>
+        Gameplay mainly consists of robots scoring foam rings, called Notes, into Speakers (goals) on their end of the field. Alliances can amplify their Notes (get more points) by placing Notes in
+        the Amp. At the end of the match, the robots move to truss structures called Stages and climb on metal chains to earn additional points.
+      </p>
+    </div>
+  </div>
+
+  <div class="row content-block shaded" style="margin: 0">
+    <div>
+      <h3>Game Field</h3>
+    </div>
+    <div>
+      <img class="img-responsive" width="880" src="img/first_2024-crescendo/crescendo_field.jpg" alt="Crescendo field">
+    </div>
+  </div>
+
+  <div class="row content-block" style="margin: 0">
+    <div>
+      <h3>Game Field - 3D</h3>
+    </div>
+    <div>
+      <img class="img-responsive" width="880" src="img/first_2024-crescendo/crescendo_field_3d.png" alt="Crescendo 3D field">
+    </div>
+  </div>
+
+  <div class="row content-block shaded" style="margin: 0">
+    <div>
+      <h3>Game Reveal Animation</h3>
+    </div>
+    <div class="ratio ratio-16x9">
+      <iframe class="" src="https://www.youtube.com/embed/9keeDyFxzY4" allowfullscreen></iframe>
+      <br><br>
+      <a href="https://youtu.be/9keeDyFxzY4">FIRST Crescendo Game Reveal</a>
+    </div>
+  </div>
+
+  <!-- End of Main content area -->
+
+</div> <!-- /container for theme-showcase -->
+
+<?php include 'inc/footer.php'; ?>
+
+</html>

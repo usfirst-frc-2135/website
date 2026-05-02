@@ -1,0 +1,63 @@
+<?php
+$title = 'FRC 2135 - Presentation Invasion';
+require 'inc/header.php';
+?>
+
+<div class="container theme-showcase" role="main">
+
+  <!-- Main content area for this page -->
+
+  <div class="row content-block" style="margin: 0">
+    <div class="page-header">
+      <h1>2024 Crescendo</h1>
+    </div>
+    <div>
+      <h3>REEFSCAPE - The Game</h3>
+    </div>
+    <div class="page-header">
+      <h4>Presented by Haas, the game is themed around strengthening a fragile underwater ecosystem as part of the 2024-25 FIRST DIVE season.</h4>
+    </div>
+    <div>
+      <p>
+        Gameplay revolves around a coral reef. Alliances harvest algae from the reef and seed coral to build up the reef. Algae can be placed in the processor or net for additional points. At the
+        end of the match, the robots ascend to the ocean surface by moving to truss structures called Barges and climbing on hanging metal cages to earn additional points.
+      </p>
+    </div>
+  </div>
+
+  <div class="row content-block shaded" style="margin: 0">
+    <div>
+      <h3>Game Field</h3>
+    </div>
+    <div>
+      <img class="img-responsive" width="880" src="img/first_2025-reefscape/reefscape_field.png" alt="Reefscape field">
+    </div>
+  </div>
+
+  <div class="row content-block" style="margin: 0">
+    <div>
+      <h3>Game Field - 3D</h3>
+    </div>
+    <div>
+      <img class="img-responsive" width="880" src="img/first_2025-reefscape/reefscape_field_3d.png" alt="Reefscape 3D field">
+    </div>
+  </div>
+
+  <div class="row content-block shaded" style="margin: 0">
+    <div>
+      <h3>Game Reveal Animation</h3>
+    </div>
+    <div class="ratio ratio-16x9">
+      <iframe class="" src="https://www.youtube.com/embed/YWbxcjlY9JY" allowfullscreen></iframe>
+      <br><br>
+      <a href="https://youtu.be/9keeDyFxzY4">FIRST Reefscape Game Reveal</a>
+    </div>
+  </div>
+
+  <!-- End of Main content area -->
+
+</div> <!-- /container for theme-showcase -->
+
+<?php include 'inc/footer.php'; ?>
+
+</html>
