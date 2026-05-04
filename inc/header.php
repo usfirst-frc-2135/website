@@ -1,7 +1,7 @@
 <?php header('Access-Control-Allow-Origin: *'); ?>
 
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="light">
+<html lang="en" data-bs-theme="dark">
 
 <head>
   <meta charset="utf-8">
@@ -51,7 +51,7 @@
 <body>
 
   <!-- Fixed navbar -->
-  <nav class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
+  <nav class="navbar navbar-expand-sm bg-dark sticky-top" data-bs-theme="dark">
     <div class="navbar-brand">
       <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#menuItems" aria-controls="menuItems" aria-expanded="false" aria-label="Toggle navigation">
         <span class="visually-hidden">Toggle navigation</span>
@@ -60,8 +60,8 @@
       <a class="pull-left" href="home.php"><img src="img/2135-Yellow-sm.png" alt="2135-Logo"></a>
     </div>
     <div id="menuItems" class="collapse navbar-collapse">
-      <!-- <ul class="navbar-nav navbar-dark mr-auto"> -->
-      <ul class="nav nav-pills flex-column flex-sm-row">
+      <!-- <ul class="navbar-nav mr-auto" data-bs-theme="dark"> -->
+      <ul class="nav nav-pills flex-column flex-sm-row" data-bs-theme="dark">
 
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About</a>

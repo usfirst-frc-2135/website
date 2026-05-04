@@ -1,32 +1,12 @@
 /* CSS Document */
 
-body {
-	background-color: #1B3866; /*Pres Blue */
-	padding-top: 50px;
-}
-
-.container {
-	max-width: 970px;
-}
-
-row {
-}
-
 h1 {
 	font-weight: 700;
 }
 
-hr {
-	border-top: 1px solid #9E9E9E;
-}
-
-.carousel, .carousel-inner, .item {
+/* .carousel, .carousel-inner, .item {
 	max-width: 970px;
-}
-
-.navbar-brand {
-	height: 50px;
-}
+} */
 
 .footer {
 	margin-top: 0px;
