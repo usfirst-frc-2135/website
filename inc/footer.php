@@ -24,8 +24,9 @@
 <!-- End of Footer -->
 
 <!-- Bootstrap core JavaScript -->
-<!-- <script src="external/jquery/jquery-3.7.1.min.js"></script> -->
-<script src="external/bootstrap-5.3.6-dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Core theme JS-->
+<script src="js/scripts.js"></script>
 
 </body>
 
