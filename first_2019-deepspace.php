@@ -30,7 +30,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2019-deepspace/deepspace_field.jpg" alt="Deep Space field">
+      <img class="img-fluid" width="880" src="img/first_2019-deepspace/deepspace_field.jpg" alt="Deep Space field">
     </div>
   </div>
 

@@ -22,10 +22,10 @@ require 'inc/header.php';
         the mentors. Jeanelle was announced as a FIRST Leadership District Semi-Finalist at the 2026 Contra Costa District!
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity"> </div>
   </div>
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous"> </div>
     <div>
       <h2>2026 Contra Costa District Autonomous Award</h2>
       <p>
@@ -41,10 +41,10 @@ require 'inc/header.php';
         The Creativity Award celebrates a creative robotic component, concept or attribute that enhances strategy of play that was intentionally designed and not discovered.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity"> </div>
   </div>
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality"> </div>
     <div>
       <h2>2025 Sacramento Regional Quality Award</h2>
       <p>
@@ -59,11 +59,11 @@ require 'inc/header.php';
         The Quality Award celebrates machine robustness in concept and fabrication.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner"> </div>
     <div>
       <h2>2023 Madtown Throwdown Winner</h2>
       <p>
@@ -80,11 +80,11 @@ require 'inc/header.php';
         competition. Team 2135 won this award with Team 5940 - BREAD, Team 1678 - Citrus Circuits, and Team 5458 - Digital Minds, going undefeated in the Elimination Round.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2023_DeansList.jpg" alt="2023_DeansList"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2023_DeansList.jpg" alt="2023_DeansList"> </div>
     <div>
       <h2>2023 Dean's List Award Finalist</h2>
       <p>
@@ -101,11 +101,11 @@ require 'inc/header.php';
         The Team Sustainability Award celebrates and recognizes a team which has developed a sustainable program in order to define, manage, and achieve the team’s ongoing objectives.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering"> </div>
     <div>
       <h2>2022 Capital City Classic Excellence in Engineering Award</h2>
       <p>
@@ -123,11 +123,11 @@ require 'inc/header.php';
         which made it to the Finals.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists"> </div>
     <div>
       <h2>2022 Ventura County Regional Finalists</h2>
       <p>
@@ -144,11 +144,11 @@ require 'inc/header.php';
         The Industrial Design Award celebrates the team that demonstrates industrial design principles, striking a balance between form, function, and aesthetics.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner"> </div>
     <div>
       <h2>2021 CalGames Winner</h2>
       <p>
@@ -165,11 +165,11 @@ require 'inc/header.php';
         The System Design Award recognizes an exceptional system design for a robot. Our robot, Grogu, won this award for its double wide shooter that can shoot two power cells at a time.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2021_DeansList.jpg" alt="2021_DeansList"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2021_DeansList.jpg" alt="2021_DeansList"> </div>
     <div>
       <h2>2021 Dean's List Award Finalist</h2>
       <p>
@@ -187,11 +187,11 @@ require 'inc/header.php';
         written by the students, explaining how he inspired and motivated them, and how he empowers student growth and learning.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
-    <div class="col-sm-4"> <img class="img-responsive" src="img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit"> </div>
+    <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit"> </div>
     <div>
       <h2>2019 Central Valley Regional Spirit Award</h2>
       <p>
@@ -211,7 +211,7 @@ require 'inc/header.php';
         and travelled to the Houston Championships to compete against other finalists.
       </p>
     </div>
-    <div class="col-sm-4 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2018_DeansList.jpg" alt="2018_DeansList"> </div>
+    <div class="col-sm-4 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2018_DeansList.jpg" alt="2018_DeansList"> </div>
   </div>
 
   <div class="row content-block" style="margin: 0">
@@ -229,7 +229,7 @@ require 'inc/header.php';
   </div>
 
   <div class="row content-block shaded" style="margin: 0">
-    <div class="col-sm-4"> <img class="img-responsive" src="img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner"> </div>
+    <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner"> </div>
     <div>
       <h2>2017 Central Valley Regional Winners</h2>
       <p>
@@ -252,11 +252,11 @@ require 'inc/header.php';
         also the structure and "hands on" approach of our team.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor"> </div>
   </div>
 
   <div class="row content-block shaded" style="margin: 0">
-    <div class="col-sm-4"> <img class="img-responsive" src="img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner"> </div>
+    <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner"> </div>
     <div>
       <h2>2016 Chezy Champs Winners</h2>
       <p>
@@ -280,11 +280,11 @@ require 'inc/header.php';
         to simply encourage them in their next round, we always show displayed professionalism.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism"> </div>
   </div>
 
   <div class="row content-block shaded" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit"> </div>
     <div>
       <h2>2014 Madtown Throwdown Spirit Award</h2>
       <p>
@@ -308,11 +308,11 @@ require 'inc/header.php';
         the Championship in St. Louis a few months earlier.
       </p>
     </div>
-    <div class="col-sm-4 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist"> </div>
+    <div class="col-sm-4 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist"> </div>
   </div>
 
   <div class="row content-block shaded" style="margin: 0">
-    <div class="col-sm-3"> <img class="img-responsive" src="img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner"> </div>
+    <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner"> </div>
     <div>
       <h2>2014 FIRST Central Valley Regional Winners</h2>
       <p>
@@ -334,7 +334,7 @@ require 'inc/header.php';
         Regional held during March of the 2006-2007 school year.
       </p>
     </div>
-    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration"> </div>
+    <div class="col-sm-3 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration"> </div>
   </div>
 
   <div class="row content-block shaded" style="margin: 0">

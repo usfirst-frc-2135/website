@@ -24,13 +24,13 @@ require 'inc/header.php';
           <div class="col-sm-1"></div>
           <div class="col-sm-4">
             <a href="https://www.pandaexpress.com">
-              <img class="img-responsive" src="img/support_fundraising/fundraising_panda_express-logo.jpg" alt>
+              <img class="img-fluid" src="img/support_fundraising/fundraising_panda_express-logo.jpg" alt>
             </a>
           </div>
           <div class="col-sm-2"></div>
           <div class="col-sm-4">
             <a href="http://www.chipotle.com">
-              <img class="img-responsive" src="img/support_fundraising/fundraising_chipotle_logo.jpg" alt>
+              <img class="img-fluid" src="img/support_fundraising/fundraising_chipotle_logo.jpg" alt>
             </a>
           </div>
           <div class="col-sm-1"></div>

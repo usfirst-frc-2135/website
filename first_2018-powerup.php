@@ -29,7 +29,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2018-powerup/PowerUp_Field.jpg" alt="Power Up field">
+      <img class="img-fluid" width="880" src="img/first_2018-powerup/PowerUp_Field.jpg" alt="Power Up field">
     </div>
   </div>
 

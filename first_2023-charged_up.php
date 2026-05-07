@@ -31,7 +31,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2023-charged_up/charged_up_field.png" alt="Charged Up field">
+      <img class="img-fluid" width="880" src="img/first_2023-charged_up/charged_up_field.png" alt="Charged Up field">
     </div>
   </div>
 
@@ -40,7 +40,7 @@ require 'inc/header.php';
       <h3>Game Field - 3D</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2023-charged_up/charged_up_field_3d.png" alt="Charged Up 3D field">
+      <img class="img-fluid" width="880" src="img/first_2023-charged_up/charged_up_field_3d.png" alt="Charged Up 3D field">
     </div>
   </div>
 

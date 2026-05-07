@@ -30,7 +30,7 @@ require 'inc/header.php';
     <div class="col-sm-6 pull-right">
       <p>
         Follow Us:
-        <a href="https://www.instagram.com/frc2135/?hl=en"><img class="img-responsive" src="img/contact/contact_Instagram.jpg" height="100" width="100" alt></a>
+        <a href="https://www.instagram.com/frc2135/?hl=en"><img class="img-fluid" src="img/contact/contact_Instagram.jpg" height="100" width="100" alt></a>
         Instagram: <a href="https://www.instagram.com/frc2135/?hl=en">@frc2135</a>
       </p>
     </div>

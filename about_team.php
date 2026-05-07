@@ -31,7 +31,7 @@ require 'inc/header.php';
       <div class="row">
         <div class="col-sm-2"></div>
         <div class="col-sm-8 media d-flex-middle">
-          <img class="img-responsive" src="img/about_team/team/history_2018_2.jpg" alt="2018 Team MTTD">
+          <img class="img-fluid" src="img/about_team/team/history_2018_2.jpg" alt="2018 Team MTTD">
         </div>
         <div class="col-sm-2"></div>
       </div>
@@ -72,8 +72,8 @@ require 'inc/header.php';
 
     <em><strong>Robot Name: Toph</strong></em>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2026_Toph.jpg" alt="2026 Toph"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_team_2026.jpg" alt="2026 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2026_Toph.jpg" alt="2026 Toph"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_team_2026.jpg" alt="2026 Team"> </div>
     </div>
     <div>
       <hr>
@@ -96,8 +96,8 @@ require 'inc/header.php';
       1671 - Buchanan Bird Brains, Team 2073 - Eagleforce and Team 841B - The BioMechs. We had a great run in the Elimination Round, playing to Round 5 Match 13, barely missing the Finals!</p>
     <em><strong>Robot Name: Nemo</strong></em>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2025_Nemo.jpg" alt="2025 Nemo"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2025.jpg" alt="2025 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2025_Nemo.jpg" alt="2025 Nemo"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2025.jpg" alt="2025 Team"> </div>
     </div>
     <div>
       <hr>
@@ -119,8 +119,8 @@ require 'inc/header.php';
       4th-seeded alliance. A tremendous experience for the team!</p>
     <em><strong>Robot Name: Apollo</strong></em>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2024_Apollo-2.jpg" alt="2024 Apollo"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2024.jpg" alt="2024 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2024_Apollo-2.jpg" alt="2024 Apollo"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2024.jpg" alt="2024 Team"> </div>
     </div>
     <div>
       <hr>
@@ -143,8 +143,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Slink</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2023_Slink.jpg" alt="2023 Slink"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2023.jpg" alt="2023 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2023_Slink.jpg" alt="2023 Slink"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2023.jpg" alt="2023 Team"> </div>
     </div>
     <div>
       <hr>
@@ -169,8 +169,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Festus</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2022_Festus.jpg" alt="2022 Festus"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_team_2022.jpg" alt="2022 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2022_Festus.jpg" alt="2022 Festus"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_team_2022.jpg" alt="2022 Team"> </div>
     </div>
     <div>
       <hr>
@@ -188,8 +188,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Grogu</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2021_Grogu.jpg" alt="2021 Grogu"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2021_team_fall.jpg" alt="2021 Fall Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2021_Grogu.jpg" alt="2021 Grogu"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2021_team_fall.jpg" alt="2021 Fall Team"> </div>
     </div>
     <div>
       <hr>
@@ -216,7 +216,7 @@ require 'inc/header.php';
       advanced to become a <strong>Dean’s List Finalist</strong>!
     </p>
     <div class="row content-block">
-      <div class="col-sm-11 media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2021.png" alt="2021 Team"> </div>
+      <div class="col-sm-11 media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2021.png" alt="2021 Team"> </div>
     </div>
     <div>
       <hr>
@@ -232,8 +232,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Mandi</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2020_Mandi.jpg" alt="2020 Mandi"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2020.jpg" alt="2020 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2020_Mandi.jpg" alt="2020 Mandi"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2020.jpg" alt="2020 Team"> </div>
     </div>
     <div>
       <hr>
@@ -257,8 +257,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Nebula</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2019_Nebula_3.jpg" alt="2019 Nebula"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2019.jpg" alt="2019 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2019_Nebula_3.jpg" alt="2019 Nebula"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2019.jpg" alt="2019 Team"> </div>
     </div>
     <div>
       <hr>
@@ -284,8 +284,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Felix</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2018_Felix_2.jpg" alt="2018 Felix"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2018_3.jpg" alt="2018 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2018_Felix_2.jpg" alt="2018 Felix"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2018_3.jpg" alt="2018 Team"> </div>
     </div>
     <div>
       <hr>
@@ -312,8 +312,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Crush</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2017_Crush.jpg" alt="2017 Crush"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_team_2017.jpg" alt="2017 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2017_Crush.jpg" alt="2017 Crush"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_team_2017.jpg" alt="2017 Team"> </div>
     </div>
     <div>
       <hr>
@@ -336,8 +336,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Max (Maximus the Stronghold)</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2016_Max.jpg" alt="2016 Max"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2016_3.jpg" alt="2016 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2016_Max.jpg" alt="2016 Max"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2016_3.jpg" alt="2016 Team"> </div>
     </div>
     <div>
       <hr>
@@ -356,8 +356,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Archie</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2015_Archie.jpg" alt="2015 Archie"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2015_2.jpg" alt="2015 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2015_Archie.jpg" alt="2015 Archie"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2015_2.jpg" alt="2015 Team"> </div>
     </div>
     <div>
       <hr>
@@ -379,8 +379,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Atlas</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2014_Atlas.jpg" alt="2014 Atlas"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2014_3.jpg" alt="2014 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2014_Atlas.jpg" alt="2014 Atlas"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2014_3.jpg" alt="2014 Team"> </div>
     </div>
     <div>
       <hr>
@@ -398,8 +398,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Steve (Steve Rogers)</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2013_SteveRogers_2.jpg" alt="2013 Steve"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2013.jpg" alt="2013 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2013_SteveRogers_2.jpg" alt="2013 Steve"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2013.jpg" alt="2013 Team"> </div>
     </div>
     <div>
       <hr>
@@ -415,8 +415,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Mo (M-O from Wall-E)</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-5 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2012_Moe_4.jpg" alt="2012 Mo"> </div>
-      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
+      <div class="col-sm-5 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2012_Moe_4.jpg" alt="2012 Mo"> </div>
+      <div class="col-sm-7 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
     </div>
     <div>
       <hr>
@@ -430,8 +430,8 @@ require 'inc/header.php';
       <br><br>
     </p>
     <div class="row content-block">
-      <div class="col-sm-4 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2011.jpg" alt="2011 Robot"> </div>
-      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2011.jpg" alt="2011 Team"> </div>
+      <div class="col-sm-4 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2011.jpg" alt="2011 Robot"> </div>
+      <div class="col-sm-8 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2011.jpg" alt="2011 Team"> </div>
     </div>
     <div>
       <hr>
@@ -447,8 +447,8 @@ require 'inc/header.php';
       <br><br>
     </p>
     <div class="row content-block">
-      <div class="col-sm-6 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2010.jpg" alt="2010 Robot"> </div>
-      <div class="col-sm-6 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2010.jpg" alt="2010 Team"> </div>
+      <div class="col-sm-6 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2010.jpg" alt="2010 Robot"> </div>
+      <div class="col-sm-6 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2010.jpg" alt="2010 Team"> </div>
     </div>
     <div>
       <hr>
@@ -464,8 +464,8 @@ require 'inc/header.php';
       <em><strong>Robot Name: Skippy</strong></em>
     </p>
     <div class="row content-block">
-      <div class="col-sm-6 media d-flex-middle"> <img class="img-responsive" src="img/about_team/robots/robots_2009_Skippy.jpg" alt="2009 Skippy"> </div>
-      <div class="col-sm-6 pull-right media d-flex-middle"> <img class="img-responsive" src="img/about_team/team/history_2009.jpg" alt="2009 Team"> </div>
+      <div class="col-sm-6 media d-flex-middle"> <img class="img-fluid" src="img/about_team/robots/robots_2009_Skippy.jpg" alt="2009 Skippy"> </div>
+      <div class="col-sm-6 pull-right media d-flex-middle"> <img class="img-fluid" src="img/about_team/team/history_2009.jpg" alt="2009 Team"> </div>
     </div>
     <div>
       <hr>

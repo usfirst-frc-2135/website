@@ -32,7 +32,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2020-infinite_recharge/infinite_recharge_field_flat.jpg" alt="Deep Space field">
+      <img class="img-fluid" width="880" src="img/first_2020-infinite_recharge/infinite_recharge_field_flat.jpg" alt="Deep Space field">
     </div>
   </div>
 
@@ -41,7 +41,7 @@ require 'inc/header.php';
       <h3>Game Field - 3D</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2020-infinite_recharge/infinite_recharge_field_3d.jpg" alt="Deep Space field">
+      <img class="img-fluid" width="880" src="img/first_2020-infinite_recharge/infinite_recharge_field_3d.jpg" alt="Deep Space field">
     </div>
   </div>
 

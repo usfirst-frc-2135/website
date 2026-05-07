@@ -31,7 +31,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2022-rapid_react/rapid_react_field.png" alt="Rapid React field">
+      <img class="img-fluid" width="880" src="img/first_2022-rapid_react/rapid_react_field.png" alt="Rapid React field">
     </div>
   </div>
 
@@ -40,7 +40,7 @@ require 'inc/header.php';
       <h3>Game Field - 3D</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2022-rapid_react/rapid_react_field_3d.png" alt="Rapid React 3D field">
+      <img class="img-fluid" width="880" src="img/first_2022-rapid_react/rapid_react_field_3d.png" alt="Rapid React 3D field">
     </div>
   </div>
 

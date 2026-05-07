@@ -27,12 +27,12 @@ require 'inc/header.php';
       </p>
     </div>
     <div class="col-sm-4">
-      <img class="img-responsive" src="img/first_overview/FIRST_Vertical_RGB.jpg" width="175" alt="FIRST Logo">
+      <img class="img-fluid" src="img/first_overview/FIRST_Vertical_RGB.jpg" width="175" alt="FIRST Logo">
     </div>
   </div>
   <div class="row content-block" style="margin: 0">
     <div class="col-sm-4">
-      <img class="img-responsive" src="img/first_overview/FIRSTRobotics_IconVert_RGB.jpg" width="250" alt="FRC Logo">
+      <img class="img-fluid" src="img/first_overview/FIRSTRobotics_IconVert_RGB.jpg" width="250" alt="FRC Logo">
     </div>
     <div class="col-sm-8">
       <p>

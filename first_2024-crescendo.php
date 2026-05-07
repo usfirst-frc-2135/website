@@ -30,7 +30,7 @@ require 'inc/header.php';
       <h3>Game Field</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2024-crescendo/crescendo_field.jpg" alt="Crescendo field">
+      <img class="img-fluid" width="880" src="img/first_2024-crescendo/crescendo_field.jpg" alt="Crescendo field">
     </div>
   </div>
 
@@ -39,7 +39,7 @@ require 'inc/header.php';
       <h3>Game Field - 3D</h3>
     </div>
     <div>
-      <img class="img-responsive" width="880" src="img/first_2024-crescendo/crescendo_field_3d.png" alt="Crescendo 3D field">
+      <img class="img-fluid" width="880" src="img/first_2024-crescendo/crescendo_field_3d.png" alt="Crescendo 3D field">
     </div>
   </div>
 
