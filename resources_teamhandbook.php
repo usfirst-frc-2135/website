@@ -12,16 +12,14 @@ require 'inc/header.php';
       <h1>Student Team Handbook</h1>
     </div>
     <div>
-      <ul><a href="./docs/2025-26_FRC2135_Student_Team_Handbook.pdf">Student Team Handbook - direct link</a></ul>
+      <ul><a href="./docs/2025-26_FRC2135_Student_Team_Handbook.pdf">Student Team Handbook - direct link for unsupported browsers</a></ul>
     </div>
-    <div class="" style="margin: 0">
+    <object width="100%" height="1100" type="application/pdf" title="Team Handbook" data="./docs/2025-26_FRC2135_Student_Team_Handbook.pdf">
       <p>
-        Some browsers (Safari on the iOS) do not allow the full PDF document to be viewed within the web page as below.
+        It looks like your browser doesn't support embedded PDFs.
+        No problem! You can <a href="./docs/2025-26_FRC2135_Student_Team_Handbook.pdf">download it directly</a> instead.
       </p>
-    </div>
-    <div>
-      <embed width="870" height="1100" src="./docs/2025-26_FRC2135_Student_Team_Handbook.pdf" type="application/pdf">
-    </div>
+    </object>
   </div>
 
   <!-- End of Main content area -->

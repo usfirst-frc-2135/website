@@ -12,16 +12,14 @@ require 'inc/header.php';
       <h1>Safety Manual</h1>
     </div>
     <div>
-      <ul><a href="./docs/2025-26_FRC2135_Safety_Manual.pdf">Safety Manual - direct link</a></ul>
+      <ul><a href="./docs/2025-26_FRC2135_Safety_Manual.pdf">Safety Manual - direct link for unsupported browsers</a></ul>
     </div>
-    <div class="" style="margin: 0">
+    <object width="100%" height="1100" type="application/pdf" title="Safety Manual" data="./docs/2025-26_FRC2135_Safety_Manual.pdf">
       <p>
-        Some browsers (Safari on the iOS) do not allow the full PDF document to be viewed within the web page as below.
+        It looks like your browser doesn't support embedded PDFs.
+        No problem! You can <a href="./docs/2025-26_FRC2135_Safety_Manual.pdf">download it directly</a> instead.
       </p>
-    </div>
-    <div>
-      <embed width="870" height="1100" src="./docs/2025-26_FRC2135_Safety_Manual.pdf" type="application/pdf">
-    </div>
+    </object>
   </div>
 
   <!-- End of Main content area -->
