@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Outreach';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Outreach</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Outreach</h1>
+    <hr>
     <div>
       <h2>How We Give Back</h2>
     </div>
@@ -60,22 +59,22 @@ require 'inc/header.php';
 
           <div class="carousel-inner" role="listbox">
             <div class="carousel-item active" role="option">
-              <img src="img/about_outreach/SteamFair1.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+              <img src="img/about_outreach/SteamFair1.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
             </div>
             <div class="carousel-item" role="option">
-              <img src="img/about_outreach/SteamFair2b.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+              <img src="img/about_outreach/SteamFair2b.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
             </div>
             <div class="carousel-item" role="option">
-              <img src="img/about_outreach/GirlsDay2.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_01">
+              <img src="img/about_outreach/GirlsDay2.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_01">
             </div>
             <div class="carousel-item" role="option">
-              <img src="img/about_outreach/GirlsDay3.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_01">
+              <img src="img/about_outreach/GirlsDay3.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_01">
             </div>
             <div class="carousel-item" role="option">
-              <img src="img/about_outreach/GirlsDay4.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_01">
+              <img src="img/about_outreach/GirlsDay4.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_01">
             </div>
             <div class="carousel-item" role="option">
-              <img src="img/about_outreach/Toys4Tots1.jpg" width="728" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_01">
+              <img src="img/about_outreach/Toys4Tots1.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_01">
             </div>
           </div>
 
@@ -98,5 +97,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

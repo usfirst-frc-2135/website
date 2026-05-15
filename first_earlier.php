@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Earlier Games';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Previous Games</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Previous Games</h1>
+    <hr>
 
     <div class="row content-block shaded" style="margin: 0">
       <div>
@@ -29,7 +28,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h3>2015 - RECYCLE RUSH</h3>
       </div>
@@ -61,7 +60,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h3>2013 - ULTIMATE ASCENT</h3>
       </div>
@@ -95,7 +94,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h3>2011 - LOGO MOTION</h3>
       </div>
@@ -131,7 +130,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h3>2009 - LUNACY</h3>
       </div>
@@ -167,7 +166,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h3>2007 - Rack &ldquo;N&rdquo; Roll</h3>
       </div>
@@ -190,5 +189,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

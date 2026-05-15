@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2026 Rebuilt';
 require 'inc/header.php';
 ?>
 
@@ -7,16 +7,15 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2026 Rebuilt</h1>
-    </div>
-    <div>
-      <h3>REBUILT - The Game</h3>
-    </div>
-    <div class="page-header">
-      <h4>REBUILT, presented by Haas, is part of the 2025-26 NEW AGE season. Teams use engineering skills and re-imagine the past. Every artifact uncovered holds a story from a previous FRC
-        challenge. </h4>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2026 Rebuilt</h1>
+    <hr>
+    <div class="fst-italic">
+      <h5>
+        REBUILT, presented by Haas, is part of the 2025-26 NEW AGE season. Teams use engineering skills and re-imagine the past. Every artifact uncovered holds a story from a previous FRC
+        challenge.
+      </h5>
+      <hr>
     </div>
     <div>
       <p>
@@ -35,7 +34,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Field - 3D</h3>
     </div>
@@ -50,9 +49,6 @@ require 'inc/header.php';
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/_fybREErgyM" allowfullscreen></iframe>
-      <br><br>
-
-      <a href="https://youtu.be/_fybREErgyM4">FIRST Rebuilt Game Reveal</a>
     </div>
   </div>
 
@@ -61,5 +57,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

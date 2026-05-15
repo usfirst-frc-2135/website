@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2024 Crescendo';
 require 'inc/header.php';
 ?>
 
@@ -7,15 +7,14 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2024 Crescendo</h1>
-    </div>
-    <div>
-      <h3>CRESCENDO - The Game</h3>
-    </div>
-    <div class="page-header">
-      <h4>Presented by Haas, the game is themed around music and concerts as part of the overall 2023-24 FIRST in Show season.</h4>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2024 Crescendo</h1>
+    <hr>
+    <div class="fst-italic">
+      <h5>
+        Presented by Haas, the game is themed around music and concerts as part of the overall 2023-24 FIRST in Show season.
+      </h5>
+      <hr>
     </div>
     <div>
       <p>
@@ -34,7 +33,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Field - 3D</h3>
     </div>
@@ -49,8 +48,6 @@ require 'inc/header.php';
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/9keeDyFxzY4" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/9keeDyFxzY4">FIRST Crescendo Game Reveal</a>
     </div>
   </div>
 
@@ -59,5 +56,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

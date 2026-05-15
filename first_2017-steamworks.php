@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2017 Steamworks';
 require 'inc/header.php';
 ?>
 
@@ -7,13 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2017 Steamworks</h1>
-    </div>
-    <div>
-      <h3>FIRST STEAMWORKS - The Game</h3>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2017 FIRST Steamworks</h1>
+    <hr>
     <div>
       <p>
         In FIRST STEAMWORKS, two, three-team alliances compete in their respective �adventurer clubs� to earn the most points by scoring fuel into the boiler to build up steam pressure, delivering
@@ -32,14 +28,12 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Reveal Animation</h3>
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/EMiNmJW7enI" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/EMiNmJW7enI">FIRST STEAMWORKS Game Reveal</a>
     </div>
   </div>
 
@@ -48,5 +42,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

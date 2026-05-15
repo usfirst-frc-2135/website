@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Meeting Info';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Meeting Info</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Meeting Info</h1>
+    <hr>
     <div>
       <h2>Off-season</h2>
     </div>
@@ -88,7 +87,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h2>Summer</h2>
     </div>
@@ -105,5 +104,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

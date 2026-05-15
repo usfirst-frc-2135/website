@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2022 Rapid React';
 require 'inc/header.php';
 ?>
 
@@ -7,15 +7,14 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2022 Rapid React</h1>
-    </div>
-    <div>
-      <h3>RAPID REACT - The Game</h3>
-    </div>
-    <div class="page-header">
-      <h4>Sponsored by The Boeing Company, the game is themed around transportation as part of the FIRST-wide FIRST Forward theme.</h4>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2022 Rapid React</h1>
+    <hr>
+    <div class="fst-italic">
+      <h5>
+        Sponsored by The Boeing Company, the game is themed around transportation as part of the FIRST-wide FIRST Forward theme.
+      </h5>
+      <hr>
     </div>
     <div>
       <p>
@@ -35,7 +34,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Field - 3D</h3>
     </div>
@@ -50,8 +49,6 @@ require 'inc/header.php';
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/LgniEjI9cCM" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/LgniEjI9cCM">FIRST Rapid React Game Reveal</a>
     </div>
   </div>
 
@@ -60,5 +57,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

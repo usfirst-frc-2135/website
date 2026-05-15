@@ -12,7 +12,7 @@
   <meta name="author" content="FRC Team 2135">
 
   <link rel="icon" type="image/png" href="assets/favicon.png">
-  <title>Team 2135 - Presentation Invasion</title>
+  <title><?php echo $title; ?></title>
 
   <!-- Core theme CSS (includes Bootstrap)-->
   <link href="css/styles.css" rel="stylesheet" />
@@ -38,6 +38,10 @@
 
     .navbar-brand {
       vertical-align: middle;
+    }
+
+    h1 {
+      color: #3c6098;
     }
   </style>
 </head>

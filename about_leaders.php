@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Leaders';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Leadership Team</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Leadership Team</h1>
+    <hr>
     <div>
       <h2>2025-26 Student Leadership Team</h2>
     </div>
@@ -90,5 +89,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2020 Infinite Recharge';
 require 'inc/header.php';
 ?>
 
@@ -7,15 +7,14 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2020 FIRST Infinite Recharge</h1>
-    </div>
-    <div>
-      <h3>FIRST INFINITE RECHARGE - The Game</h3>
-    </div>
-    <div class="page-header">
-      <h4>The season is in partnership with Lucasfilm as part of its Star Wars: Force for Change initiative.</h4>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2020 Infinite Recharge</h1>
+    <hr>
+    <div class="fst-italic">
+      <h5>
+        The season is in partnership with Lucasfilm as part of its Star Wars: Force for Change initiative.
+      </h5>
+      <hr>
     </div>
     <div>
       <p>
@@ -36,7 +35,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Field - 3D</h3>
     </div>
@@ -51,8 +50,6 @@ require 'inc/header.php';
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/gmiYWTmFRVE" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/Mew6G_og-PI">FIRST Infinite Recharge Game Reveal</a>
     </div>
   </div>
 
@@ -61,5 +58,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

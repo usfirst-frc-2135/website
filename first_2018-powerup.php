@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2018 PowerUP';
 require 'inc/header.php';
 ?>
 
@@ -7,13 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2018 Power Up</h1>
-    </div>
-    <div>
-      <h3>FIRST POWER UP - The Game</h3>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2018 Power Up</h1>
+    <hr>
     <div>
       <p>
         In FIRST Power Up, two alliances of three teams are trapped in an 8bit video game and must use power cubes to defeat the boss! To gain points, alliances can gain ownership of the scale or
@@ -33,14 +29,12 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Reveal Animation</h3>
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/HZbdwYiCY74" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/HZbdwYiCY74">FIRST POWER UP Game Reveal</a>
     </div>
   </div>
 
@@ -49,5 +43,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

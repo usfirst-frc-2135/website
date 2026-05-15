@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Mentors';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Mentors</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Mentors</h1>
+    <hr>
     <div>
       <h2>Who is a Mentor? - From the FIRST Web Site</h2>
     </div>
@@ -35,16 +34,19 @@ require 'inc/header.php';
       <table class="table">
         <tbody>
           <tr>
-            <td><strong>Jeff Mullins</strong><br>
+            <td><strong>Jeff Mullins</strong>
+              <br>
               Jeff has been head mentor for Team 2135 since 2015, and has been a team mentor since 2011. He initially worked with the software/electrical subteam. As head mentor he now is involved
               in a bit of everything. In other FIRST activities, he has been a judge at local FLL competitions and a Control System Advisor at Central Valley Regional. Jeff is a retired Senior
               Firmware/Software Engineer from SpaceX, where he wrote embedded software for small cube satellites. Prior to that, he worked on a variety of embedded firmware products such as Motorola
               cellular phones, Apple WiFi networks, Eclipse Aviation jet flap controllers, and Amazon IOT devices. Jeff has a BS degree in Electrical and Computer Engineering from the University of
-              Cincinnati.</td>
+              Cincinnati.
+            </td>
           </tr>
           <tr>
             <td><strong>April Mullins</strong>
-              <br>April is a team alum and has been a mentor with the team since 2015, when she graduated from Pres. As a team member, she was involved in all aspects of the robot: CAD design,
+              <br>
+              April is a team alum and has been a mentor with the team since 2015, when she graduated from Pres. As a team member, she was involved in all aspects of the robot: CAD design,
               manufacturing parts using the CNC mill, CNC router, lathe, and hand tools, electrical and assembly. She was also part of the drive team for 3 years as operator and driver for the
               Ultimate Ascent, Aerial Assist, and Recycle Rush robots. She was a team co-President during her senior year. As a mentor, she runs the Mechanical Design subteam, including running CAD
               training sessions and overseeing the robot design. She also helps train the drive team, and assists with manufacturing questions and issues.
@@ -52,16 +54,20 @@ require 'inc/header.php';
           </tr>
           <tr>
             <td><strong>Jeanne Mullins</strong>
-              <br>Jeanne has been a team mentor since 2015, and was a team parent before that. She directs the Data Software Tools subteam, which is responsible for the Android Scouting app and the
+              <br>
+              Jeanne has been a team mentor since 2015, and was a team parent before that. She directs the Data Software Tools subteam, which is responsible for the Android Scouting app and the
               Scouting WebApp (scouted data analysis). In addition, she takes care of all the team food, travel planning, and general team administration logistics and arrangements. Jeanne is a
               retired Senior Staff Software Engineer from AMD/Xilinx, where she wrote C++ software used to help program Xilinx field-programmable-gate-array chips. Jeanne has a BS degree in
               Electrical Engineering from the University of Illinois, Urbana-Champaign.
             </td>
           </tr>
           <tr>
-            <td> <strong>Brian Fox</strong> <br>Brian has been a mentor for Team 2135 since 2016 and is involved in the Manufacturing subteam. He is retired from Apple, where he designed test access
+            <td> <strong>Brian Fox</strong>
+              <br>
+              Brian has been a mentor for Team 2135 since 2016 and is involved in the Manufacturing subteam. He is retired from Apple, where he designed test access
               circuits and debugged chips. He has a BS in Electrical Engineering from Rochester Institute of Technology. He enjoys building quasi useful things like human powered airplanes and
-              3-wheeled electric cars in his spare time.</td>
+              3-wheeled electric cars in his spare time.
+            </td>
           </tr>
 
           <tr>
@@ -78,5 +84,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

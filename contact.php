@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Contact';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Contact Info</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Contact Info</h1>
+    <hr>
     <div>
       <h4>If you would like to ask Team 2135 any questions or if you have any comments, please feel free to contact us:</h4>
       <br><br>
@@ -27,7 +26,7 @@ require 'inc/header.php';
     </div>
     <!--Vertical Divider-->
     <!--<div class="col-sm-3" style="height:120px; background:#000000; width:1px; border:0; padding:0; margin-left:15%"></div>-->
-    <div class="col-sm-6 pull-right">
+    <div class="col-sm-6 float-right">
       <p>
         Follow Us:
         <a href="https://www.instagram.com/frc2135/?hl=en"><img class="img-fluid" src="img/contact/contact_Instagram.jpg" height="100" width="100" alt></a>
@@ -54,5 +53,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

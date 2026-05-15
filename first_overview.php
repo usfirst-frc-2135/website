@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - FIRST Overview';
 require 'inc/header.php';
 ?>
 
@@ -7,15 +7,14 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Overview</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Overview</h1>
+    <hr>
     <div>
       <h2>The FIRST Organization</h2>
     </div>
   </div>
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div class="col-sm-8">
       <p>
         FIRST (For Inspiration and Recognition of Science and Technology) was founded by Dean
@@ -30,7 +29,7 @@ require 'inc/header.php';
       <img class="img-fluid" src="img/first_overview/FIRST_Vertical_RGB.jpg" width="175" alt="FIRST Logo">
     </div>
   </div>
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div class="col-sm-4">
       <img class="img-fluid" src="img/first_overview/FIRSTRobotics_IconVert_RGB.jpg" width="250" alt="FRC Logo">
     </div>
@@ -48,7 +47,7 @@ require 'inc/header.php';
       </p>
     </div>
   </div>
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <p>
         FIRST supports a team base team with team cooperation as one of their main priority. Cooperation
@@ -94,5 +93,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

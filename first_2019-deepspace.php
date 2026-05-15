@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - 2019 Destination: Deep Space';
 require 'inc/header.php';
 ?>
 
@@ -7,13 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>2019 FIRST Destination: Deep Space</h1>
-    </div>
-    <div>
-      <h3>FIRST DESTINATION: DEEP SPACE - The Game</h3>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">2019 Destination: Deep Space</h1>
+    <hr>
     <div>
       <p>
         In FIRST Destination: Deep Space, presented by The Boeing Company, two alliances compete to fill two rockets and a cargo ship on their respective sides. Before the match begins, alliances
@@ -34,14 +30,12 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div>
       <h3>Game Reveal Animation</h3>
     </div>
     <div class="ratio ratio-16x9">
       <iframe class="" src="https://www.youtube.com/embed/Mew6G_og-PI" allowfullscreen></iframe>
-      <br><br>
-      <a href="https://youtu.be/Mew6G_og-PI">FIRST Deep Space Game Reveal</a>
     </div>
   </div>
 
@@ -50,5 +44,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Photos From 2018-19';
 require 'inc/header.php';
 ?>
 
@@ -7,7 +7,7 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div class="col-sm-10">
       <h2>Photos From 2018-19</h2>
     </div>
@@ -32,40 +32,40 @@ require 'inc/header.php';
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" role="option">
-        <img src="img/home/slides/2018_STEAM_fair.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+        <img src="img/home/slides/2018_STEAM_fair.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2018_Corporate_Outreach.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+        <img src="img/home/slides/2018_Corporate_Outreach.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2018_CCC_pit.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
+        <img src="img/home/slides/2018_CCC_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2018_CCC_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
+        <img src="img/home/slides/2018_CCC_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2018_MTTD_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
+        <img src="img/home/slides/2018_MTTD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2018_Toys4Tots.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
+        <img src="img/home/slides/2018_Toys4Tots.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_robot_reveal.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
+        <img src="img/home/slides/2019_robot_reveal.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_Nebula.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
+        <img src="img/home/slides/2019_Nebula.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_CVR_mascot.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
+        <img src="img/home/slides/2019_CVR_mascot.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_CVR_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
+        <img src="img/home/slides/2019_CVR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_SVR_DeansList.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
+        <img src="img/home/slides/2019_SVR_DeansList.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2019_SVR_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
+        <img src="img/home/slides/2019_SVR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselMain" role="button" data-bs-slide="prev">
@@ -83,5 +83,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Photos';
 require 'inc/header.php';
 ?>
 
@@ -7,10 +7,9 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Photos</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Photos</h1>
+    <hr>
     <div class="col-sm-3">
       <a href="media_photos_2024-25.php"> <img src="img/home/slides/button_images/button24-25.jpg" width="180" height="130" alt="Photos24-25" /></a>
       <p></p>Photos 2024-25<p></p>
@@ -75,5 +74,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

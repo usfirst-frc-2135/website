@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Home';
 require 'inc/header.php';
 ?>
 
@@ -28,46 +28,46 @@ require 'inc/header.php';
 
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" role="option">
-        <img src="img/home/slides/2026_SacD_pit.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+        <img src="img/home/slides/2026_SacD_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_SacD_Toph.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+        <img src="img/home/slides/2026_SacD_Toph.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_SacD_Award.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
+        <img src="img/home/slides/2026_SacD_Award.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_SacD_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
+        <img src="img/home/slides/2026_SacD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_CCD_stands.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
+        <img src="img/home/slides/2026_CCD_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_CCD_pit.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
+        <img src="img/home/slides/2026_CCD_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_CCD_Nominees.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
+        <img src="img/home/slides/2026_CCD_Nominees.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_CCD_SemiFinalist.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
+        <img src="img/home/slides/2026_CCD_SemiFinalist.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_CCD_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
+        <img src="img/home/slides/2026_CCD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_DCMP_pit.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
+        <img src="img/home/slides/2026_DCMP_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_DCMP_drive.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
+        <img src="img/home/slides/2026_DCMP_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_DCMP_stands.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
+        <img src="img/home/slides/2026_DCMP_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_DCMP_field.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="img/home/slides/2026_DCMP_field.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2026_DCMP_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_13" alt="Slide_13">
+        <img src="img/home/slides/2026_DCMP_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_13" alt="Slide_13">
       </div>
     </div>
 
@@ -81,9 +81,10 @@ require 'inc/header.php';
     </a>
   </div>
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div class="mt-3">
-      <h1>Team 2135 - Presentation Invasion</h1>
+      <h1 class="fw-bold mt-3">Team 2135 - Presentation Invasion</h1>
+      <hr>
     </div>
     <div>
       <p>
@@ -100,5 +101,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

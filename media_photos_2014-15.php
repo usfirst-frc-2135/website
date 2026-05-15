@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Photos From 2014-15';
 require 'inc/header.php';
 ?>
 
@@ -7,7 +7,7 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
+  <div class="row p-2">
     <div class="col-sm-10">
       <h2>Photos From 2014-15</h2>
     </div>
@@ -30,34 +30,34 @@ require 'inc/header.php';
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" role="option">
-        <img src="img/home/slides/2014_Open_House.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+        <img src="img/home/slides/2014_Open_House.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_CC_fix.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+        <img src="img/home/slides/2014_CC_fix.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_CC_Trophy.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
+        <img src="img/home/slides/2014_CC_Trophy.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_MTTD_setup.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
+        <img src="img/home/slides/2014_MTTD_setup.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_MTTD_pit.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
+        <img src="img/home/slides/2014_MTTD_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_MTTD_Award.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
+        <img src="img/home/slides/2014_MTTD_Award.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2014_MTTD_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
+        <img src="img/home/slides/2014_MTTD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2015_SacReg_Field.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
+        <img src="img/home/slides/2015_SacReg_Field.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2015_SacReg_drive.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
+        <img src="img/home/slides/2015_SacReg_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
       </div>
       <div class="carousel-item" role="option">
-        <img src="img/home/slides/2015_SVR_team.jpg" width="980" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
+        <img src="img/home/slides/2015_SVR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselMain" role="button" data-bs-slide="prev">
@@ -75,5 +75,3 @@ require 'inc/header.php';
 </div> <!-- /container for theme-showcase -->
 
 <?php include 'inc/footer.php'; ?>
-
-</html>

@@ -1,5 +1,5 @@
 <?php
-$title = 'FRC 2135 - Presentation Invasion';
+$title = 'FRC 2135 - Blog';
 require 'inc/header.php';
 ?>
 
@@ -7,12 +7,11 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row content-block" style="margin: 0">
-    <div class="page-header">
-      <h1>Blog</h1>
-    </div>
+  <div class="row p-2">
+    <h1 class="fw-bold mt-3">Blog</h1>
+    <hr>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h2>2025-2026</h2>
       </div>
@@ -53,7 +52,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h2>2023-2024</h2>
       </div>
@@ -92,7 +91,7 @@ require 'inc/header.php';
       </div>
       <div class="col-sm-1"></div>
     </div>
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h2>2021-2022</h2>
       </div>
@@ -133,7 +132,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h2>2019-2020</h2>
       </div>
@@ -172,7 +171,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block" style="margin: 0">
+    <div class="row p-2">
       <div>
         <h2>2017-2018</h2>
       </div>
@@ -194,5 +193,3 @@ require 'inc/header.php';
   </div> <!-- /container for theme-showcase -->
 
   <?php include 'inc/footer.php'; ?>
-
-  </html>
