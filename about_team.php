@@ -3,7 +3,7 @@ $title = 'FRC 2135 - Team';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -28,14 +28,14 @@ require 'inc/header.php';
         Lathe, and sheet metal brake among many other shop features that students learn to operate and use.
       </p>
       <div class="row">
-        <div class="media d-flex justify-content-center">
+        <div class="d-flex justify-content-center">
           <img class="img-fluid" src="img/about_team/team/history_2018_2.jpg" alt="2018 Team MTTD">
         </div>
       </div>
     </div>
   </div>
 
-  <div class="row content-block shaded" style="margin: 0">
+  <div class="row bg-light" style="margin: 0">
     <div>
       <h2>Team Mission</h2>
     </div>
@@ -77,9 +77,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Toph</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2026_Toph.jpg" alt="2026 Toph"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2026.jpg" alt="2026 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2026_Toph.jpg" alt="2026 Toph"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2026.jpg" alt="2026 Team"> </div>
         </div>
       </div>
     </div>
@@ -107,18 +107,16 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Nemo</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2025_Nemo.jpg" alt="2025 Nemo"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2025.jpg" alt="2025 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2025_Nemo.jpg" alt="2025 Nemo"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2025.jpg" alt="2025 Team"> </div>
         </div>
       </div>
     </div>
 
     <div class="card bg-light mb-3">
       <h5 class="card-header fw-bold">
-        <p>
-          2024 - CRESCENDO
-        </p>
+        2024 - CRESCENDO
       </h5>
       <div class="card-body">
         <p>
@@ -137,9 +135,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Apollo</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2024_Apollo-2.jpg" alt="2024 Apollo"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2024.jpg" alt="2024 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2024_Apollo-2.jpg" alt="2024 Apollo"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2024.jpg" alt="2024 Team"> </div>
         </div>
       </div>
     </div>
@@ -165,9 +163,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Slink</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2023_Slink.jpg" alt="2023 Slink"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2023.jpg" alt="2023 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2023_Slink.jpg" alt="2023 Slink"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2023.jpg" alt="2023 Team"> </div>
         </div>
       </div>
     </div>
@@ -200,9 +198,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Festus</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2022_Festus.jpg" alt="2022 Festus"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2022.jpg" alt="2022 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2022_Festus.jpg" alt="2022 Festus"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2022.jpg" alt="2022 Team"> </div>
         </div>
       </div>
     </div>
@@ -223,9 +221,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Grogu</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2021_Grogu.jpg" alt="2021 Grogu"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2021_team_fall.jpg" alt="2021 Fall Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2021_Grogu.jpg" alt="2021 Grogu"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2021_team_fall.jpg" alt="2021 Fall Team"> </div>
         </div>
       </div>
     </div>
@@ -255,8 +253,8 @@ require 'inc/header.php';
           advanced to become a <strong>Dean’s List Finalist</strong>!
         </p>
         <hr>
-        <div class="row content-block">
-          <div class="col-sm-12 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2021.png" alt="2021 Team"> </div>
+        <div class="row">
+          <div class="col-sm-12 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2021.png" alt="2021 Team"> </div>
         </div>
       </div>
     </div>
@@ -274,9 +272,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Mandi</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2020_Mandi.jpg" alt="2020 Mandi"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2020.jpg" alt="2020 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2020_Mandi.jpg" alt="2020 Mandi"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2020.jpg" alt="2020 Team"> </div>
         </div>
       </div>
     </div>
@@ -302,9 +300,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Nebula</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2019_Nebula_3.jpg" alt="2019 Nebula"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2019.jpg" alt="2019 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2019_Nebula_3.jpg" alt="2019 Nebula"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2019.jpg" alt="2019 Team"> </div>
         </div>
       </div>
     </div>
@@ -333,9 +331,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Felix</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2018_Felix_2.jpg" alt="2018 Felix"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2018_3.jpg" alt="2018 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2018_Felix_2.jpg" alt="2018 Felix"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2018_3.jpg" alt="2018 Team"> </div>
         </div>
       </div>
     </div>
@@ -365,9 +363,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Crush</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2017_Crush.jpg" alt="2017 Crush"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2017.jpg" alt="2017 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2017_Crush.jpg" alt="2017 Crush"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_team_2017.jpg" alt="2017 Team"> </div>
         </div>
       </div>
     </div>
@@ -393,9 +391,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Max (Maximus the Stronghold)</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2016_Max.jpg" alt="2016 Max"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2016_3.jpg" alt="2016 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2016_Max.jpg" alt="2016 Max"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2016_3.jpg" alt="2016 Team"> </div>
         </div>
       </div>
     </div>
@@ -416,9 +414,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Archie</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2015_Archie.jpg" alt="2015 Archie"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2015_2.jpg" alt="2015 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2015_Archie.jpg" alt="2015 Archie"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2015_2.jpg" alt="2015 Team"> </div>
         </div>
       </div>
     </div>
@@ -442,9 +440,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Atlas</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2014_Atlas.jpg" alt="2014 Atlas"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2014_3.jpg" alt="2014 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2014_Atlas.jpg" alt="2014 Atlas"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2014_3.jpg" alt="2014 Team"> </div>
         </div>
       </div>
     </div>
@@ -464,9 +462,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Steve (Steve Rogers)</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2013_SteveRogers_2.jpg" alt="2013 Steve"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2013.jpg" alt="2013 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2013_SteveRogers_2.jpg" alt="2013 Steve"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2013.jpg" alt="2013 Team"> </div>
         </div>
       </div>
     </div>
@@ -483,9 +481,9 @@ require 'inc/header.php';
           and gained much experience. Later at MadTown, they were on the 6th seeded alliance.
         </p>
         <em><strong>Robot Name: Mo (M-O from Wall-E)</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-5 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2012_Moe_4.jpg" alt="2012 Mo"> </div>
-          <div class="col-sm-7 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
+        <div class="row">
+          <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2012_Moe_4.jpg" alt="2012 Mo"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
         </div>
       </div>
     </div>
@@ -501,9 +499,9 @@ require 'inc/header.php';
           of West Covina and Team 254B - Bellarmine Cheesy Poofs and played in the semi-finals.
         </p>
         <hr>
-        <div class="row content-block">
-          <div class="col-sm-4 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2011.jpg" alt="2011 Robot"> </div>
-          <div class="col-sm-8 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2011.jpg" alt="2011 Team"> </div>
+        <div class="row">
+          <div class="col-sm-4 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2011.jpg" alt="2011 Robot"> </div>
+          <div class="col-sm-8 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2011.jpg" alt="2011 Team"> </div>
         </div>
       </div>
     </div>
@@ -521,9 +519,9 @@ require 'inc/header.php';
           even better start to 2011.
         </p>
         <hr>
-        <div class="row content-block">
-          <div class="col-sm-6 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2010.jpg" alt="2010 Robot"> </div>
-          <div class="col-sm-6 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2010.jpg" alt="2010 Team"> </div>
+        <div class="row">
+          <div class="col-sm-6 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2010.jpg" alt="2010 Robot"> </div>
+          <div class="col-sm-6 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2010.jpg" alt="2010 Team"> </div>
         </div>
       </div>
     </div>
@@ -541,9 +539,9 @@ require 'inc/header.php';
         </p>
         <hr>
         <em><strong>Robot Name: Skippy</strong></em>
-        <div class="row content-block">
-          <div class="col-sm-6 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2009_Skippy.jpg" alt="2009 Skippy"> </div>
-          <div class="col-sm-6 media d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2009.jpg" alt="2009 Team"> </div>
+        <div class="row">
+          <div class="col-sm-6 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/robots/robots_2009_Skippy.jpg" alt="2009 Skippy"> </div>
+          <div class="col-sm-6 d-flex justify-content-center"> <img class="img-fluid" src="img/about_team/team/history_2009.jpg" alt="2009 Team"> </div>
         </div>
       </div>
     </div>
@@ -607,6 +605,6 @@ require 'inc/header.php';
 
   <!-- End of Main content area -->
 
-</div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
 <?php include 'inc/footer.php'; ?>

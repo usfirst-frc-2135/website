@@ -15,7 +15,7 @@
     </div>
     <div class="col-sm-3">
       <p class="row fw-semibold fs-6 text-white-50 pt-2 mb-0">Sponsor Us</p>
-      <button type="button" class="btn btn-sm btn-primary fs-6" href="docs/sponsor_info.pdf">Download Information</button>
+      <button type="button" class="btn btn-sm btn-primary fs-6 mt-1" href="docs/sponsor_info.pdf">Download Information</button>
       <p class="fs-6 text-white"> </p>
     </div>
     <div class="col-sm-1"></div>

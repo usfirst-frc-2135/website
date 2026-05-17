@@ -3,7 +3,7 @@ $title = 'FRC 2135 - Mentors';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -43,6 +43,7 @@ require 'inc/header.php';
               Cincinnati.
             </td>
           </tr>
+
           <tr>
             <td><strong>April Mullins</strong>
               <br>
@@ -52,15 +53,17 @@ require 'inc/header.php';
               training sessions and overseeing the robot design. She also helps train the drive team, and assists with manufacturing questions and issues.
             </td>
           </tr>
+
           <tr>
             <td><strong>Jeanne Mullins</strong>
               <br>
-              Jeanne has been a team mentor since 2015, and was a team parent before that. She directs the Data Software Tools subteam, which is responsible for the Android Scouting app and the
+              Jeanne has been a team mentor since 2015, and was a team parent before that. She directs the Software Tools subteam, which is responsible for the Android Scouting app and the
               Scouting WebApp (scouted data analysis). In addition, she takes care of all the team food, travel planning, and general team administration logistics and arrangements. Jeanne is a
               retired Senior Staff Software Engineer from AMD/Xilinx, where she wrote C++ software used to help program Xilinx field-programmable-gate-array chips. Jeanne has a BS degree in
               Electrical Engineering from the University of Illinois, Urbana-Champaign.
             </td>
           </tr>
+
           <tr>
             <td> <strong>Brian Fox</strong>
               <br>
@@ -70,10 +73,6 @@ require 'inc/header.php';
             </td>
           </tr>
 
-          <tr>
-            <td> </td>
-            <td> </td>
-          </tr>
         </tbody>
       </table>
     </div>
@@ -81,6 +80,6 @@ require 'inc/header.php';
 
   <!-- End of Main content area -->
 
-</div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
 <?php include 'inc/footer.php'; ?>

@@ -3,7 +3,7 @@ $title = 'FRC 2135 - Safety Manual';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -23,6 +23,6 @@ require 'inc/header.php';
 
   <!-- End of Main content area -->
 
-</div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
 <?php include 'inc/footer.php'; ?>

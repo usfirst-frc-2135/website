@@ -3,7 +3,7 @@ $title = 'FRC 2135 - 2018 PowerUP';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -20,7 +20,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row content-block shaded" style="margin: 0">
+  <div class="row bg-light" style="margin: 0">
     <div>
       <h3>Game Field</h3>
     </div>
@@ -40,6 +40,6 @@ require 'inc/header.php';
 
   <!-- End of Main content area -->
 
-</div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
 <?php include 'inc/footer.php'; ?>

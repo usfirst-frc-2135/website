@@ -3,7 +3,7 @@ $title = 'FRC 2135 - Blog';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -30,7 +30,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h2>2024-2025</h2>
       </div>
@@ -73,7 +73,7 @@ require 'inc/header.php';
     </div>
 
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h2>2022-2023</h2>
       </div>
@@ -109,7 +109,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h2>2020-2021</h2>
       </div>
@@ -147,11 +147,11 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1Fd-wrWSAYNtLurZ2VYpvgq3T3zSC7TRlLamtWuX1oc8/edit?usp=sharing">August 2019</a></ul>
         <ul><a href="https://docs.google.com/document/d/1ODKP93tiO14wJIalGxqDtqLwHM1LQ6V1MasSPzh2IkQ/edit?usp=sharing">Summer 2019</a></ul>
       </div>
-      <div class="col-sm-7 media d-flex-middle"> <img class="img-fluid" src="img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
+      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h2>2018-2019</h2>
       </div>
@@ -187,9 +187,10 @@ require 'inc/header.php';
       <div class="col-sm-7"><img class="img-fluid" src="img/blog/blog2017-18.jpg" alt="BLOG_2017-18 IMG"></div>
       <div class="col-sm-1"></div>
     </div>
+  </div>
 
-    <!-- End of Main content area -->
+  <!-- End of Main content area -->
 
-  </div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
-  <?php include 'inc/footer.php'; ?>
+<?php include 'inc/footer.php'; ?>

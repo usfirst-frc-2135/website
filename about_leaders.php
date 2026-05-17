@@ -3,7 +3,7 @@ $title = 'FRC 2135 - Leaders';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
@@ -21,71 +21,75 @@ require 'inc/header.php';
         business areas needed, and our leaders are chosen based on their invested time, work
         ethic, and personal commitment to making the team better.
       </p>
-      <br>
-      <div class="col-sm-4">
-        <table class="table">
-          <tbody>
-            <tr>
-              <td> <strong>Jeanelle D.</strong> <br>Co-Captain, Mechanical Design Director</td>
-            </tr>
-            <tr>
-              <td> <strong>Eleanor C.</strong><br>Co-Captain, Mechanical Design Director</td>
-            </tr>
-            <tr>
-              <td> <strong>Sneha A.</strong><br>Mechanical Design Lead</td>
-            </tr>
-            <tr>
-              <td> <strong>Anika K.</strong><br>Mechanical Design Lead</td>
-            </tr>
+      <div class="row">
+        <div class="card col-sm-3 bg-light mb-3">
+          <div class="card-header">
+            <h5 class="card-title">Mechanical Design</h5>
+          </div>
+          <table class="card-body table">
+            <tbody>
+              <tr>
+                <td> <strong>Jeanelle D., Co-Captain</strong> <br>Mechanical Design Director</td>
+              </tr>
+              <tr>
+                <td> <strong>Eleanor C., Co-Captain</strong><br>Mechanical Design Director</td>
+              </tr>
+              <tr>
+                <td> <strong>Sneha A.</strong><br>Mechanical Design Lead</td>
+              </tr>
+              <tr>
+                <td> <strong>Anika K.</strong><br>Mechanical Design Lead</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
+        <div class="card col-sm-3 mb-3">
+          <div class="card-header">
+            <h5 class="card-title">Manufacturing</h5>
+          </div>
+          <table class="card-body table">
+            <tbody>
+              <tr>
+                <td> <strong>Priya R., Co-Captain</strong><br>Manufacturing Director</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
 
-            <tr>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
+        <div class="card col-sm-3 bg-light mb-3">
+          <div class="card-header">
+            <h5 class="card-title">Robot Software</h5>
+          </div>
+          <table class="card-body table">
+            <tbody>
+              <tr>
+                <td><strong>Nishka S.</strong> <br>Control Systems/Programming Director</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="card col-sm-3 mb-3">
+          <div class="card-header">
+            <h5 class="card-title">Software Tools</h5>
+          </div>
+          <table class="card-body table">
+            <tbody>
+              <tr>
+                <td><strong>Melissa C.</strong><br>Software Tools Director</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
       </div>
-      <div class="col-sm-4">
-        <table class="table">
-          <tbody>
-            <tr>
-              <td> <strong>Priya R.</strong><br>Co-Captain, Manufacturing Director</td>
-            </tr>
 
-            <tr>
-            <tr>
-              <td><br><br></td>
-            </tr>
-            <tr>
-            </tr>
-            <tr>
-              <td><strong>Melissa C.</strong><br>Data Software Tools Director</td>
-            </tr>
-            <tr>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <div class="col-sm-4">
-        <table class="table">
-          <tbody>
-
-            <tr>
-              <td><strong>Nishka S.</strong> <br>Control Systems/Programming Director</td>
-            </tr>
-            <tr>
-              <td></td>
-            </tr>
-
-          </tbody>
-        </table>
-      </div>
     </div>
   </div>
 
   <!-- End of Main content area -->
 
-</div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
 <?php include 'inc/footer.php'; ?>

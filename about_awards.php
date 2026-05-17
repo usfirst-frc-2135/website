@@ -3,16 +3,16 @@ $title = 'FRC 2135 - Awards';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
-  <div class="row p-2">
+  <div class="row m-3">
     <h1 class="fw-bold mt-3">Awards</h1>
     <hr>
 
     <!-- Main content area for this page -->
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2026 FIRST Leadership Award Semi-Finalist</h2>
         <p>
@@ -20,11 +20,16 @@ require 'inc/header.php';
           the mentors. Jeanelle was announced as a FIRST Leadership District Semi-Finalist at the 2026 Contra Costa District!
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid float-end" src="img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity">
+      </div>
     </div>
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous"> </div>
-      <div>
+
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous">
+      </div>
+      <div class="col-sm-9">
         <h2>2026 Contra Costa District Autonomous Award</h2>
         <p>
           The Autonomous Award celebrates the team whose machine has demonstrated consistent, reliable, high-performance robot operation during autonomous (i.e. non-operated guided) actions during
@@ -32,37 +37,48 @@ require 'inc/header.php';
         </p>
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2026 Sacramento District Creativity Award</h2>
         <p>
           The Creativity Award celebrates a creative robotic component, concept or attribute that enhances strategy of play that was intentionally designed and not discovered.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity">
+      </div>
     </div>
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality"> </div>
-      <div>
+
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality">
+      </div>
+      <div class="col-sm-9">
         <h2>2025 Sacramento Regional Quality Award</h2>
         <p>
           The Quality Award celebrates machine robustness in concept and fabrication.
         </p>
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2024 Monterey Bay Regional Quality Award</h2>
         <p>
           The Quality Award celebrates machine robustness in concept and fabrication.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner">
+      </div>
+      <div class="col-sm-9">
         <h2>2023 Madtown Throwdown Winner</h2>
         <p>
           The Madtown Throwdown Winner Award celebrates the Alliance that wins the final match of the
@@ -70,7 +86,8 @@ require 'inc/header.php';
         </p>
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2023 Capital City Classic Winner</h2>
         <p>
@@ -78,12 +95,16 @@ require 'inc/header.php';
           competition. Team 2135 won this award with Team 5940 - BREAD, Team 1678 - Citrus Circuits, and Team 5458 - Digital Minds, going undefeated in the Elimination Round.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2023_DeansList.jpg" alt="2023_DeansList"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2023_DeansList.jpg" alt="2023_DeansList">
+      </div>
+      <div class="col-sm-9">
         <h2>2023 Dean's List Award Finalist</h2>
         <p>
           The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Anisha Shukla and Vinati Pillutla were nominated this year by the
@@ -92,19 +113,23 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2023 Central Valley Regional Team Sustainability Award</h2>
         <p>
           The Team Sustainability Award celebrates and recognizes a team which has developed a sustainable program in order to define, manage, and achieve the team’s ongoing objectives.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering">
+      </div>
+      <div class="col-sm-9">
         <h2>2022 Capital City Classic Excellence in Engineering Award</h2>
         <p>
           The Excellence in Engineering Award celebrates an elegant and advantageous machine feature. Students must be able to describe the engineered feature and trace its conception, design,
@@ -113,7 +138,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2022 Monterey Bay Regional Finalists</h2>
         <p>
@@ -121,12 +146,16 @@ require 'inc/header.php';
           which made it to the Finals.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists">
+      </div>
+      <div class="col-sm-9">
         <h2>2022 Ventura County Regional Finalists</h2>
         <p>
           Team 2135 finished the Qualification Round ranked 4th, making it the captain of the 3rd-seeded alliance. The team pushed hard to make it to the finals with our alliance: Team 3512 -
@@ -135,19 +164,23 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2022 Ventura County Regional Industrial Design Award</h2>
         <p>
           The Industrial Design Award celebrates the team that demonstrates industrial design principles, striking a balance between form, function, and aesthetics.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner">
+      </div>
+      <div class="col-sm-9">
         <h2>2021 CalGames Winner</h2>
         <p>
           Team 2135 finished the Qualification Round ranked first, making it the captain of the top-seeded alliance. The team won the event with our alliance: Team 1868 - Space Cookies, Team 6059 -
@@ -156,19 +189,23 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2021 CalGames System Design Award</h2>
         <p>
           The System Design Award recognizes an exceptional system design for a robot. Our robot, Grogu, won this award for its double wide shooter that can shoot two power cells at a time.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2021_DeansList.jpg" alt="2021_DeansList"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2021_DeansList.jpg" alt="2021_DeansList">
+      </div>
+      <div class="col-sm-9">
         <h2>2021 Dean's List Award Finalist</h2>
         <p>
           The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Christine Yang and Shweta Arun were nominated this year by the
@@ -177,7 +214,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
       <div class="col-sm-9">
         <h2>2020 KLA RoboGames Outstanding Mentor Award</h2>
         <p>
@@ -185,12 +222,16 @@ require 'inc/header.php';
           written by the students, explaining how he inspired and motivated them, and how he empowers student growth and learning.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit"> </div>
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit">
+      </div>
+      <div class="col-sm-9">
         <h2>2019 Central Valley Regional Spirit Award</h2>
         <p>
           The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
@@ -200,8 +241,8 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
-      <div class="col-sm-8">
+    <div class="row bg-light m-3">
+      <div class="col-sm-9">
         <h2>2018 Dean's List Award Finalist</h2>
         <p>
           The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade, nominated by a FIRST Robotics Competition team. At the Arizona
@@ -209,14 +250,14 @@ require 'inc/header.php';
           and travelled to the Houston Championships to compete against other finalists.
         </p>
       </div>
-      <div class="col-sm-4 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2018_DeansList.jpg" alt="2018_DeansList"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2018_DeansList.jpg" alt="2018_DeansList">
+      </div>
     </div>
 
-    <div class="row p-2">
-      <div>
+    <div class="row m-3">
+      <div class="col-sm-9">
         <h2>2017 Silicon Valley Regional Industrial Safety Award Finalist</h2>
-      </div>
-      <div>
         <p>
           The Industrial Safety Award celebrates teams with a concern for safe practices and
           preparedness that spreads the message to others to protect against possible
@@ -226,9 +267,11 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
-      <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner"> </div>
-      <div>
+    <div class="row bg-light m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner">
+      </div>
+      <div class="col-sm-9">
         <h2>2017 Central Valley Regional Winners</h2>
         <p>
           The Regional Winners Award celebrates the Alliance that wins the final match of
@@ -240,7 +283,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class=" row m-3">
       <div class="col-sm-9">
         <h2>2016 Madtown Throwdown WOW Factor Award</h2>
         <p>
@@ -250,12 +293,16 @@ require 'inc/header.php';
           also the structure and "hands on" approach of our team.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor">
+      </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
-      <div class="col-sm-4"> <img class="img-fluid" src="img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner"> </div>
-      <div>
+    <div class="row bg-light m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner">
+      </div>
+      <div class="col-sm-9">
         <h2>2016 Chezy Champs Winners</h2>
         <p>
           The Chezy Champs Winner Award celebrates the Alliance that wins the final match of the
@@ -266,7 +313,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-3">
       <div class="col-sm-9">
         <h2>2015 Madtown Throwdown Gracious Professionalism Award</h2>
         <p>
@@ -278,12 +325,16 @@ require 'inc/header.php';
           to simply encourage them in their next round, we always show displayed professionalism.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism">
+      </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit"> </div>
-      <div>
+    <div class="row bg-light m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit">
+      </div>
+      <div class="col-sm-9">
         <h2>2014 Madtown Throwdown Spirit Award</h2>
         <p>
           The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
@@ -295,8 +346,8 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row p-2">
-      <div class="col-sm-8">
+    <div class="row m-3">
+      <div class="col-sm-9">
         <h2>2014 Chezy Champs Finalist</h2>
         <p>
           The Finalist Award celebrates the Alliance that makes it to the final match of the
@@ -306,12 +357,16 @@ require 'inc/header.php';
           the Championship in St. Louis a few months earlier.
         </p>
       </div>
-      <div class="col-sm-4 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist">
+      </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
-      <div class="col-sm-3"> <img class="img-fluid" src="img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner"> </div>
-      <div>
+    <div class="row bg-light m-3">
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner">
+      </div>
+      <div class="col-sm-9">
         <h2>2014 FIRST Central Valley Regional Winners</h2>
         <p>
           The Regional Winners Award celebrates the Alliance that wins the final match of
@@ -322,7 +377,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-3">
       <div class="col-sm-9">
         <h2>2007 FIRST Rookie Inspiration Award</h2>
         <p>
@@ -332,14 +387,18 @@ require 'inc/header.php';
           Regional held during March of the 2006-2007 school year.
         </p>
       </div>
-      <div class="col-sm-3 float-right media d-flex-middle"> <img class="img-fluid" src="img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration"> </div>
+      <div class="col-sm-3">
+        <img class="img-fluid" src="img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration">
+      </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light m-3">
+      <div class="col-sm-3">
+      </div>
       <div>
         <h2>2007 FIRST Web Site Excellence Award</h2>
       </div>
-      <div>
+      <div class="col-sm-9">
         <p>
           The Web Site Excellence Award is given to all teams who meet a minimum scoring
           criteria from a panel of judges. Scoring is based not only on how well the site
@@ -347,9 +406,10 @@ require 'inc/header.php';
         </p>
       </div>
     </div>
+  </div>
 
-    <!-- End of Main content area -->
+  <!-- End of Main content area -->
 
-  </div> <!-- /container for theme-showcase -->
+</div> <!-- /container -->
 
-  <?php include 'inc/footer.php'; ?>
+<?php include 'inc/footer.php'; ?>

@@ -3,20 +3,20 @@ $title = 'FRC 2135 - Teamwear';
 require 'inc/header.php';
 ?>
 
-<div class="container theme-showcase" role="main">
+<div class="container" role="main">
 
   <!-- Main content area for this page -->
 
   <div class="row p-2">
     <h1 class="fw-bold mt-3">Teamwear</h1>
     <hr>
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <h3>Team 2135 Sweatshirt</h3>
       <div>
         <img class="img-fluid center-block" src="img/resources_teamwear/TeamwearSweatshirt2.jpg" alt="2135 Sweatshirt">
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2025 - 19th Season</h3>
       </div>
@@ -38,7 +38,7 @@ require 'inc/header.php';
         <img class="img-fluid" src="img/resources_teamwear/Teamwear2024.jpg" alt>
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2023 - 17th Season</h3>
       </div>
@@ -61,7 +61,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2021 - 15th Season</h3>
       </div>
@@ -82,7 +82,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2019 - 13th Season</h3>
       </div>
@@ -104,7 +104,7 @@ require 'inc/header.php';
         <img class="img-fluid" src="img/resources_teamwear/Teamwear2018.jpg" alt>
       </div>
     </div>
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2017 - 11th Season</h3>
       </div>
@@ -128,7 +128,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2015 - 9th Season</h3>
       </div>
@@ -146,7 +146,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2013 - 7th Season</h3>
       </div>
@@ -167,7 +167,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2011 - 5th Season</h3>
       </div>
@@ -185,7 +185,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2009 - 3rd Season</h3>
       </div>
@@ -203,7 +203,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row content-block shaded" style="margin: 0">
+    <div class="row bg-light" style="margin: 0">
       <div>
         <h3>2007 - 1st Season</h3>
       </div>
@@ -212,8 +212,10 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <!-- End of Main content area -->
+  </div>
 
-  </div> <!-- /container for theme-showcase -->
+  <!-- End of Main content area -->
 
-  <?php include 'inc/footer.php'; ?>
+</div> <!-- /container -->
+
+<?php include 'inc/footer.php'; ?>
