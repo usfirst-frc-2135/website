@@ -64,10 +64,17 @@ require 'inc/header.php';
           <table class="table">
             <tbody>
               <tr>
-                <td>Tuesday, Wednesday, Thursday</td>
+                <td>Tuesday</td>
                 <td>3:30 - 7:00 PM</td>
               </tr>
-
+              <tr>
+                <td>Wednesday</td>
+                <td>3:30 - 7:00 PM</td>
+              </tr>
+              <tr>
+                <td>Thursday</td>
+                <td>3:30 - 7:00 PM</td>
+              </tr>
               <tr>
                 <td>Saturday</td>
                 <td>10:00 AM - 6:00 PM</td>
