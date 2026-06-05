@@ -10,7 +10,7 @@ require 'inc/header.php';
   <div class="row p-2">
     <h1 class="fw-bold mt-3">2019 Destination: Deep Space</h1>
     <hr>
-    <div>
+    <div class="row m-0 mb-3">
       <p>
         In FIRST Destination: Deep Space, presented by The Boeing Company, two alliances compete to fill two rockets and a cargo ship on their respective sides. Before the match begins, alliances
         are able to choose to preload their cargo ship with either hatch panels or cargo pods. At the start of the match, the sandstorm period arrives which limits driver visibility and requires
@@ -19,23 +19,23 @@ require 'inc/header.php';
         highest score at the end of the match wins!
       </p>
     </div>
-  </div>
 
-  <div class="row bg-light" style="margin: 0">
-    <div>
-      <h3>Game Field</h3>
+    <div class="row bg-light m-0 mb-3">
+      <div>
+        <h3>Game Field</h3>
+      </div>
+      <div>
+        <img class="img-fluid" width="880" src="img/first_2019-deepspace/deepspace_field.jpg" alt="Deep Space field">
+      </div>
     </div>
-    <div>
-      <img class="img-fluid" width="880" src="img/first_2019-deepspace/deepspace_field.jpg" alt="Deep Space field">
-    </div>
-  </div>
 
-  <div class="row p-2">
-    <div>
-      <h3>Game Reveal Animation</h3>
-    </div>
-    <div class="ratio ratio-16x9">
-      <iframe class="" src="https://www.youtube.com/embed/Mew6G_og-PI" allowfullscreen></iframe>
+    <div class="row m-0 mb-3">
+      <div>
+        <h3>Game Reveal Animation</h3>
+      </div>
+      <div class="ratio ratio-16x9">
+        <iframe class="" src="https://www.youtube.com/embed/Mew6G_og-PI" allowfullscreen></iframe>
+      </div>
     </div>
   </div>
 

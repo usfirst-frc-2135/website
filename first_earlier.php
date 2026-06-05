@@ -11,11 +11,11 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Previous Games</h1>
     <hr>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h3>2016 - STRONGHOLD</h3>
       </div>
-      <div>
+      <div class="row m-0 mb-3">
         <p>
           In FIRST STRONGHOLD, two alliances of three FRC teams each compete on a Quest to breach their opponents defenses, weaken their tower with boulders, and capture the opposing tower at the
           end of the game. There are multiple combinations in which the defenses may be placed in the Outer Works. Teams also have a Spy who they can have positioned next to the opposing teams side
@@ -23,12 +23,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/VqOKzoHJDjA" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h3>2015 - RECYCLE RUSH</h3>
       </div>
@@ -39,12 +39,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/W6UYFKNGHJ8" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h3>2014 - AERIAL ASSIST</h3>
       </div>
@@ -55,12 +55,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/f5zWzICG5to" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h3>2013 - ULTIMATE ASCENT</h3>
       </div>
@@ -72,12 +72,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://youtube.com/embed/itHNW2OFr4Y" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h3>2012 - REBOUND RUMBLE</h3>
       </div>
@@ -89,12 +89,12 @@ require 'inc/header.php';
           is given. The end game is to balance on a bridge in the middle of the field.
         </p>
       </div>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/nOXsdhZZSdM" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h3>2011 - LOGO MOTION</h3>
       </div>
@@ -107,12 +107,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/93Tygo0_O5c" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h3>2010 - BREAKAWAY</h3>
       </div>
@@ -125,12 +125,12 @@ require 'inc/header.php';
         </p>
       </div>
       <br>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://youtube.com/embed/IEHAj3EmpMw" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h3>2009 - LUNACY</h3>
       </div>
@@ -143,12 +143,12 @@ require 'inc/header.php';
           opposing alliance by placing more game pieces in trailers that are hitched to the opposing alliance&rsquo;s robots.
         </p>
       </div>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://youtube.com/embed/ZnGfbGzEFrM" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h3>2008 - FIRST Overdrive</h3>
       </div>
@@ -161,12 +161,12 @@ require 'inc/header.php';
           using infrared remote control or visible light.
         </p>
       </div>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://youtube.com/embed/D5oL7aLH0T4" allowfullscreen></iframe>
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h3>2007 - Rack &ldquo;N&rdquo; Roll</h3>
       </div>
@@ -178,7 +178,7 @@ require 'inc/header.php';
           rows and columns of the game pieces on &lsquo;The Rack.&rsquo;
         </p>
       </div>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" width="640" height="360" src="https://youtube.com/embed/khTGSKvDyS4" allowfullscreen></iframe>
       </div>
     </div>

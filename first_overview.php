@@ -14,7 +14,7 @@ require 'inc/header.php';
       <h2>The FIRST Organization</h2>
     </div>
   </div>
-  <div class="row p-2">
+  <div class="row m-0 mb-3">
     <div class="col-sm-8">
       <p>
         FIRST (For Inspiration and Recognition of Science and Technology) was founded by Dean
@@ -29,7 +29,7 @@ require 'inc/header.php';
       <img class="img-fluid" src="img/first_overview/FIRST_Vertical_RGB.jpg" width="175" alt="FIRST Logo">
     </div>
   </div>
-  <div class="row p-2">
+  <div class="row m-0 mb-3">
     <div class="col-sm-4">
       <img class="img-fluid" src="img/first_overview/FIRSTRobotics_IconVert_RGB.jpg" width="250" alt="FRC Logo">
     </div>
@@ -47,7 +47,7 @@ require 'inc/header.php';
       </p>
     </div>
   </div>
-  <div class="row p-2">
+  <div class="row m-0 mb-3">
     <div>
       <p>
         FIRST supports a team base team with team cooperation as one of their main priority. Cooperation
@@ -59,7 +59,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row bg-light" style="margin: 0">
+  <div class="row bg-light m-0 mb-3">
     <div>
       <h2>Mission Statement and 503c Statement</h2>
     </div>

@@ -11,7 +11,7 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Blog</h1>
     <hr>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h2>2025-2026</h2>
       </div>
@@ -26,17 +26,17 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1da7y2fRXm7Jtg_fXvPpritKYZl79Pl0LEZ6vpUaao1I/edit?usp=sharing">August 2025</a></ul>
         <ul><a href="https://docs.google.com/document/d/1EA81P_yXLW8lLvz6h6tMiVt1MKWuZyG7D03KdJ4mzxY/edit?usp=sharing">Summer 2025</a></ul>
       </div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2025-26B.jpg" alt="BLOG_2025-26 IMG"> </div>
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2025-26B.jpg" alt="BLOG_2025-26 IMG"> </div>
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h2>2024-2025</h2>
       </div>
       <div class="col-sm-1"></div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2024-25.jpg" alt="BLOG_2023-24 IMG"> </div>
-      <div class="col-sm-4" style="margin: 1">
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2024-25.jpg" alt="BLOG_2023-24 IMG"> </div>
+      <div class="col-sm-4">
         <ul></ul>
         <ul><a href="https://docs.google.com/document/d/1vR1XO1GeJDvjAtJzuLi2H_55qq9DB5JIM2HrFvJwCVY/edit?usp=sharing">May 2025</a></ul>
         <ul><a href="https://docs.google.com/document/d/1ukZ4pHxxQJETAm0sySGhxYXF6MKpJcWUSquKoLRPPaQ/edit?usp=sharing">April 2025</a></ul>
@@ -52,7 +52,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h2>2023-2024</h2>
       </div>
@@ -68,18 +68,18 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1uirZqEmQL5foi1brleSMPsR4TbtPxcxWVz_oxqmi4vI/edit?usp=sharing">August 2023</a></ul>
         <ul><a href="https://docs.google.com/document/d/14xn7t0u-omP5WpKRGPWiYXWVky7PeBzIOWtZfZr872o/edit?usp=sharing">Summer 2023</a></ul>
       </div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2023-24.jpg" alt="BLOG_2023-24 IMG"> </div>
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2023-24.jpg" alt="BLOG_2023-24 IMG"> </div>
       <div class="col-sm-1"></div>
     </div>
 
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h2>2022-2023</h2>
       </div>
       <div class="col-sm-1"></div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2022-23_img.jpg" alt="BLOG_2022-23 IMG"> </div>
-      <div class="col-sm-4" style="margin: 1">
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2022-23_img.jpg" alt="BLOG_2022-23 IMG"> </div>
+      <div class="col-sm-4">
         <ul></ul>
         <ul><a href="https://docs.google.com/document/d/12kcLkcqHLRa0aor4f0D6h5IR5YNoB2WJbTibDdpwr9I/edit?usp=sharing">May 2023</a></ul>
         <ul><a href="https://docs.google.com/document/d/1WfmQvAFrcXVIaMqbEec45lO8ZSFwXENHw7Ok8u-mJnE/edit?usp=share_link">March 2023</a></ul>
@@ -91,7 +91,7 @@ require 'inc/header.php';
       </div>
       <div class="col-sm-1"></div>
     </div>
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h2>2021-2022</h2>
       </div>
@@ -105,17 +105,17 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1Yh5kSuKRLIkTZZ9pnQu8igDLtqufJmeew1CoT9Zyr_U/edit?usp=sharing">September 2021</a></ul>
         <ul><a href="https://docs.google.com/document/d/1437DlYsmOebneF6Ja1qVTjEzRr8gRPJ0HRKZSl_txKA/edit?usp=sharing">Summer 2021</a></ul>
       </div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2021-22B.jpg" alt="BLOG_2021-22 IMG"> </div>
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2021-22B.jpg" alt="BLOG_2021-22 IMG"> </div>
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h2>2020-2021</h2>
       </div>
       <div class="col-sm-1"></div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2020-21.png" alt="BLOG_2020-21 IMG"> </div>
-      <div class="col-sm-4" style="margin: 1">
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2020-21.png" alt="BLOG_2020-21 IMG"> </div>
+      <div class="col-sm-4">
         <ul></ul>
         <ul><a href="https://docs.google.com/document/d/1TV9uCzloajZ8wiDP-d9TZCERwVQ5Uvngk0mOddVgMh0/edit?usp=sharing">May 2021</a></ul>
         <ul><a href="https://docs.google.com/document/d/1wWBuxZQTHEjhtwRsRD8IpOPSNKbPRHDaN-q2i7QoNRU/edit?usp=sharing">April 2021</a></ul>
@@ -132,7 +132,7 @@ require 'inc/header.php';
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h2>2019-2020</h2>
       </div>
@@ -147,17 +147,17 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1Fd-wrWSAYNtLurZ2VYpvgq3T3zSC7TRlLamtWuX1oc8/edit?usp=sharing">August 2019</a></ul>
         <ul><a href="https://docs.google.com/document/d/1ODKP93tiO14wJIalGxqDtqLwHM1LQ6V1MasSPzh2IkQ/edit?usp=sharing">Summer 2019</a></ul>
       </div>
-      <div class="col-sm-7"> <img class="img-fluid" src="img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
+      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
       <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light" style="margin: 0">
+    <div class="row bg-light m-0 mb-3">
       <div>
         <h2>2018-2019</h2>
       </div>
       <div class="col-sm-1"></div>
-      <div class="col-sm-6"> <img class="img-fluid" src="img/blog/blog2018-19.jpg" alt="BLOG_2018-19 IMG"> </div>
-      <div class="col-sm-4" style="margin: 1">
+      <div class="col-sm-6 mb-2"> <img class="img-fluid" src="img/blog/blog2018-19.jpg" alt="BLOG_2018-19 IMG"> </div>
+      <div class="col-sm-4">
         <ul></ul>
         <ul></ul>
         <ul><a href="https://docs.google.com/document/d/1IFSHsbEx8eFZA5NQk96VdJO2ODSiQD2HhAJx8Lzh3VE/edit?usp=sharing">March 2019</a></ul>
@@ -171,7 +171,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row p-2">
+    <div class="row m-0 mb-3">
       <div>
         <h2>2017-2018</h2>
       </div>
@@ -184,7 +184,7 @@ require 'inc/header.php';
         <ul><a href="https://docs.google.com/document/d/1POEjwWegzWsxOBlxNCZdQFXF7NVHB3VFG9gyigKZFOo/edit?usp=sharing">October 2017</a></ul>
         <ul><a href="https://docs.google.com/document/d/1jiXTdrWE4k0x0wbbTmL4H0W9AfjJy0DsiU2j4PlLcLg/edit?usp=sharing">September 2017</a></ul>
       </div>
-      <div class="col-sm-7"><img class="img-fluid" src="img/blog/blog2017-18.jpg" alt="BLOG_2017-18 IMG"></div>
+      <div class="col-sm-7 mb-2"><img class="img-fluid" src="img/blog/blog2017-18.jpg" alt="BLOG_2017-18 IMG"></div>
       <div class="col-sm-1"></div>
     </div>
   </div>

@@ -7,12 +7,11 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <div class="row m-3">
+  <div class="row p-2">
     <h1 class="fw-bold mt-3">Awards</h1>
     <hr>
 
-    <!-- Main content area for this page -->
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2026 FIRST Leadership Award Semi-Finalist</h2>
         <p>
@@ -25,7 +24,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous">
       </div>
@@ -38,7 +37,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2026 Sacramento District Creativity Award</h2>
         <p>
@@ -50,7 +49,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality">
       </div>
@@ -62,7 +61,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2024 Monterey Bay Regional Quality Award</h2>
         <p>
@@ -74,7 +73,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner">
       </div>
@@ -87,7 +86,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2023 Capital City Classic Winner</h2>
         <p>
@@ -100,7 +99,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2023_DeansList.jpg" alt="2023_DeansList">
       </div>
@@ -113,7 +112,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2023 Central Valley Regional Team Sustainability Award</h2>
         <p>
@@ -125,7 +124,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering">
       </div>
@@ -138,7 +137,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2022 Monterey Bay Regional Finalists</h2>
         <p>
@@ -151,7 +150,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists">
       </div>
@@ -164,7 +163,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2022 Ventura County Regional Industrial Design Award</h2>
         <p>
@@ -176,7 +175,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner">
       </div>
@@ -189,7 +188,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2021 CalGames System Design Award</h2>
         <p>
@@ -201,7 +200,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2021_DeansList.jpg" alt="2021_DeansList">
       </div>
@@ -214,7 +213,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2020 KLA RoboGames Outstanding Mentor Award</h2>
         <p>
@@ -227,7 +226,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit">
       </div>
@@ -241,7 +240,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-9">
         <h2>2018 Dean's List Award Finalist</h2>
         <p>
@@ -255,7 +254,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-9">
         <h2>2017 Silicon Valley Regional Industrial Safety Award Finalist</h2>
         <p>
@@ -267,7 +266,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner">
       </div>
@@ -283,7 +282,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class=" row m-3">
+    <div class=" row m-0 mb-3">
       <div class="col-sm-9">
         <h2>2016 Madtown Throwdown WOW Factor Award</h2>
         <p>
@@ -298,7 +297,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner">
       </div>
@@ -313,7 +312,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-9">
         <h2>2015 Madtown Throwdown Gracious Professionalism Award</h2>
         <p>
@@ -330,7 +329,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit">
       </div>
@@ -346,7 +345,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-9">
         <h2>2014 Chezy Champs Finalist</h2>
         <p>
@@ -362,7 +361,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-3">
         <img class="img-fluid" src="img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner">
       </div>
@@ -377,7 +376,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row m-3">
+    <div class="row m-0 mb-3">
       <div class="col-sm-9">
         <h2>2007 FIRST Rookie Inspiration Award</h2>
         <p>
@@ -392,7 +391,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-3">
+    <div class="row bg-light m-0 mb-3">
       <div class="col-sm-3">
       </div>
       <div>
