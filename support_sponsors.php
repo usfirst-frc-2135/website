@@ -7,11 +7,7 @@ require 'inc/header.php';
 
   <!-- Main content area for this page -->
 
-  <!--  <div class="row p-2"> 
-          <h1 class="fw-bold mt-3">Sponsors</h1> <hr>
-       </div> -->
-
-  <div class="row m-3">
+  <div class="row p-2">
     <h1 class="fw-bold mt-3">Sponsors</h1>
     <hr>
     <div class="row bg-light">

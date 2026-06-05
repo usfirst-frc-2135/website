@@ -12,7 +12,7 @@
     <div class="col-md-3 text-center text-white-50">
       <div class="row">
         <div class="col-1">
-          <i class="bi bi-geo-alt"></i>
+          <a href="https://www.google.com/maps/place/2281+Plummer+Ave,+San+Jose,+CA"><i class="bi bi-geo-alt text-white-50"></i></a>
         </div>
         <div class="col-10">
           <p class="text-start">2281 Plummer Ave<br>San Jose, CA 95125<br>(408) 264-1664</p>
