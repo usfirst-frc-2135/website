@@ -67,6 +67,7 @@
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_leaders.php">Leaders</a></li>
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_mentors.php">Mentors</a></li>
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_awards.php">Awards</a></li>
+              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="about_history.php">History</a></li>
             </ul>
           </li>
 
