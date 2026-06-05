@@ -11,6 +11,7 @@
   <meta name="description" content="FRC 235 Web Site">
   <meta name="author" content="FRC Team 2135">
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
   <link rel="icon" type="image/png" href="assets/favicon.png">
   <title><?php echo $title; ?></title>
 
@@ -116,7 +117,6 @@
           </li>
 
           <li><a href="blog.php" class="nav-link text-white-50 text-end text-sm-start">Blog</a></li>
-          <li><a href="contact.php" class="nav-link text-white-50 text-end text-sm-start">Contact</a></li>
         </ul>
       </ul>
     </div>

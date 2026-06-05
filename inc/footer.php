@@ -1,24 +1,37 @@
 <!-- Footer -->
 
 <footer class="dark bg-dark mt-3 pb-3">
-  <div class="row container mx-auto">
-    <div class="col-sm-2"></div>
-    <div class="col-sm-3">
-      <p class="row fw-semibold fs-6 text-white-50 pt-2 mb-0">FIRST links</p>
-      <a class="row fs-6 text-white" href="http://www.firstinspires.org/">FIRST</a>
-      <a class="row fs-6 text-white" href="http://www.firstinspires.org/frc/">FIRST Robotics Competition</a>
+  <!-- <div class="row"> -->
+  <div class="row mx-auto">
+    <div class="col-md-2"></div>
+    <div class="col-md-3 text-center">
+      <a class="row fs-6 text-white-50" href="https://www.firstinspires.org/">About FIRST</a>
+      <a class="row fs-6 text-white-50" href="https://www.firstinspires.org/frc">About FRC</a>
+      <a class="row fs-6 text-white-50" href="https://www.presentationhs.org/">About Presentation HS</a>
     </div>
-    <div class="col-sm-3">
-      <p class="row fw-semibold fs-6 text-white-50 pt-2 mb-0">School links</p>
-      <a class="row fs-6 text-white" href="http://www.presentationhs.org/">Presentation HS</a>
-      <a class="row fs-6 text-white" href="website.php">FRC 2135 Website</a>
+    <div class="col-md-3 text-center text-white-50">
+      <div class="row">
+        <div class="col-1">
+          <i class="bi bi-geo-alt"></i>
+        </div>
+        <div class="col-10">
+          <p class="text-start">2281 Plummer Ave<br>San Jose, CA 95125<br>(408) 264-1664</p>
+        </div>
+      </div>
     </div>
-    <div class="col-sm-3">
-      <p class="row fw-semibold fs-6 text-white-50 pt-2 mb-0">Sponsor Us</p>
-      <button type="button" class="btn btn-sm btn-primary fs-6 mt-1" href="docs/sponsor_info.pdf">Download Information</button>
-      <p class="fs-6 text-white"> </p>
+    <div class="col-md-3 text-center">
+      <div class="row">
+        <a class="icon-link text-start fs-6 text-white-50" href="mailto:robotics@presentationhs.org"><i class="bi bi-envelope me-1"></i>Email Us</a>
+      </div>
+      <div class="row">
+        <a class="icon-link text-start fs-6 text-white-50" href="https://www.instagram.com/frc2135/"><i class="bi bi-instagram me-1"></i>Instagram</a>
+      </div>
+      <div class="row">
+        <a class="icon-link text-start fs-6 text-white-50" href="https://www.youtube.com/@Team2135"><i class="bi bi-youtube me-1"></i>YouTube</a>
+      </div>
     </div>
-    <div class="col-sm-1"></div>
+    <div class="col-md-1"></div>
+    <!-- </div> -->
   </div>
 </footer>
 
