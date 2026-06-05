@@ -110,8 +110,6 @@
             <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Support</a>
             <ul class="dropdown-menu bg-dark">
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_sponsors.php">Sponsors</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_fundraising.php">Fundraising</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_wishlist.php">Wishlist</a></li>
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="support_giving.php">Giving</a></li>
             </ul>
           </li>

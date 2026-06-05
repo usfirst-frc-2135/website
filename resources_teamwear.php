@@ -13,7 +13,7 @@ require 'inc/header.php';
     <div class="card mb-3" style="margin: 0">
       <h3 class="card-header">Team 2135 Sweatshirt</h3>
       <div>
-        <img class="img-fluid center-block" src="img/resources_teamwear/TeamwearSweatshirt2.jpg" alt="2135 Sweatshirt">
+        <img class="img-fluid" src="img/resources_teamwear/TeamwearSweatshirt2.jpg" alt="2135 Sweatshirt">
       </div>
     </div>
     <div class="card mb-3 bg-light" style="margin: 0">

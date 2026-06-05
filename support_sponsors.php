@@ -5,31 +5,48 @@ require 'inc/header.php';
 
 <div class="container" role="main">
 
-      <!-- Main content area for this page -->
+  <!-- Main content area for this page -->
 
-      <!--  <div class="row p-2"> 
+  <!--  <div class="row p-2"> 
           <h1 class="fw-bold mt-3">Sponsors</h1> <hr>
        </div> -->
 
-      <div class="row bg-light" style="margin: 0">
-            <!--   <h2>Platinum Sponsors</h2>
-          <div> <img class="img-fluid center-block" src="img/support_sponsors/platinumRow.png" alt="PlatinumRow"> </div> -->
-            <h2>Gold Sponsors</h2>
-            <div> <img class="img-fluid center-block" src="img/support_sponsors/gold_row.png" alt="GoldRow"> </div>
-            <!--COMMENT OUT Silver Title<h2>Silver Sponsors</h2>
-          <div> <img class="img-fluid center-block" src="img/support_sponsors/silver_row.png" alt="SilverRow"> </div> -->
-            <!-- COMMENT OUT 2nd and third Silver Row     <div> <img class="img-fluid center-block" src="img/support_sponsors/row_silver2.png" alt="ROW2"> </div> 
-          <div> <img class="img-fluid center-block" src="img/support_sponsors/row_silver3.png" alt="ROW3"> </div> -->
-            <h2>Bronze Sponsors</h2>
-            <div> <img class="img-fluid center-block" src="img/support_sponsors/bronze_row1.png" alt="Bronze1"> </div>
-            <!-- COMMENT OUT 2nd Bronze row    <div> <img class="img-fluid center-block" src="img/support_sponsors/bronze_row2.png" alt="Bronze2"> </div> -->
-            <h2>School Sponsor</h2>
-            <div> <img class="img-fluid center-block center-block" src="img/support_sponsors/PHS_row.png" alt="PresLogo"> </div>
-            <h2>Patrons</h2>
-            <div> <img class="img-fluid center-block" src="img/support_sponsors/families_row.png" alt="Family Row"> </div>
+  <div class="row m-3">
+    <h1 class="fw-bold mt-3">Sponsors</h1>
+    <hr>
+    <div class="row bg-light">
+      <!-- No Platinum sponsors this year, so comment out the section for now.
+        <h2>Platinum Sponsors</h2>
+        <div class="row mt-2"> 
+          <img class="img-fluid" src="img/support_sponsors/platinumRow.png" alt="PlatinumRow"> 
+        </div> 
+        -->
+      <h2>Gold Sponsors</h2>
+      <div class="row mt-2">
+        <img class="img-fluid" src="img/support_sponsors/gold_row.png" alt="GoldRow">
       </div>
+      <!-- No Silver sponsors this year, so comment out the section for now.
+        <h2>Silver Sponsors</h2>
+        <div class="row mt-2"> 
+          <img class="img-fluid" src="img/support_sponsors/silver_row.png" alt="SilverRow"> 
+        </div> 
+          -->
+      <h2>Bronze Sponsors</h2>
+      <div class="row mt-2">
+        <img class="img-fluid" src="img/support_sponsors/bronze_row1.png" alt="BronzeRow">
+      </div>
+      <h2>School Sponsor</h2>
+      <div class="row mt-2">
+        <img class="img-fluid" src="img/support_sponsors/PHS_row.png" alt="PresLogo">
+      </div>
+      <h2>Patrons</h2>
+      <div class="row mt-2">
+        <img class="img-fluid" src="img/support_sponsors/families_row.png" alt="Family Row">
+      </div>
+    </div>
+  </div>
 
-      <!-- End of Main content area -->
+  <!-- End of Main content area -->
 
 </div> <!-- /container -->
 

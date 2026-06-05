@@ -1,6 +1,6 @@
 <!-- Footer -->
 
-<footer class="dark bg-dark mt-3 pb-3">
+<footer class="dark bg-dark mt-3 pt-2 pb-2">
   <!-- <div class="row"> -->
   <div class="row mx-auto">
     <div class="col-md-2"></div>
@@ -21,13 +21,13 @@
     </div>
     <div class="col-md-3 text-center">
       <div class="row">
-        <a class="icon-link text-start fs-6 text-white-50" href="mailto:robotics@presentationhs.org"><i class="bi bi-envelope me-1"></i>Email Us</a>
+        <a class="icon-link text-start fs-6 text-white-50" href="mailto:robotics@presentationhs.org"><i class="bi bi-envelope me-2"></i>Email Us</a>
       </div>
       <div class="row">
-        <a class="icon-link text-start fs-6 text-white-50" href="https://www.instagram.com/frc2135/"><i class="bi bi-instagram me-1"></i>Instagram</a>
+        <a class="icon-link text-start fs-6 text-white-50" href="https://www.instagram.com/frc2135/"><i class="bi bi-instagram me-2"></i>Instagram</a>
       </div>
       <div class="row">
-        <a class="icon-link text-start fs-6 text-white-50" href="https://www.youtube.com/@Team2135"><i class="bi bi-youtube me-1"></i>YouTube</a>
+        <a class="icon-link text-start fs-6 text-white-50" href="https://www.youtube.com/@Team2135"><i class="bi bi-youtube me-2"></i>YouTube</a>
       </div>
     </div>
     <div class="col-md-1"></div>
