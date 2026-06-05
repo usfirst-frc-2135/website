@@ -11,8 +11,9 @@ require 'inc/header.php';
     <div class="col-sm-10">
       <h2>Photos From 2012-13</h2>
     </div>
-    <div class="col-sm-2"> <a href="media_photos.php" class="btn btn-info" role="button">
-        Back</a> </div>
+    <div class="col-sm-2">
+      <a href="news_photos.php" class="btn btn-primary float-end" role="button">Back</a>
+    </div>
   </div>
 
   <div id="carouselMain" class="carousel slide" data-bs-ride="carousel">

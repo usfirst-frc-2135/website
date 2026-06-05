@@ -88,14 +88,6 @@
           </li>
 
           <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Media</a>
-            <ul class="dropdown-menu bg-dark">
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="media_photos.php">Photos</a></li>
-              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="media_videos.php">Videos</a></li>
-            </ul>
-          </li>
-
-          <li class="nav-item dropdown">
             <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
             <ul class="dropdown-menu bg-dark">
               <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="resources_calendar.php">Calendar</a></li>
@@ -114,7 +106,15 @@
             </ul>
           </li>
 
-          <li><a href="blog.php" class="nav-link text-white-50 text-end text-sm-start">Blog</a></li>
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle text-white-50 text-end text-sm-start" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">News</a>
+            <ul class="dropdown-menu bg-dark">
+              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="news_blog.php">Blog</a></li>
+              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="news_photos.php">Photos</a></li>
+              <li><a class="dropdown-item text-white-50 text-end text-sm-start" href="news_videos.php">Videos</a></li>
+            </ul>
+          </li>
+
         </ul>
       </ul>
     </div>
