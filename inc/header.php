@@ -56,7 +56,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="menuItems">
-      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 me-3">
         <ul class="nav nav-pills flex-column flex-sm-row" data-bs-theme="dark">
 
           <li class="nav-item dropdown">
