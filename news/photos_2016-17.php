@@ -34,40 +34,40 @@ require 'inc/header.php';
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" role="option">
-        <img src="/img/home/slides/2016_CC_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+        <img src="/news/img/media/slides/2016_CC_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2016_CC_Banner.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+        <img src="/news/img/media/slides/2016_CC_Banner.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2016_MTTD_robots.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
+        <img src="/news/img/media/slides/2016_MTTD_robots.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2016_MTTD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
+        <img src="/news/img/media/slides/2016_MTTD_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2016_MTTD_award.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
+        <img src="/news/img/media/slides/2016_MTTD_award.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2016_Toys4Tots.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
+        <img src="/news/img/media/slides/2016_Toys4Tots.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_CVR_climb.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
+        <img src="/news/img/media/slides/2017_CVR_climb.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_CVR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
+        <img src="/news/img/media/slides/2017_CVR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_Champs_DeanK.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
+        <img src="/news/img/media/slides/2017_Champs_DeanK.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_Champs_suspenders.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
+        <img src="/news/img/media/slides/2017_Champs_suspenders.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_Champs_group.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
+        <img src="/news/img/media/slides/2017_Champs_group.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/img/home/slides/2017_Champs_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
+        <img src="/news/img/media/slides/2017_Champs_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselMain" role="button" data-bs-slide="prev">
