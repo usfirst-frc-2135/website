@@ -12,12 +12,12 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Student Team Handbook</h1>
     <hr>
     <div>
-      <ul><a href="/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">Student Team Handbook - direct link for unsupported browsers</a></ul>
+      <ul><a href="/resources/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">Student Team Handbook - direct link for unsupported browsers</a></ul>
     </div>
-    <object width="100%" height="1100" type="application/pdf" title="Team Handbook" data="/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">
+    <object width="100%" height="1100" type="application/pdf" title="Team Handbook" data="/resources/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">
       <p>
         It looks like your browser doesn't support embedded PDFs.
-        No problem! You can <a href="/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">download it directly</a> instead.
+        No problem! You can <a href="/resources/docs/2025-26_FRC2135_Student_Team_Handbook.pdf">download it directly</a> instead.
       </p>
     </object>
   </div>
