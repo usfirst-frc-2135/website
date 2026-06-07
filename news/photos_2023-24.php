@@ -13,7 +13,7 @@ require 'inc/header.php';
       <h2>Photos From 2023-24</h2>
     </div>
     <div class="col-sm-2">
-      <a href="news_photos.php" class="btn btn-primary float-end" role="button">Back</a>
+      <a href="/news/photos.php" class="btn btn-primary float-end" role="button">Back</a>
     </div>
   </div>
 
@@ -42,64 +42,64 @@ require 'inc/header.php';
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active" role="option">
-        <img src="/news/img/slides/2023_ccc_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+        <img src="/news/img/slides/2023-24/2023_ccc_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+        <img src="/news/img/slides/2023-24/2023_ccc_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_endgame.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
+        <img src="/news/img/slides/2023-24/2023_ccc_endgame.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_02">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
+        <img src="/news/img/slides/2023-24/2023_ccc_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_03">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_strategy.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
+        <img src="/news/img/slides/2023-24/2023_ccc_strategy.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_04">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
+        <img src="/news/img/slides/2023-24/2023_ccc_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_05">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_ccc_winners.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
+        <img src="/news/img/slides/2023-24/2023_ccc_winners.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_06" alt="Slide_06">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_mttd_scouts.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
+        <img src="/news/img/slides/2023-24/2023_mttd_scouts.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_07" alt="Slide_07">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_mttd_cone.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
+        <img src="/news/img/slides/2023-24/2023_mttd_cone.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_08" alt="Slide_08">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_mttd_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
+        <img src="/news/img/slides/2023-24/2023_mttd_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_09" alt="Slide_09">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_mttd_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
+        <img src="/news/img/slides/2023-24/2023_mttd_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_10" alt="Slide_10">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2023_mttd_winners.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
+        <img src="/news/img/slides/2023-24/2023_mttd_winners.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_11" alt="Slide_11">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_SacReg_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_SacReg_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_SacReg_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_SacReg_pit.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_SacReg_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_SacReg_stands.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_SacReg_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_SacReg_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_MBR_stage.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_MBR_stage.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_MBR_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_MBR_drive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_MBR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_MBR_team.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
       <div class="carousel-item" role="option">
-        <img src="/news/img/slides/2024_MBR_QualityAward.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
+        <img src="/news/img/slides/2023-24/2024_MBR_QualityAward.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_12" alt="Slide_12">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselMain" role="button" data-bs-slide="prev">
