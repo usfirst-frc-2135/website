@@ -4,9 +4,31 @@ set_include_path($_SERVER['DOCUMENT_ROOT']);
 require 'inc/header.php';
 ?>
 
+<header class="pb-2 bg-image-full">
+  <div class="text-center mb-3">
+    <!-- <img class="img-fluid rounded-circle mb-4" src="https://dummyimage.com/150x150/6c757d/dee2e6.jpg" alt="..." /> -->
+    <img class="img-fluid" src="/img/banner_pic.jpg" alt="..." />
+  </div>
+</header>
+
 <div class="container" role="main">
 
   <!-- Main content area for this page -->
+
+  <div class="row p-2">
+    <div class="mt-3">
+      <h1 class="fw-bold mt-3">Team 2135 - Presentation Invasion</h1>
+      <hr>
+    </div>
+    <div>
+      <p>
+        Presentation Invasion is an all-girls robotics program at Presentation High School in San Jose, CA.
+        We are a "learn by doing" program where young women learn to design, manufacture, build, program,
+        and compete with robots in the FIRST Robotics Competition. There are no pre-requisites beyond a desire
+        to learn about STEM-related fields.
+      </p>
+    </div>
+  </div>
 
   <div id="carouselMain" class="carousel slide" data-bs-ride="carousel">
 
@@ -80,21 +102,6 @@ require 'inc/header.php';
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </a>
-  </div>
-
-  <div class="row p-2">
-    <div class="mt-3">
-      <h1 class="fw-bold mt-3">Team 2135 - Presentation Invasion</h1>
-      <hr>
-    </div>
-    <div>
-      <p>
-        Presentation Invasion is an all-girls robotics program at Presentation High School in San Jose, CA.
-        We are a "learn by doing" program where young women learn to design, manufacture, build, program,
-        and compete with robots in the FIRST Robotics Competition. There are no pre-requisites beyond a desire
-        to learn about STEM-related fields.
-      </p>
-    </div>
   </div>
 
   <!-- End of Main content area -->

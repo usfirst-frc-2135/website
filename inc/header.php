@@ -52,8 +52,8 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-sm bg-dark sticky-top" data-bs-theme="dark">
     <a class="navbar-brand ms-2" href="/home.php"><img src="/assets/2135-Yellow.png" height="24" alt="2135-Logo"></a>
-    <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#menuItems" aria-controls="menuItems" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler navbar-dark me-2" type="button" data-bs-toggle="collapse" data-bs-target="#menuItems" aria-controls="menuItems" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon navbar-dark"></span>
     </button>
     <div class="collapse navbar-collapse" id="menuItems">
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0 me-3">

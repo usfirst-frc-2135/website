@@ -29,7 +29,7 @@ require 'inc/header.php';
       <div>
         <h3>Game Field</h3>
       </div>
-      <div>
+      <div class="mb-3">
         <img class="img-fluid" width="880" src="/first/img/first_2022-rapid_react/rapid_react_field.png" alt="Rapid React field">
       </div>
     </div>
@@ -38,7 +38,7 @@ require 'inc/header.php';
       <div>
         <h3>Game Field - 3D</h3>
       </div>
-      <div>
+      <div class="mb-3">
         <img class="img-fluid" width="880" src="/first/img/first_2022-rapid_react/rapid_react_field_3d.png" alt="Rapid React 3D field">
       </div>
     </div>
@@ -47,7 +47,7 @@ require 'inc/header.php';
       <div>
         <h3>Game Reveal Animation</h3>
       </div>
-      <div class="ratio ratio-16x9">
+      <div class="ratio ratio-16x9 mb-3">
         <iframe class="" src="https://www.youtube.com/embed/LgniEjI9cCM" allowfullscreen></iframe>
       </div>
     </div>

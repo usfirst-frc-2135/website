@@ -423,7 +423,7 @@ require 'inc/header.php';
         <em><strong>Robot Name: Steve (Steve Rogers)</strong></em>
         <div class="row">
           <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="/about/img/about_team/robots/robots_2013_SteveRogers_2.jpg" alt="2013 Steve"> </div>
-          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="/about/img/about_team/team/history_2013.jpg" alt="2013 Team"> </div>
+          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="/about/img/about_team/team/history_2013.png" alt="2013 Team"> </div>
         </div>
       </div>
     </div>
@@ -442,7 +442,7 @@ require 'inc/header.php';
         <em><strong>Robot Name: Mo (M-O from Wall-E)</strong></em>
         <div class="row">
           <div class="col-sm-5 d-flex justify-content-center"> <img class="img-fluid" src="/about/img/about_team/robots/robots_2012_Moe_4.jpg" alt="2012 Mo"> </div>
-          <div class="col-sm-7 d-flex justify-content-center"> <img class="img-fluid" src="/about/img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
+          <div class="col-sm-7 justify-content-center"> <img class="img-fluid" src="/about/img/about_team/team/history_2012_4.jpg" alt="2012 Team"> </div>
         </div>
       </div>
     </div>
