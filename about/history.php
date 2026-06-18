@@ -562,6 +562,11 @@ require 'inc/header.php';
     </div>
   </div>
 
+  <div class="row p-2 mt-3">
+    <h4>Original 2007-10 page</h4>
+    <a class="col-3 btn btn-primary" href="/old/history.html" role="button">Early history</a>
+  </div>
+
   <!-- End of Main content area -->
 
 </div> <!-- /container -->

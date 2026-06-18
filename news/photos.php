@@ -67,7 +67,12 @@ require 'inc/header.php';
       <a href="photos_2011-12.php"> <img class="mb-3" src="/news/img/slides/button_images/button11-12.jpg" width="180" height="130" alt="Photos11-12" /></a>
       <p>Photos 2011-12</p>
     </div>
+  </div>
 
+
+  <div class="row p-2 mt-3">
+    <h4>Photo galleries for 2007-1012</h4>
+    <a class="col-3 btn btn-primary" href="/old/gallery.html" role="button">Early photos</a>
   </div>
 
   <!-- End of Main content area -->
