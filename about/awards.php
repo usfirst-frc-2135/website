@@ -12,400 +12,474 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Awards</h1>
     <hr>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2026 FIRST Leadership Award Semi-Finalist</h2>
-        <p>
-          The FIRST Leadership Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Jeanelle Dao and Eleanor Carcione were nominated this year by
-          the mentors. Jeanelle was announced as a FIRST Leadership District Semi-Finalist at the 2026 Contra Costa District!
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid float-end" src="/about/img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous">
-      </div>
-      <div class="col-sm-9">
-        <h2>2026 Contra Costa District Autonomous Award</h2>
-        <p>
-          The Autonomous Award celebrates the team whose machine has demonstrated consistent, reliable, high-performance robot operation during autonomous (i.e. non-operated guided) actions during
-          match play. Evaluation is based on the robot’s ability to sense its surroundings, position itself or onboard mechanisms appropriately, and execute tasks.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2026 FIRST Leadership Award Semi-Finalist</h2>
+          <p>
+            The FIRST Leadership Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Jeanelle Dao and Eleanor Carcione were nominated this year by
+            the mentors. Jeanelle was announced as a FIRST Leadership District Semi-Finalist at the 2026 Contra Costa District!
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid float-end" src="/about/img/about_awards/2026_Leadership.jpg" alt="2026_SacD_Creativity">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2026 Sacramento District Creativity Award</h2>
-        <p>
-          The Creativity Award celebrates a creative robotic component, concept or attribute that enhances strategy of play that was intentionally designed and not discovered.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality">
-      </div>
-      <div class="col-sm-9">
-        <h2>2025 Sacramento Regional Quality Award</h2>
-        <p>
-          The Quality Award celebrates machine robustness in concept and fabrication.
-        </p>
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2026_CCD_Autonomous.jpg" alt="2026_SacD_autonomous">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2026 Contra Costa District Autonomous Award</h2>
+          <p>
+            The Autonomous Award celebrates the team whose machine has demonstrated consistent, reliable, high-performance robot operation during autonomous (i.e. non-operated guided) actions during
+            match play. Evaluation is based on the robot’s ability to sense its surroundings, position itself or onboard mechanisms appropriately, and execute tasks.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2024 Monterey Bay Regional Quality Award</h2>
-        <p>
-          The Quality Award celebrates machine robustness in concept and fabrication.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner">
-      </div>
-      <div class="col-sm-9">
-        <h2>2023 Madtown Throwdown Winner</h2>
-        <p>
-          The Madtown Throwdown Winner Award celebrates the Alliance that wins the final match of the
-          competition. Team 2135 won this award with Team 1678 - Citrus Circuits, Team 5940 - BREAD, and Team 841 - The Biomechs, going undefeated in the Elimination Round.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2026 Sacramento District Creativity Award</h2>
+          <p>
+            The Creativity Award celebrates a creative robotic component, concept or attribute that enhances strategy of play that was intentionally designed and not discovered.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2026_SacD_Creativity.jpg" alt="2026_SacD_Creativity">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2023 Capital City Classic Winner</h2>
-        <p>
-          The Capital City Classic Winner Award celebrates the Alliance that wins the final match of the
-          competition. Team 2135 won this award with Team 5940 - BREAD, Team 1678 - Citrus Circuits, and Team 5458 - Digital Minds, going undefeated in the Elimination Round.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2023_DeansList.jpg" alt="2023_DeansList">
-      </div>
-      <div class="col-sm-9">
-        <h2>2023 Dean's List Award Finalist</h2>
-        <p>
-          The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Anisha Shukla and Vinati Pillutla were nominated this year by the
-          mentors to be Dean's List Semi-Finalists. Anisha was announced as a Dean's List Finalist at the 2023 Central Valley Regional!
-        </p>
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2025_SacReg_Quality.jpg" alt="2025_SacReg_quality">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2025 Sacramento Regional Quality Award</h2>
+          <p>
+            The Quality Award celebrates machine robustness in concept and fabrication.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2023 Central Valley Regional Team Sustainability Award</h2>
-        <p>
-          The Team Sustainability Award celebrates and recognizes a team which has developed a sustainable program in order to define, manage, and achieve the team’s ongoing objectives.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering">
-      </div>
-      <div class="col-sm-9">
-        <h2>2022 Capital City Classic Excellence in Engineering Award</h2>
-        <p>
-          The Excellence in Engineering Award celebrates an elegant and advantageous machine feature. Students must be able to describe the engineered feature and trace its conception, design,
-          manufacturing/assembly and deployment.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2024 Monterey Bay Regional Quality Award</h2>
+          <p>
+            The Quality Award celebrates machine robustness in concept and fabrication.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2024_mbr_quality.jpg" alt="2024 MBR Quality">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2022 Monterey Bay Regional Finalists</h2>
-        <p>
-          Team 2135 finished the Qualification Round ranked 6th, and was picked by the 2nd-seeded alliance, captained by Team 5104 - BreakerBots. Team 7528 - Nuts and Bolts rounded out the alliance,
-          which made it to the Finals.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists">
-      </div>
-      <div class="col-sm-9">
-        <h2>2022 Ventura County Regional Finalists</h2>
-        <p>
-          Team 2135 finished the Qualification Round ranked 4th, making it the captain of the 3rd-seeded alliance. The team pushed hard to make it to the finals with our alliance: Team 3512 -
-          Spartatroniks, and Team 2637 - Phantom Catz.
-        </p>
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2023_MTTD_Winner.jpg" alt="2023_MTTD_winner">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2023 Madtown Throwdown Winner</h2>
+          <p>
+            The Madtown Throwdown Winner Award celebrates the Alliance that wins the final match of the
+            competition. Team 2135 won this award with Team 1678 - Citrus Circuits, Team 5940 - BREAD, and Team 841 - The Biomechs, going undefeated in the Elimination Round.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2022 Ventura County Regional Industrial Design Award</h2>
-        <p>
-          The Industrial Design Award celebrates the team that demonstrates industrial design principles, striking a balance between form, function, and aesthetics.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner">
-      </div>
-      <div class="col-sm-9">
-        <h2>2021 CalGames Winner</h2>
-        <p>
-          Team 2135 finished the Qualification Round ranked first, making it the captain of the top-seeded alliance. The team won the event with our alliance: Team 1868 - Space Cookies, Team 6059 -
-          System Overload Robotics, and Team 840 - Aragon Robotics, going undefeated in the Elimination Round.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2023 Capital City Classic Winner</h2>
+          <p>
+            The Capital City Classic Winner Award celebrates the Alliance that wins the final match of the
+            competition. Team 2135 won this award with Team 5940 - BREAD, Team 1678 - Citrus Circuits, and Team 5458 - Digital Minds, going undefeated in the Elimination Round.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2023_ccc_winner.jpg" alt="2023 CCC Winner">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2021 CalGames System Design Award</h2>
-        <p>
-          The System Design Award recognizes an exceptional system design for a robot. Our robot, Grogu, won this award for its double wide shooter that can shoot two power cells at a time.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2021_DeansList.jpg" alt="2021_DeansList">
-      </div>
-      <div class="col-sm-9">
-        <h2>2021 Dean's List Award Finalist</h2>
-        <p>
-          The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Christine Yang and Shweta Arun were nominated this year by the
-          mentors to be Dean's List Semi-Finalists. Shweta was announced as a Dean's List Finalist at the FRC Bay Area Awards Show in May!
-        </p>
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2023_DeansList.jpg" alt="2023_DeansList">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2023 Dean's List Award Finalist</h2>
+          <p>
+            The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Anisha Shukla and Vinati Pillutla were nominated this year by the
+            mentors to be Dean's List Semi-Finalists. Anisha was announced as a Dean's List Finalist at the 2023 Central Valley Regional!
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2020 KLA RoboGames Outstanding Mentor Award</h2>
-        <p>
-          The Outstanding Mentor Award celebrates an outstanding adult mentor who best leads, inspires, teaches, and empowers their team. Lead mentor Jeff Mullins won this award from a nomination
-          written by the students, explaining how he inspired and motivated them, and how he empowers student growth and learning.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit">
-      </div>
-      <div class="col-sm-9">
-        <h2>2019 Central Valley Regional Spirit Award</h2>
-        <p>
-          The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
-          partnership and teamwork furthering the objectives of FIRST. Team 2135 won this award
-          at the Central Valley Regional by demonstrating these key values during the competition.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2023 Central Valley Regional Team Sustainability Award</h2>
+          <p>
+            The Team Sustainability Award celebrates and recognizes a team which has developed a sustainable program in order to define, manage, and achieve the team’s ongoing objectives.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2023_cvr_sustainability.jpg" alt="2023 CVR Sustainability">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2018 Dean's List Award Finalist</h2>
-        <p>
-          The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade, nominated by a FIRST Robotics Competition team. At the Arizona
-          North Regional, team members Anjali Sinha '19 and Samantha Yang '19 were nominated by their mentors for this prestigious honor. Anjali Sinha '19 became a finalist for the Dean's List Award
-          and travelled to the Houston Championships to compete against other finalists.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2018_DeansList.jpg" alt="2018_DeansList">
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2017 Silicon Valley Regional Industrial Safety Award Finalist</h2>
-        <p>
-          The Industrial Safety Award celebrates teams with a concern for safe practices and
-          preparedness that spreads the message to others to protect against possible
-          hazards. Team 2135 was a finalist for this award at Silicon Valley Regional along
-          with Team 254 - The Cheesy Poofs and Team 1868 - Space Cookies, who then won the award.
-        </p>
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2022_CCC_Engineering.jpg" alt="2022_CCC_Engineering">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2022 Capital City Classic Excellence in Engineering Award</h2>
+          <p>
+            The Excellence in Engineering Award celebrates an elegant and advantageous machine feature. Students must be able to describe the engineered feature and trace its conception, design,
+            manufacturing/assembly and deployment.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner">
-      </div>
-      <div class="col-sm-9">
-        <h2>2017 Central Valley Regional Winners</h2>
-        <p>
-          The Regional Winners Award celebrates the Alliance that wins the final match of
-          the competition. Team 2135 won this award with Team 1678 - Citrus Circuits
-          and Team 1323 - MadTown Robotics in March of the 2016-2017 school year.
-          This win at Central Valley Regional took us to the FIRST World Championships
-          in Houston, the first year of a dual championship, where we played in the Galileo Division.
-        </p>
-      </div>
-    </div>
-
-    <div class=" row m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2016 Madtown Throwdown WOW Factor Award</h2>
-        <p>
-          The WOW Factor Award celebrates a team that makes an impression on the judges.
-          At the off-season competition Madtown Throwdown, Team 2135 won this for not
-          only our clean, simple, elegant, and efficient design of our robot Max, but
-          also the structure and "hands on" approach of our team.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor">
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2022 Monterey Bay Regional Finalists</h2>
+          <p>
+            Team 2135 finished the Qualification Round ranked 6th, and was picked by the 2nd-seeded alliance, captained by Team 5104 - BreakerBots. Team 7528 - Nuts and Bolts rounded out the alliance,
+            which made it to the Finals.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2022_MBR_Finalists.jpg" alt="2022_MBR_Finalists">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner">
-      </div>
-      <div class="col-sm-9">
-        <h2>2016 Chezy Champs Winners</h2>
-        <p>
-          The Chezy Champs Winner Award celebrates the Alliance that wins the final match of the
-          competition. Team 2135 won this award with Team 1678 - Citrus Circuits, Team 971 - Mountain
-          View HS Spartan Robotics, and Team 604 - Quixilver in September of the 2016-2017 school
-          year, making us the Chezy Champions!
-        </p>
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2015 Madtown Throwdown Gracious Professionalism Award</h2>
-        <p>
-          The Gracious Professionalism Award celebrates outstanding demonstration of FIRST Core
-          Values such as continuous Gracious Professionalism working together both on and
-          off the playing field. Team 2135 won this award during an offseason competition in
-          November of the 2015-2016 school year at Madtown Throwdown in Madera. Team 2135 won this
-          award by cooperating and helping other teams, whether it was to lend a drill or
-          to simply encourage them in their next round, we always show displayed professionalism.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism">
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2022_vcr_finalistsAward.jpg" alt="2022_vcr_finalists">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2022 Ventura County Regional Finalists</h2>
+          <p>
+            Team 2135 finished the Qualification Round ranked 4th, making it the captain of the 3rd-seeded alliance. The team pushed hard to make it to the finals with our alliance: Team 3512 -
+            Spartatroniks, and Team 2637 - Phantom Catz.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit">
-      </div>
-      <div class="col-sm-9">
-        <h2>2014 Madtown Throwdown Spirit Award</h2>
-        <p>
-          The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
-          partnership and teamwork furthering the objectives of FIRST. Team 2135 won this award
-          during an off-season competition in November of the 2014-2015 school year at Madtown
-          Throwdown in Madera. By being the most enthusiastic team, we won this award by cheering
-          on every team and showing our team pride.
-        </p>
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2014 Chezy Champs Finalist</h2>
-        <p>
-          The Finalist Award celebrates the Alliance that makes it to the final match of the
-          competition. Team 2135 won this award with Team 971 - Mountain
-          View HS Spartan Robotics and Team 846 - The Funky Monkeys in September of the 2014-2015 school
-          year, losing only in the final match to Team 254 - The Cheesy Poofs who had just won
-          the Championship in St. Louis a few months earlier.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist">
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2022 Ventura County Regional Industrial Design Award</h2>
+          <p>
+            The Industrial Design Award celebrates the team that demonstrates industrial design principles, striking a balance between form, function, and aesthetics.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2022_vcr_industrialDesignAward.jpg" alt="2022_vcr_industrialDesign">
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner">
-      </div>
-      <div class="col-sm-9">
-        <h2>2014 FIRST Central Valley Regional Winners</h2>
-        <p>
-          The Regional Winners Award celebrates the Alliance that wins the final match of
-          the competition. Team 2135 won this award with Bellarmine's robotics Team 254 - The
-          Cheesy Poofs and Team 973 - The Greybots in March of the 2013-2014 school year.
-          This win took us to St. Louis that spring to participate in FIRST Championship matches.
-        </p>
-      </div>
-    </div>
-
-    <div class="row m-0 mb-3">
-      <div class="col-sm-9">
-        <h2>2007 FIRST Rookie Inspiration Award</h2>
-        <p>
-          The Rookie Inspiration Award celebrates a rookie team’s outstanding success in
-          advancing respect and appreciation for engineering and engineers, both within their
-          school, as well as in their community. Team 2135 won this award at the Silicon Valley
-          Regional held during March of the 2006-2007 school year.
-        </p>
-      </div>
-      <div class="col-sm-3">
-        <img class="img-fluid" src="/about/img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration">
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2021_CG_Winner.jpg" alt="2021_CG_Winner">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2021 CalGames Winner</h2>
+          <p>
+            Team 2135 finished the Qualification Round ranked first, making it the captain of the top-seeded alliance. The team won the event with our alliance: Team 1868 - Space Cookies, Team 6059 -
+            System Overload Robotics, and Team 840 - Aragon Robotics, going undefeated in the Elimination Round.
+          </p>
+        </div>
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div class="col-sm-3">
-      </div>
-      <div>
-        <h2>2007 FIRST Web Site Excellence Award</h2>
-      </div>
-      <div class="col-sm-9">
-        <p>
-          The Web Site Excellence Award is given to all teams who meet a minimum scoring
-          criteria from a panel of judges. Scoring is based not only on how well the site
-          functions, but also how inviting and engaging it holds the viewer.
-        </p>
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2021 CalGames System Design Award</h2>
+          <p>
+            The System Design Award recognizes an exceptional system design for a robot. Our robot, Grogu, won this award for its double wide shooter that can shoot two power cells at a time.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2021_CG_SystemDesign.jpg" alt="2021_CG_SystemDesign">
+        </div>
       </div>
     </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2021_DeansList.jpg" alt="2021_DeansList">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2021 Dean's List Award Finalist</h2>
+          <p>
+            The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade. Christine Yang and Shweta Arun were nominated this year by the
+            mentors to be Dean's List Semi-Finalists. Shweta was announced as a Dean's List Finalist at the FRC Bay Area Awards Show in May!
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2020 KLA RoboGames Outstanding Mentor Award</h2>
+          <p>
+            The Outstanding Mentor Award celebrates an outstanding adult mentor who best leads, inspires, teaches, and empowers their team. Lead mentor Jeff Mullins won this award from a nomination
+            written by the students, explaining how he inspired and motivated them, and how he empowers student growth and learning.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2020_RoboGames_OM.jpg" alt="2020_RoboGames_OM">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2019_CVR_Team_Spirit.jpg" alt="2019_CVR_Team_Spirit">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2019 Central Valley Regional Spirit Award</h2>
+          <p>
+            The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
+            partnership and teamwork furthering the objectives of FIRST. Team 2135 won this award
+            at the Central Valley Regional by demonstrating these key values during the competition.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2018 Dean's List Award Finalist</h2>
+          <p>
+            The Dean's List Award recognizes the leadership and dedication of FIRST's most outstanding students in 10th or 11th grade, nominated by a FIRST Robotics Competition team. At the Arizona
+            North Regional, team members Anjali Sinha '19 and Samantha Yang '19 were nominated by their mentors for this prestigious honor. Anjali Sinha '19 became a finalist for the Dean's List Award
+            and travelled to the Houston Championships to compete against other finalists.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2018_DeansList.jpg" alt="2018_DeansList">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-2">
+        </div>
+        <div class="col-sm-9 order-1 order-sm-1">
+          <h2>2017 Silicon Valley Regional Industrial Safety Award Finalist</h2>
+          <p>
+            The Industrial Safety Award celebrates teams with a concern for safe practices and
+            preparedness that spreads the message to others to protect against possible
+            hazards. Team 2135 was a finalist for this award at Silicon Valley Regional along
+            with Team 254 - The Cheesy Poofs and Team 1868 - Space Cookies, who then won the award.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2017 Central Valley Regional Winners</h2>
+          <p>
+            The Regional Winners Award celebrates the Alliance that wins the final match of
+            the competition. Team 2135 won this award with Team 1678 - Citrus Circuits
+            and Team 1323 - MadTown Robotics in March of the 2016-2017 school year.
+            This win at Central Valley Regional took us to the FIRST World Championships
+            in Houston, the first year of a dual championship, where we played in the Galileo Division.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2017_CVR_Winner.jpg" alt="2017_CVR_Winner">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class=" row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2016 Madtown Throwdown WOW Factor Award</h2>
+          <p>
+            The WOW Factor Award celebrates a team that makes an impression on the judges.
+            At the off-season competition Madtown Throwdown, Team 2135 won this for not
+            only our clean, simple, elegant, and efficient design of our robot Max, but
+            also the structure and "hands on" approach of our team.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2016 Chezy Champs Winners</h2>
+          <p>
+            The Chezy Champs Winner Award celebrates the Alliance that wins the final match of the
+            competition. Team 2135 won this award with Team 1678 - Citrus Circuits, Team 971 - Mountain
+            View HS Spartan Robotics, and Team 604 - Quixilver in September of the 2016-2017 school
+            year, making us the Chezy Champions!
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2015_MTTD_Gracious_Professionalism.jpg" alt="2015_Gracious_Professionalism">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2015 Madtown Throwdown Gracious Professionalism Award</h2>
+          <p>
+            The Gracious Professionalism Award celebrates outstanding demonstration of FIRST Core
+            Values such as continuous Gracious Professionalism working together both on and
+            off the playing field. Team 2135 won this award during an offseason competition in
+            November of the 2015-2016 school year at Madtown Throwdown in Madera. Team 2135 won this
+            award by cooperating and helping other teams, whether it was to lend a drill or
+            to simply encourage them in their next round, we always show displayed professionalism.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2014 Madtown Throwdown Spirit Award</h2>
+          <p>
+            The Spirit Award celebrates extraordinary enthusiasm and spirit through exceptional
+            partnership and teamwork furthering the objectives of FIRST. Team 2135 won this award
+            during an off-season competition in November of the 2014-2015 school year at Madtown
+            Throwdown in Madera. By being the most enthusiastic team, we won this award by cheering
+            on every team and showing our team pride.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2014_MTTD_Team_Spirit.jpg" alt="2014_MTTD_Team_Spirit">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2014 Chezy Champs Finalist</h2>
+          <p>
+            The Finalist Award celebrates the Alliance that makes it to the final match of the
+            competition. Team 2135 won this award with Team 971 - Mountain
+            View HS Spartan Robotics and Team 846 - The Funky Monkeys in September of the 2014-2015 school
+            year, losing only in the final match to Team 254 - The Cheesy Poofs who had just won
+            the Championship in St. Louis a few months earlier.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2014 FIRST Central Valley Regional Winners</h2>
+          <p>
+            The Regional Winners Award celebrates the Alliance that wins the final match of
+            the competition. Team 2135 won this award with Bellarmine's robotics Team 254 - The
+            Cheesy Poofs and Team 973 - The Greybots in March of the 2013-2014 school year.
+            This win took us to St. Louis that spring to participate in FIRST Championship matches.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+          <img class="img-fluid" src="/about/img/about_awards/2014_CVR_Winner.jpg" alt="2014_CVR_Winner">
+        </div>
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="row m-0 mt-3 mb-3">
+        <div class="col-sm-3 order-1 order-sm-1">
+          <img class="img-fluid" src="/about/img/about_awards/2007_Rookie_Inspiration.jpg" alt="20007_Rookie_Inspiration">
+        </div>
+        <div class="col-sm-9 order-2 order-sm-2">
+          <h2>2007 FIRST Rookie Inspiration Award</h2>
+          <p>
+            The Rookie Inspiration Award celebrates a rookie team’s outstanding success in
+            advancing respect and appreciation for engineering and engineers, both within their
+            school, as well as in their community. Team 2135 won this award at the Silicon Valley
+            Regional held during March of the 2006-2007 school year.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!--  -->
+    <div class="card mb-3">
+      <div class="row bg-light m-0 mt-3 mb-3">
+        <div class="col-sm-9 order-2 order-sm-1">
+          <h2>2007 FIRST Web Site Excellence Award</h2>
+          <p>
+            The Web Site Excellence Award is given to all teams who meet a minimum scoring
+            criteria from a panel of judges. Scoring is based not only on how well the site
+            functions, but also how inviting and engaging it holds the viewer.
+          </p>
+        </div>
+        <div class="col-sm-3 order-1 order-sm-2">
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <!-- End of Main content area -->
