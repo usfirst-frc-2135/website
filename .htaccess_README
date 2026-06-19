@@ -1,0 +1,10 @@
+# Contains the contents of the official htaccess file for the web site
+# NOTE:  htacces must be modified (or removed) to work with MAMP!
+
+# Force http requests to be https
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+# Custom default landing page
+DirectoryIndex home.php
