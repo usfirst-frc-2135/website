@@ -116,6 +116,11 @@
             </ul>
           </li>
 
+          <!-- <form class="d-flex" role="search">
+            <input class="form-control me-2 bg-dark text-white-50" type="search" placeholder="Search" aria-label="Search" />
+            <button class="btn btn-outline-secondary" type="submit">Search</button>
+          </form> -->
+
         </ul>
       </ul>
     </div>
