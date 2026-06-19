@@ -25,7 +25,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/VqOKzoHJDjA" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/VqOKzoHJDjA" loading="lazy" title=2016 Stronghold Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -41,7 +41,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/W6UYFKNGHJ8" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/W6UYFKNGHJ8" loading="lazy" title="2015 Recycle Rush Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -57,7 +57,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/f5zWzICG5to" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/f5zWzICG5to" loading="lazy" title="2014 Aerial Assist Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -74,7 +74,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://youtube.com/embed/itHNW2OFr4Y" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/itHNW2OFr4Y" loading="lazy" title="2013 Ultimate Ascent Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -91,7 +91,7 @@ require 'inc/header.php';
         </p>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/nOXsdhZZSdM" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/nOXsdhZZSdM" loading="lazy" title="2012 Rebound Rumble Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -109,7 +109,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://www.youtube.com/embed/93Tygo0_O5c" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/93Tygo0_O5c" loading="lazy" title="2011 Logo Motion Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -127,7 +127,7 @@ require 'inc/header.php';
       </div>
       <br>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://youtube.com/embed/IEHAj3EmpMw" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/IEHAj3EmpMw" loading="lazy" title="2010 Breakaway Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -145,7 +145,7 @@ require 'inc/header.php';
         </p>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://youtube.com/embed/ZnGfbGzEFrM" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/ZnGfbGzEFrM" loading="lazy" title="2009 Lunacy Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -163,7 +163,7 @@ require 'inc/header.php';
         </p>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://youtube.com/embed/D5oL7aLH0T4" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/D5oL7aLH0T4" loading="lazy" title="2008 FIRST Overdrive Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
 
@@ -180,7 +180,7 @@ require 'inc/header.php';
         </p>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" width="640" height="360" src="https://youtube.com/embed/khTGSKvDyS4" allowfullscreen></iframe>
+        <iframe src="https://youtube.com/embed/khTGSKvDyS4" loading="lazy" title="2007 Rack &ldquo;N&rdquo; Roll Game Reveal Animation" width="640" height="360" allowfullscreen></iframe>
       </div>
     </div>
   </div>

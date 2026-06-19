@@ -48,7 +48,7 @@ require 'inc/header.php';
         <h3>Game Reveal Animation</h3>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" src="https://www.youtube.com/embed/LgniEjI9cCM" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/LgniEjI9cCM" loading="lazy" title="2022 Rapid React Game Reveal Animation" allowfullscreen></iframe>
       </div>
     </div>
   </div>

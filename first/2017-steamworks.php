@@ -33,7 +33,7 @@ require 'inc/header.php';
         <h3>Game Reveal Animation</h3>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" src="https://www.youtube.com/embed/EMiNmJW7enI" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/EMiNmJW7enI" loading="lazy" title="2017 Steamworks Game Reveal Animation" allowfullscreen></iframe>
       </div>
     </div>
   </div>

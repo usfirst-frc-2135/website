@@ -35,7 +35,7 @@ require 'inc/header.php';
         <h3>Game Reveal Animation</h3>
       </div>
       <div class="ratio ratio-16x9 mb-3">
-        <iframe class="" src="https://www.youtube.com/embed/Mew6G_og-PI" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/Mew6G_og-PI" loading="lazy" title="2019 Destination: Deep Space Game Reveal Animation" allowfullscreen></iframe>
       </div>
     </div>
   </div>
