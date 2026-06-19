@@ -297,7 +297,7 @@ require 'inc/header.php';
             and travelled to the Houston Championships to compete against other finalists.
           </p>
         </div>
-        <div class="col-sm-3 order-1 order-sm-2">
+        <div class="col-sm-3 order-1 order-sm-2 mt-3">
           <img class="img-fluid" src="/about/img/about_awards/2018_DeansList.jpg" alt="2018_DeansList">
         </div>
       </div>
@@ -367,7 +367,7 @@ require 'inc/header.php';
             year, making us the Chezy Champions!
           </p>
         </div>
-        <div class="col-sm-3 order-1 order-sm-2">
+        <div class="col-sm-3 order-1 order-sm-2 mt-3">
           <img class="img-fluid" src="/about/img/about_awards/2016_Chezy_Champs_Winner.jpg" alt="2016_Chezy_Champs_Winner">
         </div>
       </div>
@@ -413,7 +413,7 @@ require 'inc/header.php';
 
     <div class="card mb-3">
       <div class="row m-0 mt-3 mb-3">
-        <div class="col-sm-3 order-1 order-sm-1">
+        <div class="col-sm-3 order-1 order-sm-1 mt-3">
           <img class="img-fluid" src="/about/img/about_awards/2014_Chezy_Champs_Finalist.jpg" alt="2014_Chezy_Champs_Finalist">
         </div>
         <div class="col-sm-9 order-2 order-sm-2">
