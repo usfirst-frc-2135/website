@@ -12,181 +12,185 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Blog</h1>
     <hr>
 
-    <div class="row m-0 mb-3">
-      <div>
+    <div class="card m-0 mb-3">
+      <div class="card-header">
         <h2>2025-2026</h2>
       </div>
-      <div class="col-sm-4">
-        <ul><a href="https://docs.google.com/document/d/10W1qvG5VF254PWu49-AvZ42iJ142zKXysubqOCHj2z8/edit?usp=sharing">April 2026</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1FLDGq2vJ-aQA1yF8UkNdkAl6QmDwxmQpfXLLPU49QqE/edit?usp=sharing">March 2026</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1N0_dnkw3LUVqhjriNtnm1BubNpI3XEpKRgEmmEPSQjQ/edit?usp=sharing">February 2026</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1UbqQ9-P7kpW8Mr82-4U0gw0kX_gTMbjiHJtaqRLBRjM/edit?usp=sharing">January 2026</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1TVW5-oxwe2x5tvOj7Z_rbvpBUxaZ5ldD6o-KL2ktvbc/edit?usp=sharing">November 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1W4Qt8y0eLSBPyTWNgPeT3j15LUx4QnRd_r88WpJ4gCk/edit?usp=sharing">October 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1_ErACpZxT6xw8un29xjB9BnjOrMBAwW8TRGaU7b_dPM/edit?usp=sharing">September 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1da7y2fRXm7Jtg_fXvPpritKYZl79Pl0LEZ6vpUaao1I/edit?usp=sharing">August 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1EA81P_yXLW8lLvz6h6tMiVt1MKWuZyG7D03KdJ4mzxY/edit?usp=sharing">Summer 2025</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-4 text-center">
+          <a id="blog-26-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/10W1qvG5VF254PWu49-AvZ42iJ142zKXysubqOCHj2z8/edit?usp=sharing">April 2026</a>
+          <a id="blog-26-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1FLDGq2vJ-aQA1yF8UkNdkAl6QmDwxmQpfXLLPU49QqE/edit?usp=sharing">March 2026</a>
+          <a id="blog-26-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1N0_dnkw3LUVqhjriNtnm1BubNpI3XEpKRgEmmEPSQjQ/edit?usp=sharing">February 2026</a>
+          <a id="blog-26-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1UbqQ9-P7kpW8Mr82-4U0gw0kX_gTMbjiHJtaqRLBRjM/edit?usp=sharing">January 2026</a>
+          <a id="blog-25-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1TVW5-oxwe2x5tvOj7Z_rbvpBUxaZ5ldD6o-KL2ktvbc/edit?usp=sharing">November 2025</a>
+          <a id="blog-25-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1W4Qt8y0eLSBPyTWNgPeT3j15LUx4QnRd_r88WpJ4gCk/edit?usp=sharing">October 2025</a>
+          <a id="blog-25-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1_ErACpZxT6xw8un29xjB9BnjOrMBAwW8TRGaU7b_dPM/edit?usp=sharing">September 2025</a>
+          <a id="blog-25-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1da7y2fRXm7Jtg_fXvPpritKYZl79Pl0LEZ6vpUaao1I/edit?usp=sharing">August 2025</a>
+          <a id="blog-25-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1EA81P_yXLW8lLvz6h6tMiVt1MKWuZyG7D03KdJ4mzxY/edit?usp=sharing">Summer 2025</a>
+        </div>
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2025-26B.jpg" alt="BLOG_2025-26 IMG"> </div>
       </div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2025-26B.jpg" alt="BLOG_2025-26 IMG"> </div>
-      <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div>
+    <div class="card bg-light m-0 mb-3">
+      <div class="card-header">
         <h2>2024-2025</h2>
       </div>
-      <div class="col-sm-1"></div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2024-25.jpg" alt="BLOG_2023-24 IMG"> </div>
-      <div class="col-sm-4">
-        <ul></ul>
-        <ul><a href="https://docs.google.com/document/d/1vR1XO1GeJDvjAtJzuLi2H_55qq9DB5JIM2HrFvJwCVY/edit?usp=sharing">May 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1ukZ4pHxxQJETAm0sySGhxYXF6MKpJcWUSquKoLRPPaQ/edit?usp=sharing">April 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1IXzC5AGjOlu7VISaQsc36ded8W2DoFN6DNcBYY8NOQw/edit?usp=sharing">March 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1fssRiZOHCdyMImXqYpcEW-ONPf3tSv-hNF2ClDSM5tA/edit?usp=sharing">January 2025</a></ul>
-        <ul><a href="https://docs.google.com/document/d/14SBmyT6KHf6wir3erHSRas2ZEtm06APui0bgQZfqSY0/edit?usp=sharing">December 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1zRWgOx06wLwwM9KTO0Un1MCynRJa9-aWCa4S-FbrTVU/edit?usp=sharing">November 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1RIXpV58PM8rZ6qwahU9AiDnRJNlTUGrkRzGUGyqXnv0/edit?usp=sharing">October 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1GZXqj74FSQRQj1-NofJYPkMaRgZv76vQEJ5LFBP2OL0/edit?usp=sharing">September 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1sStqLFRwvGsZsAd6pRjMGEqXUYxppnxHWNwNFkETXXA/edit?usp=sharing">August 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1b-qtmYjns_pMkVMvIMYB0H-uej1pC57gQ5oZfESL_a4/edit?usp=sharing">Summer 2024</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2024-25.jpg" alt="BLOG_2023-24 IMG"> </div>
+        <div class="col-sm-4 text-center">
+          <a id="blog-25-05" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1vR1XO1GeJDvjAtJzuLi2H_55qq9DB5JIM2HrFvJwCVY/edit?usp=sharing">May 2025</a>
+          <a id="blog-25-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1ukZ4pHxxQJETAm0sySGhxYXF6MKpJcWUSquKoLRPPaQ/edit?usp=sharing">April 2025</a>
+          <a id="blog-25-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1IXzC5AGjOlu7VISaQsc36ded8W2DoFN6DNcBYY8NOQw/edit?usp=sharing">March 2025</a>
+          <a id="blog-25-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1fssRiZOHCdyMImXqYpcEW-ONPf3tSv-hNF2ClDSM5tA/edit?usp=sharing">January 2025</a>
+          <a id="blog-24-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/14SBmyT6KHf6wir3erHSRas2ZEtm06APui0bgQZfqSY0/edit?usp=sharing">December 2024</a>
+          <a id="blog-24-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1zRWgOx06wLwwM9KTO0Un1MCynRJa9-aWCa4S-FbrTVU/edit?usp=sharing">November 2024</a>
+          <a id="blog-24-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1RIXpV58PM8rZ6qwahU9AiDnRJNlTUGrkRzGUGyqXnv0/edit?usp=sharing">October 2024</a>
+          <a id="blog-24-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1GZXqj74FSQRQj1-NofJYPkMaRgZv76vQEJ5LFBP2OL0/edit?usp=sharing">September 2024</a>
+          <a id="blog-24-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1sStqLFRwvGsZsAd6pRjMGEqXUYxppnxHWNwNFkETXXA/edit?usp=sharing">August 2024</a>
+          <a id="blog-24-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1b-qtmYjns_pMkVMvIMYB0H-uej1pC57gQ5oZfESL_a4/edit?usp=sharing">Summer 2024</a>
+        </div>
+        <div class="col-sm-1"></div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
 
-    <div class="row m-0 mb-3">
-      <div>
+    <div class="card row m-0 mb-3">
+      <div class="card-header">
         <h2>2023-2024</h2>
       </div>
-      <div class="col-sm-4">
-        <ul><a href="https://docs.google.com/document/d/1mDMCQ8_rtD-HmjEA2BYeqt_LuwYigYqcoD7T2PKo0Bw/edit?usp=sharing">May 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/14NVrCV602LeNhec4JRpPRJQAouSGxncaes2Z2BtP8IY/edit?usp=sharing">April 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1r--I63JaWSkTT0gqqYRIpG3Ce4yurKEIb3r0BJswZ_k/edit?usp=sharing">March 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1axIJgLZDvaqAK8fDzLCZZN7Nv0V2ERdEsE5cDMFX9xg/edit?usp=sharing">January 2024</a></ul>
-        <ul><a href="https://docs.google.com/document/d/12W8YNrFHBNxxkHD4gPKBInvYO9I2SdejYcnGIt9UjEc/edit?usp=sharing">December 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1E1lF_Jydm-6l-JHpJaw2GaENZFjENqTRjU5vyvJqiYM/edit?usp=sharing">November 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1UAP0EX1POpx7Ex_MfY9XuDHG_7toJPo0bESOTtfSGGI/edit?usp=sharing">October 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1wmRFpuOozwwW1BSfIrHM70FjZ47FJuTKBwQDhUT8uEQ/edit?usp=sharing">September 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1uirZqEmQL5foi1brleSMPsR4TbtPxcxWVz_oxqmi4vI/edit?usp=sharing">August 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/14xn7t0u-omP5WpKRGPWiYXWVky7PeBzIOWtZfZr872o/edit?usp=sharing">Summer 2023</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-4 text-center">
+          <a id="blog-24-05" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1mDMCQ8_rtD-HmjEA2BYeqt_LuwYigYqcoD7T2PKo0Bw/edit?usp=sharing">May 2024</a>
+          <a id="blog-24-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/14NVrCV602LeNhec4JRpPRJQAouSGxncaes2Z2BtP8IY/edit?usp=sharing">April 2024</a>
+          <a id="blog-24-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1r--I63JaWSkTT0gqqYRIpG3Ce4yurKEIb3r0BJswZ_k/edit?usp=sharing">March 2024</a>
+          <a id="blog-24-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1axIJgLZDvaqAK8fDzLCZZN7Nv0V2ERdEsE5cDMFX9xg/edit?usp=sharing">January 2024</a>
+          <a id="blog-23-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/12W8YNrFHBNxxkHD4gPKBInvYO9I2SdejYcnGIt9UjEc/edit?usp=sharing">December 2023</a>
+          <a id="blog-23-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1E1lF_Jydm-6l-JHpJaw2GaENZFjENqTRjU5vyvJqiYM/edit?usp=sharing">November 2023</a>
+          <a id="blog-23-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1UAP0EX1POpx7Ex_MfY9XuDHG_7toJPo0bESOTtfSGGI/edit?usp=sharing">October 2023</a>
+          <a id="blog-23-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1wmRFpuOozwwW1BSfIrHM70FjZ47FJuTKBwQDhUT8uEQ/edit?usp=sharing">September 2023</a>
+          <a id="blog-23-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1uirZqEmQL5foi1brleSMPsR4TbtPxcxWVz_oxqmi4vI/edit?usp=sharing">August 2023</a>
+          <a id="blog-23-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/14xn7t0u-omP5WpKRGPWiYXWVky7PeBzIOWtZfZr872o/edit?usp=sharing">Summer 2023</a>
+        </div>
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2023-24.jpg" alt="BLOG_2023-24 IMG"> </div>
       </div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2023-24.jpg" alt="BLOG_2023-24 IMG"> </div>
-      <div class="col-sm-1"></div>
     </div>
 
 
-    <div class="row bg-light m-0 mb-3">
-      <div>
+    <div class="card row bg-light m-0 mb-3">
+      <div class="card-header">
         <h2>2022-2023</h2>
       </div>
-      <div class="col-sm-1"></div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2022-23_img.jpg" alt="BLOG_2022-23 IMG"> </div>
-      <div class="col-sm-4">
-        <ul></ul>
-        <ul><a href="https://docs.google.com/document/d/12kcLkcqHLRa0aor4f0D6h5IR5YNoB2WJbTibDdpwr9I/edit?usp=sharing">May 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1WfmQvAFrcXVIaMqbEec45lO8ZSFwXENHw7Ok8u-mJnE/edit?usp=share_link">March 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1WS7_3ZU9e0Md77qfsoyYRx0TvkB41XaxEq6cUU4LALk/edit?usp=share_link">January 2023</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1R7NSB3VbuBoPCn9CoCvA0z0hmbiJ9bkwcjMZe2kUL3Y/edit?usp=sharing">November 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1iVtd81U2-UJA5bvvOvuGJDsalMbXNl_nD6E4yPx9ALM/edit?usp=share_link">October 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1GOtFlwW5pnP7dnfedimXs4xwwxaUDESZP2MVmuMCU20/edit?usp=share_link">August / September 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1VyYigtj7USWW3vhrcxqbvEFseDA23Y2dbojbzJp3-lg/edit?usp=sharing">Summer 2022</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2022-23_img.jpg" alt="BLOG_2022-23 IMG"> </div>
+        <div class="col-sm-4 text-center">
+          <a id="blog-23-05" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/12kcLkcqHLRa0aor4f0D6h5IR5YNoB2WJbTibDdpwr9I/edit?usp=sharing">May 2023</a>
+          <a id="blog-23-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1WfmQvAFrcXVIaMqbEec45lO8ZSFwXENHw7Ok8u-mJnE/edit?usp=share_link">March 2023</a>
+          <a id="blog-23-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1WS7_3ZU9e0Md77qfsoyYRx0TvkB41XaxEq6cUU4LALk/edit?usp=share_link">January 2023</a>
+          <a id="blog-22-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1R7NSB3VbuBoPCn9CoCvA0z0hmbiJ9bkwcjMZe2kUL3Y/edit?usp=sharing">November 2022</a>
+          <a id="blog-22-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1iVtd81U2-UJA5bvvOvuGJDsalMbXNl_nD6E4yPx9ALM/edit?usp=share_link">October 2022</a>
+          <a id="blog-22-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1GOtFlwW5pnP7dnfedimXs4xwwxaUDESZP2MVmuMCU20/edit?usp=share_link">August / September 2022</a>
+          <a id="blog-22-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1VyYigtj7USWW3vhrcxqbvEFseDA23Y2dbojbzJp3-lg/edit?usp=sharing">Summer 2022</a>
+        </div>
+        <div class="col-sm-1"></div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
-    <div class="row m-0 mb-3">
-      <div>
+
+    <div class="card row m-0 mb-3">
+      <div class="card-header">
         <h2>2021-2022</h2>
       </div>
-      <div class="col-sm-4">
-        <ul><a href="https://docs.google.com/document/d/1r-lnvGUM20OIZVUCIvgknaE7v5R-Kbcq5NTghCCfKlc/edit?usp=sharing">May 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1V2RlhztHTn_mLpftQNVIFTP8W9gks0_KFhC9cqGB0jY/edit?usp=sharing">April 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/12Gj_dKfx3iv6-qRojGV9fBdqOhRWppAHEI5ut-S8XZk/edit?usp=sharing">March 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/18fcGu8txpEfaLZPu4DnRV1h14IW2ph-yGWNEykYaEWU/edit?usp=sharing">January 2022</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1zX096bo0hUcgeTrCBNGBt0AyW1co3zxwh9oaOYvhvy8/edit?usp=sharing">December 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1wV1N-n765-haqwigCq67UHAPCQU_fGxpAQ1hJy--ehw/edit?usp=sharing">October 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1Yh5kSuKRLIkTZZ9pnQu8igDLtqufJmeew1CoT9Zyr_U/edit?usp=sharing">September 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1437DlYsmOebneF6Ja1qVTjEzRr8gRPJ0HRKZSl_txKA/edit?usp=sharing">Summer 2021</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-4 text-center">
+          <a id="blog-22-05" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1r-lnvGUM20OIZVUCIvgknaE7v5R-Kbcq5NTghCCfKlc/edit?usp=sharing">May 2022</a>
+          <a id="blog-22-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1V2RlhztHTn_mLpftQNVIFTP8W9gks0_KFhC9cqGB0jY/edit?usp=sharing">April 2022</a>
+          <a id="blog-22-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/12Gj_dKfx3iv6-qRojGV9fBdqOhRWppAHEI5ut-S8XZk/edit?usp=sharing">March 2022</a>
+          <a id="blog-22-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/18fcGu8txpEfaLZPu4DnRV1h14IW2ph-yGWNEykYaEWU/edit?usp=sharing">January 2022</a>
+          <a id="blog-21-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1zX096bo0hUcgeTrCBNGBt0AyW1co3zxwh9oaOYvhvy8/edit?usp=sharing">December 2021</a>
+          <a id="blog-21-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1wV1N-n765-haqwigCq67UHAPCQU_fGxpAQ1hJy--ehw/edit?usp=sharing">October 2021</a>
+          <a id="blog-21-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1Yh5kSuKRLIkTZZ9pnQu8igDLtqufJmeew1CoT9Zyr_U/edit?usp=sharing">September 2021</a>
+          <a id="blog-21-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1437DlYsmOebneF6Ja1qVTjEzRr8gRPJ0HRKZSl_txKA/edit?usp=sharing">Summer 2021</a>
+        </div>
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2021-22B.jpg" alt="BLOG_2021-22 IMG"> </div>
       </div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2021-22B.jpg" alt="BLOG_2021-22 IMG"> </div>
-      <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div>
+    <div class="card row bg-light m-0 mb-3">
+      <div class="card-header">
         <h2>2020-2021</h2>
       </div>
-      <div class="col-sm-1"></div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2020-21.png" alt="BLOG_2020-21 IMG"> </div>
-      <div class="col-sm-4">
-        <ul></ul>
-        <ul><a href="https://docs.google.com/document/d/1TV9uCzloajZ8wiDP-d9TZCERwVQ5Uvngk0mOddVgMh0/edit?usp=sharing">May 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1wWBuxZQTHEjhtwRsRD8IpOPSNKbPRHDaN-q2i7QoNRU/edit?usp=sharing">April 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1Wl--D-j6msEeZJYHojBgYv1PwGTs-lBcHHMGnYc_Vr0/edit?usp=sharing">March 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1KZl8ncAfZaea4lNoXPG7ATHTPW9hxtYLJgI_A_A7WVo/edit?usp=sharing">February 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1D6GCwrGkjSwsMeMmT26DKlf5Uk_c7fuLTHNsC3P8lWk/edit?usp=sharing">January 2021</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1o9OgcTXSv6A7F9L7vHgz1fKAfBiyTMPlpGcCUogtrqE/edit?usp=sharing">December 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1fDsThxW4NfZ8waOJJtusqKYg8CtSq8UsvqQ8LoVAJx4/edit?usp=sharing">November 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1Bj0myHcnlrN3FdCs7w9OXJULcgfw3oyy46BXtJxRgiw/edit?usp=sharing">October 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1meKNekSGQEv_HAcI4_7SJ6e6lxmhuyVufEKSouDevH8/edit?usp=sharing">September 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1ye-BzMYPIS8DGoyhl6ZLyuDJW-JEqQjih1gSZKDdnfU/edit?usp=sharing">August 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1VzyeDxZdx6asMmm5OPi3fQeu3HNt91Zb4Ali-R98wmQ/edit?usp=sharing">Summer 2020</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2020-21.png" alt="BLOG_2020-21 IMG"> </div>
+        <div class="col-sm-4 text-center">
+          <a id="blog-21-05" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1TV9uCzloajZ8wiDP-d9TZCERwVQ5Uvngk0mOddVgMh0/edit?usp=sharing">May 2021</a>
+          <a id="blog-21-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1wWBuxZQTHEjhtwRsRD8IpOPSNKbPRHDaN-q2i7QoNRU/edit?usp=sharing">April 2021</a>
+          <a id="blog-21-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1Wl--D-j6msEeZJYHojBgYv1PwGTs-lBcHHMGnYc_Vr0/edit?usp=sharing">March 2021</a>
+          <a id="blog-21-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1KZl8ncAfZaea4lNoXPG7ATHTPW9hxtYLJgI_A_A7WVo/edit?usp=sharing">February 2021</a>
+          <a id="blog-21-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1D6GCwrGkjSwsMeMmT26DKlf5Uk_c7fuLTHNsC3P8lWk/edit?usp=sharing">January 2021</a>
+          <a id="blog-20-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1o9OgcTXSv6A7F9L7vHgz1fKAfBiyTMPlpGcCUogtrqE/edit?usp=sharing">December 2020</a>
+          <a id="blog-20-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1fDsThxW4NfZ8waOJJtusqKYg8CtSq8UsvqQ8LoVAJx4/edit?usp=sharing">November 2020</a>
+          <a id="blog-20-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1Bj0myHcnlrN3FdCs7w9OXJULcgfw3oyy46BXtJxRgiw/edit?usp=sharing">October 2020</a>
+          <a id="blog-20-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1meKNekSGQEv_HAcI4_7SJ6e6lxmhuyVufEKSouDevH8/edit?usp=sharing">September 2020</a>
+          <a id="blog-20-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1ye-BzMYPIS8DGoyhl6ZLyuDJW-JEqQjih1gSZKDdnfU/edit?usp=sharing">August 2020</a>
+          <a id="blog-20-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1VzyeDxZdx6asMmm5OPi3fQeu3HNt91Zb4Ali-R98wmQ/edit?usp=sharing">Summer 2020</a>
+        </div>
+        <div class="col-sm-1"></div>
       </div>
-      <div class="col-sm-1"></div>
     </div>
 
-    <div class="row m-0 mb-3">
-      <div>
+    <div class="card row m-0 mb-3">
+      <div class="card-header">
         <h2>2019-2020</h2>
       </div>
-      <div class="col-sm-4">
-        <ul><a href="https://docs.google.com/document/d/1lLAMIlxO1wTgzUCjqsGRnLAoY6y7zx779dnGTYIF0pk/edit?usp=sharing">March 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1un9rkpYjS40oWftlaMY_pkmi_wLfElAaNb8S75UAhk4/edit?usp=sharing">February 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1VKHFgY3HVe_yUkotwPgn1fG1uSropEcaoFVWCc5uiTE/edit?usp=sharing">January 2020</a></ul>
-        <ul><a href="https://docs.google.com/document/d/13gUMz-zLE8dtv5ZTsGUJ4KtqKw4VT3UrhKli92Cn9CQ/edit?usp=sharing">December 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1TfZZpcL83vH54QvASrri52hmK5U12OATqEkLkYaEXG0/edit?usp=sharing">November 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1zA5STzaSnu4g7Bg1eH5UsQupLP2OvxdbGeT7rUHl9PI/edit?usp=sharing">October 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1yask4Z_40Nk-4bIaAhKVuNln4N2zIfxt6tjrRWP-IYc/edit?usp=sharing">September 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1Fd-wrWSAYNtLurZ2VYpvgq3T3zSC7TRlLamtWuX1oc8/edit?usp=sharing">August 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1ODKP93tiO14wJIalGxqDtqLwHM1LQ6V1MasSPzh2IkQ/edit?usp=sharing">Summer 2019</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-4 text-center">
+          <a id="blog-20-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1lLAMIlxO1wTgzUCjqsGRnLAoY6y7zx779dnGTYIF0pk/edit?usp=sharing">March 2020</a>
+          <a id="blog-20-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1un9rkpYjS40oWftlaMY_pkmi_wLfElAaNb8S75UAhk4/edit?usp=sharing">February 2020</a>
+          <a id="blog-20-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1VKHFgY3HVe_yUkotwPgn1fG1uSropEcaoFVWCc5uiTE/edit?usp=sharing">January 2020</a>
+          <a id="blog-19-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/13gUMz-zLE8dtv5ZTsGUJ4KtqKw4VT3UrhKli92Cn9CQ/edit?usp=sharing">December 2019</a>
+          <a id="blog-19-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1TfZZpcL83vH54QvASrri52hmK5U12OATqEkLkYaEXG0/edit?usp=sharing">November 2019</a>
+          <a id="blog-19-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1zA5STzaSnu4g7Bg1eH5UsQupLP2OvxdbGeT7rUHl9PI/edit?usp=sharing">October 2019</a>
+          <a id="blog-19-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1yask4Z_40Nk-4bIaAhKVuNln4N2zIfxt6tjrRWP-IYc/edit?usp=sharing">September 2019</a>
+          <a id="blog-19-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1Fd-wrWSAYNtLurZ2VYpvgq3T3zSC7TRlLamtWuX1oc8/edit?usp=sharing">August 2019</a>
+          <a id="blog-19-07" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1ODKP93tiO14wJIalGxqDtqLwHM1LQ6V1MasSPzh2IkQ/edit?usp=sharing">Summer 2019</a>
+        </div>
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
       </div>
-      <div class="col-sm-7 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2019-20.jpg" alt="BLOG_2019-20 IMG"></div>
-      <div class="col-sm-1"></div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
-      <div>
+    <div class="card row bg-light m-0 mb-3">
+      <div class="card-header">
         <h2>2018-2019</h2>
       </div>
-      <div class="col-sm-1"></div>
-      <div class="col-sm-6 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2018-19.jpg" alt="BLOG_2018-19 IMG"> </div>
-      <div class="col-sm-4">
-        <ul></ul>
-        <ul></ul>
-        <ul><a href="https://docs.google.com/document/d/1IFSHsbEx8eFZA5NQk96VdJO2ODSiQD2HhAJx8Lzh3VE/edit?usp=sharing">March 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/13r_dlzKGTM5nyxUBsBXZkXcNg6q7F9F0_Ei_d9YB6rU/edit?usp=sharing">February 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/15bRdhbdRuT_GvjboXADIZJ3lZITxX98yNAHDJQnTOQ4/edit?usp=sharing">January 2019</a></ul>
-        <ul><a href="https://docs.google.com/document/d/169MFJC1zrjrX-CWVtlqr7Zl4zc8kZy0VcWmGBZ2a6Kc/edit?usp=sharing">December 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1g2kDzAkm5CMUAVuz-S6riEcag6VLcm0VHlRo5DJMHIo/edit?usp=sharing">November 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1fV1FRU0hN2Wrvw9Cs8SUuPLJllUQ5ssBYQmzJ7Kg5X0/edit?usp=sharing">October 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/10HG3J_4d_6A_E_qOQiP-TxhTFeO2JLJRbdQ_PhlN0yg/edit?usp=sharing">September 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1973dRTCSiKYnoBRkYtIGw8Nz1ym6o1SVc43TmmZ2VzE/edit?usp=sharing">August 2018</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-8 mb-2"> <img class="img-fluid" src="/news/img/blog/blog2018-19.jpg" alt="BLOG_2018-19 IMG"> </div>
+        <div class="col-sm-4 text-center">
+          <a id="blog-18-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1IFSHsbEx8eFZA5NQk96VdJO2ODSiQD2HhAJx8Lzh3VE/edit?usp=sharing">March 2019</a>
+          <a id="blog-18-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/13r_dlzKGTM5nyxUBsBXZkXcNg6q7F9F0_Ei_d9YB6rU/edit?usp=sharing">February 2019</a>
+          <a id="blog-18-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/15bRdhbdRuT_GvjboXADIZJ3lZITxX98yNAHDJQnTOQ4/edit?usp=sharing">January 2019</a>
+          <a id="blog-18-12" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/169MFJC1zrjrX-CWVtlqr7Zl4zc8kZy0VcWmGBZ2a6Kc/edit?usp=sharing">December 2018</a>
+          <a id="blog-18-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1g2kDzAkm5CMUAVuz-S6riEcag6VLcm0VHlRo5DJMHIo/edit?usp=sharing">November 2018</a>
+          <a id="blog-18-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1fV1FRU0hN2Wrvw9Cs8SUuPLJllUQ5ssBYQmzJ7Kg5X0/edit?usp=sharing">October 2018</a>
+          <a id="blog-18-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/10HG3J_4d_6A_E_qOQiP-TxhTFeO2JLJRbdQ_PhlN0yg/edit?usp=sharing">September 2018</a>
+          <a id="blog-18-08" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1973dRTCSiKYnoBRkYtIGw8Nz1ym6o1SVc43TmmZ2VzE/edit?usp=sharing">August 2018</a>
+        </div>
       </div>
     </div>
 
-    <div class="row m-0 mb-3">
-      <div>
+    <div class="card row m-0 mb-3">
+      <div class="card-header">
         <h2>2017-2018</h2>
       </div>
-      <div class="col-sm-4">
-        <ul></ul>
-        <ul><a href="https://docs.google.com/document/d/1-GfLFKLota_z3NwTZSLuEifj_jMOvEYQznvWOBhYVgo/edit?usp=sharing">March 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1bB6jamiKRxrXokm3jiCAFyFXteOr2oY59A_w5eJpHic/edit?usp=sharing">February 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1P1TQvSevxs2kJxXAaeT36MaJJm0IRJT4WRp4DwOo0DM/edit?usp=sharing">January 2018</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1XQ-yhWHtJ1ow912ckFsEgHHW-WxWPZtBJ4yOXaDNsnM/edit?usp=sharing">November 2017</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1POEjwWegzWsxOBlxNCZdQFXF7NVHB3VFG9gyigKZFOo/edit?usp=sharing">October 2017</a></ul>
-        <ul><a href="https://docs.google.com/document/d/1jiXTdrWE4k0x0wbbTmL4H0W9AfjJy0DsiU2j4PlLcLg/edit?usp=sharing">September 2017</a></ul>
+      <div class="card-body row">
+        <div class="col-sm-4 text-center">
+          <a id="blog-17-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1-GfLFKLota_z3NwTZSLuEifj_jMOvEYQznvWOBhYVgo/edit?usp=sharing">March 2018</a>
+          <a id="blog-17-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1bB6jamiKRxrXokm3jiCAFyFXteOr2oY59A_w5eJpHic/edit?usp=sharing">February 2018</a>
+          <a id="blog-17-01" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1P1TQvSevxs2kJxXAaeT36MaJJm0IRJT4WRp4DwOo0DM/edit?usp=sharing">January 2018</a>
+          <a id="blog-17-11" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1XQ-yhWHtJ1ow912ckFsEgHHW-WxWPZtBJ4yOXaDNsnM/edit?usp=sharing">November 2017</a>
+          <a id="blog-17-10" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1POEjwWegzWsxOBlxNCZdQFXF7NVHB3VFG9gyigKZFOo/edit?usp=sharing">October 2017</a>
+          <a id="blog-17-09" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1jiXTdrWE4k0x0wbbTmL4H0W9AfjJy0DsiU2j4PlLcLg/edit?usp=sharing">September 2017</a>
+        </div>
+        <div class="col-sm-8 mb-2"><img class="img-fluid" src="/news/img/blog/blog2017-18.jpg" alt="BLOG_2017-18 IMG"></div>
       </div>
-      <div class="col-sm-7 mb-2"><img class="img-fluid" src="/news/img/blog/blog2017-18.jpg" alt="BLOG_2017-18 IMG"></div>
-      <div class="col-sm-1"></div>
     </div>
   </div>
 
