@@ -21,16 +21,13 @@ require 'inc/header.php';
       <p>
         Our team believes outreach is an important part of spreading the message of FIRST.
         We strive to help our community by volunteering and mentoring with other teams.
-        Events we have volunteered at include the annual Marine Toys For Tots Drive organized
-        by Team 604 - QuixSilver, Girls Day at the Tech, CalGames, and Chezy Champs. We have
-        also helped in starting two FLL teams at St. Joseph of Cupertino and mentored them
-        during their rookie year.
+        Events we have volunteered at include our annual week-long Robotics summer camp for middle schoolers, showing our robots at The Tech Interactive, volunteering at FLL and FRC events, representing FRC at the Semiconductor Industry Awards dinner, volunteering at Second Harvest, and the San Mateo County Fair Robo Zone. 
       </p>
       <p>
         Outside of team activities, students individually donate their time to the community
         by volunteering at STEM or robotics-related events. In the past year, team members
         have volunteered as tutors at various middle schools, exhibit specialists at the Tech
-        Museum of Innovation, and leaders at math camps.
+        Museum of Innovation, and leaders at math and science camps.
       </p>
       <p>
         Presentation Invasion seeks to give back to the community while sharing technical
@@ -55,22 +52,22 @@ require 'inc/header.php';
 
               <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active" role="option">
-                  <img src="/about/img/about_outreach/SteamFair1.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
+                  <img src="/about/img/about_outreach/summerCamp.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_00" alt="Slide_00">
                 </div>
                 <div class="carousel-item" role="option">
-                  <img src="/about/img/about_outreach/SteamFair2b.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
+                  <img src="/about/img/about_outreach/techInteractive.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_01" alt="Slide_01">
                 </div>
                 <div class="carousel-item" role="option">
-                  <img src="/about/img/about_outreach/GirlsDay2.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_01">
+                  <img src="/about/img/about_outreach/FLL.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_02" alt="Slide_01">
                 </div>
                 <div class="carousel-item" role="option">
-                  <img src="/about/img/about_outreach/GirlsDay3.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_01">
+                  <img src="/about/img/about_outreach/SIA.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_03" alt="Slide_01">
                 </div>
                 <div class="carousel-item" role="option">
-                  <img src="/about/img/about_outreach/GirlsDay4.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_01">
+                  <img src="/about/img/about_outreach/secondHarvest.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_04" alt="Slide_01">
                 </div>
                 <div class="carousel-item" role="option">
-                  <img src="/about/img/about_outreach/Toys4Tots1.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_01">
+                  <img src="/about/img/about_outreach/RoboZone.jpg" class="d-block w-100" data-src="holder.js/1140x500/auto/#555:#333/text:Slide_05" alt="Slide_01">
                 </div>
               </div>
 
