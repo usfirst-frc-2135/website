@@ -18,6 +18,7 @@ require 'inc/header.php';
       </div>
       <div class="card-body row">
         <div class="col-sm-4 text-center">
+          <a id="blog-26-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1u_NwsBHAF-00CRjD-RhhJu9xiZpsckbZOAlTI8GbIOU/edit?usp=sharing">May 2026</a>
           <a id="blog-26-04" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/10W1qvG5VF254PWu49-AvZ42iJ142zKXysubqOCHj2z8/edit?usp=sharing">April 2026</a>
           <a id="blog-26-03" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1FLDGq2vJ-aQA1yF8UkNdkAl6QmDwxmQpfXLLPU49QqE/edit?usp=sharing">March 2026</a>
           <a id="blog-26-02" class="btn btn-secondary btn-sm col-6 m-1" href="https://docs.google.com/document/d/1N0_dnkw3LUVqhjriNtnm1BubNpI3XEpKRgEmmEPSQjQ/edit?usp=sharing">February 2026</a>
