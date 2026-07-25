@@ -12,7 +12,7 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Team History</h1>
     <hr>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2026 - REBUILT
       </h5>
@@ -73,7 +73,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2024 - CRESCENDO
       </h5>
@@ -129,7 +129,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2022 - RAPID REACT
       </h5>
@@ -187,7 +187,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2020-2021 - INFINITE RECHARGE (remote)
       </h5>
@@ -238,7 +238,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2019 - DESTINATION: DEEP SPACE
       </h5>
@@ -297,7 +297,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2017 - STEAMWORKS
       </h5>
@@ -357,7 +357,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2015 - RECYCLE RUSH
       </h5>
@@ -406,7 +406,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2013 - ULTIMATE ASCENT
       </h5>
@@ -447,7 +447,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2011 - LOGOMOTION
       </h5>
@@ -485,7 +485,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2009 - LUNACY
       </h5>
@@ -520,7 +520,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light mb-3">
+    <div class="card bg-body-secondary mb-3">
       <h5 class="card-header fw-bold">
         2007 - RACK &ldquo;N&rdquo; ROLL
       </h5>

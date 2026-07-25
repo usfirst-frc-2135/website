@@ -21,7 +21,7 @@ require 'inc/header.php';
           Go to Pres Online Giving</a>
       </div>
     </div>
-    <div class="row bg-light">
+    <div class="row bg-body-secondary">
       <h3 class="fw-bold pt-3">In-kind Wishlist Items</h3>
       <div>
         <p class="fw-bold">We appreciate your donations!</p>

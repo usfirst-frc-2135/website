@@ -35,7 +35,7 @@ require 'inc/header.php';
         are always looking for more opportunities to help others.
       </p>
 
-      <div class="row bg-light m-0 mb-3">
+      <div class="row bg-body-secondary m-0 mb-3">
         <div class="row justify-content-center">
           <div class="col-sm-10">
 

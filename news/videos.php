@@ -12,7 +12,7 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Videos</h1>
     <hr>
 
-    <div class="row bg-light m-0 p-2">
+    <div class="row bg-body-secondary m-0 p-2">
       <div>
         <h2>End-of-Year Videos</h2>
       </div>

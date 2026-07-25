@@ -25,7 +25,7 @@ require 'inc/header.php';
       </p>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>Game Field</h3>
       </div>
@@ -43,7 +43,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>Game Reveal Animation</h3>
       </div>

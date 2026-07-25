@@ -38,7 +38,7 @@ require 'inc/header.php';
     </div>
   </div>
 
-  <div class="row bg-light mb-3">
+  <div class="row bg-body-secondary mb-3">
     <div>
       <h2>Team Mission</h2>
     </div>

@@ -23,7 +23,7 @@ require 'inc/header.php';
         ethic, and personal commitment to making the team better.
       </p>
       <div class="row">
-        <div class="card col-sm-3 bg-light mb-3">
+        <div class="card col-sm-3 bg-body-secondary mb-3">
           <div class="card-header">
             <h5 class="card-title">Mechanical Design</h5>
           </div>
@@ -58,7 +58,7 @@ require 'inc/header.php';
           </table>
         </div>
 
-        <div class="card col-sm-3 bg-light mb-3">
+        <div class="card col-sm-3 bg-body-secondary mb-3">
           <div class="card-header">
             <h5 class="card-title">Robot Software</h5>
           </div>

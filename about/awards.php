@@ -14,7 +14,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2026 FIRST Leadership Award Semi-Finalist</h2>
           <p>
@@ -45,7 +45,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2026 Sacramento District Creativity Award</h2>
           <p>
@@ -74,7 +74,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2024 Monterey Bay Regional Quality Award</h2>
           <p>
@@ -104,7 +104,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2023 Capital City Classic Winner</h2>
           <p>
@@ -135,7 +135,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2023 Central Valley Regional Team Sustainability Award</h2>
           <p>
@@ -165,7 +165,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2022 Monterey Bay Regional Finalists</h2>
           <p>
@@ -196,7 +196,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2022 Ventura County Regional Industrial Design Award</h2>
           <p>
@@ -226,7 +226,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2021 CalGames System Design Award</h2>
           <p>
@@ -256,7 +256,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2020 KLA RoboGames Outstanding Mentor Award</h2>
           <p>
@@ -288,7 +288,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2018 Dean's List Award Finalist</h2>
           <p>
@@ -321,7 +321,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2017 Central Valley Regional Winners</h2>
           <p>
@@ -357,7 +357,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2016 Chezy Champs Winners</h2>
           <p>
@@ -394,7 +394,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2014 Madtown Throwdown Spirit Award</h2>
           <p>
@@ -431,7 +431,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2014 FIRST Central Valley Regional Winners</h2>
           <p>
@@ -466,7 +466,7 @@ require 'inc/header.php';
 
     <!--  -->
     <div class="card mb-3">
-      <div class="row bg-light m-0 mt-3 mb-3">
+      <div class="row bg-body-secondary m-0 mt-3 mb-3">
         <div class="col-sm-9 order-2 order-sm-1">
           <h2>2007 FIRST Web Site Excellence Award</h2>
           <p>

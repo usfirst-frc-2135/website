@@ -17,7 +17,7 @@ require 'inc/header.php';
         <img class="img-fluid" src="/resources/img/resources_teamwear/TeamwearSweatshirt2.jpg" alt="2135 Sweatshirt">
       </div>
     </div>
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2025 - 19th Season</h3>
       </div>
@@ -39,7 +39,7 @@ require 'inc/header.php';
         <img class="img-fluid" src="/resources/img/resources_teamwear/Teamwear2024.jpg" alt>
       </div>
     </div>
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2023 - 17th Season</h3>
       </div>
@@ -62,7 +62,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2021 - 15th Season</h3>
       </div>
@@ -83,7 +83,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2019 - 13th Season</h3>
       </div>
@@ -105,7 +105,7 @@ require 'inc/header.php';
         <img class="img-fluid" src="/resources/img/resources_teamwear/Teamwear2018.jpg" alt>
       </div>
     </div>
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2017 - 11th Season</h3>
       </div>
@@ -129,7 +129,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2015 - 9th Season</h3>
       </div>
@@ -147,7 +147,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2013 - 7th Season</h3>
       </div>
@@ -168,7 +168,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2011 - 5th Season</h3>
       </div>
@@ -186,7 +186,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-auto mb-3">
+    <div class="card bg-body-secondary m-auto mb-3">
       <div>
         <h3 class="card-header">2009 - 3rd Season</h3>
       </div>
@@ -204,7 +204,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div>
         <h3 class="card-header">2007 - 1st Season</h3>
       </div>

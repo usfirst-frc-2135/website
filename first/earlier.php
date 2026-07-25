@@ -12,7 +12,7 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Previous Games</h1>
     <hr>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>2016 - STRONGHOLD</h3>
       </div>
@@ -45,7 +45,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>2014 - AERIAL ASSIST</h3>
       </div>
@@ -78,7 +78,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>2012 - REBOUND RUMBLE</h3>
       </div>
@@ -113,7 +113,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>2010 - BREAKAWAY</h3>
       </div>
@@ -149,7 +149,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="row bg-light m-0 mb-3">
+    <div class="row bg-body-secondary m-0 mb-3">
       <div>
         <h3>2008 - FIRST Overdrive</h3>
       </div>

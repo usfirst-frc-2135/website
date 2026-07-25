@@ -11,7 +11,7 @@ require 'inc/header.php';
   <div class="row p-2">
     <h1 class="fw-bold mt-3">Sponsors</h1>
     <hr>
-    <div class="row bg-light">
+    <div class="row bg-body-secondary">
       <!-- No Platinum sponsors this year, so comment out the section for now.
         <h2>Platinum Sponsors</h2>
         <div class="row mt-2"> 

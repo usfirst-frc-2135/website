@@ -33,7 +33,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card bg-light m-0 mb-3">
+    <div class="card bg-body-secondary m-0 mb-3">
       <div class="card-header">
         <h2>2024-2025</h2>
       </div>
@@ -77,7 +77,7 @@ require 'inc/header.php';
     </div>
 
 
-    <div class="card row bg-light m-0 mb-3">
+    <div class="card row bg-body-secondary m-0 mb-3">
       <div class="card-header">
         <h2>2022-2023</h2>
       </div>
@@ -115,7 +115,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card row bg-light m-0 mb-3">
+    <div class="card row bg-body-secondary m-0 mb-3">
       <div class="card-header">
         <h2>2020-2021</h2>
       </div>
@@ -158,7 +158,7 @@ require 'inc/header.php';
       </div>
     </div>
 
-    <div class="card row bg-light m-0 mb-3">
+    <div class="card row bg-body-secondary m-0 mb-3">
       <div class="card-header">
         <h2>2018-2019</h2>
       </div>
