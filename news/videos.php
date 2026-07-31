@@ -18,6 +18,12 @@ require 'inc/header.php';
       </div>
       <div class="col-sm-4">
         <div class="ratio ratio-16x9 mb-3">
+          <iframe src="https://www.youtube.com/embed/5RNFoQTpuGk" loading="lazy" title="2025-26 Season Recap" allowfullscreen></iframe>
+        </div>
+        <p>2025-26 Season Recap</p>
+      </div>
+      <div class="col-sm-4">
+        <div class="ratio ratio-16x9 mb-3">
           <iframe src="https://www.youtube.com/embed/UdLmDYgyxys" loading="lazy" title="2024-25 Season Recap" allowfullscreen></iframe>
         </div>
         <p>2024-25 Season Recap</p>
