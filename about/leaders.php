@@ -12,7 +12,7 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Leadership Team</h1>
     <hr>
     <div>
-      <h2>2025-26 Student Leadership Team</h2>
+      <h2>2026-27 Student Leadership Team</h2>
     </div>
     <div>
       <p>
@@ -30,16 +30,19 @@ require 'inc/header.php';
           <table class="card-body table">
             <tbody>
               <tr>
-                <td> <strong>Jeanelle D., Co-Captain</strong> <br>Mechanical Design Director</td>
+                <td> <strong>Jeanelle D. Co-Captain</strong> <br>Mechanical Design Director</td>
               </tr>
               <tr>
-                <td> <strong>Eleanor C., Co-Captain</strong><br>Mechanical Design Director</td>
+                <td> <strong>Eleanor C. Co-Captain</strong><br>Mechanical Design Director</td>
               </tr>
               <tr>
                 <td> <strong>Sneha A.</strong><br>Mechanical Design Lead</td>
               </tr>
               <tr>
                 <td> <strong>Anika K.</strong><br>Mechanical Design Lead</td>
+              </tr>
+               <tr>
+                <td> <strong>Ryka G.</strong><br>Mechanical Design Lead</td>
               </tr>
             </tbody>
           </table>
@@ -52,7 +55,10 @@ require 'inc/header.php';
           <table class="card-body table">
             <tbody>
               <tr>
-                <td> <strong>Priya R., Co-Captain</strong><br>Manufacturing Director</td>
+                <td> <strong>Priya R. Co-Captain</strong><br>Manufacturing Director</td>
+              </tr>
+              <tr>
+                <td> <strong>Zaria S.</strong><br>Manufacturing Lead</td>
               </tr>
             </tbody>
           </table>
@@ -65,7 +71,7 @@ require 'inc/header.php';
           <table class="card-body table">
             <tbody>
               <tr>
-                <td><strong>Nishka S.</strong> <br>Control Systems/Programming Director</td>
+                <td><strong>Aleeza S.</strong> <br>Control Systems/Programming Lead</td>
               </tr>
             </tbody>
           </table>
@@ -78,7 +84,7 @@ require 'inc/header.php';
           <table class="card-body table">
             <tbody>
               <tr>
-                <td><strong>Melissa C.</strong><br>Software Tools Director</td>
+                <td><strong>Charlotte C.</strong><br>Software Tools Lead</td>
               </tr>
             </tbody>
           </table>
