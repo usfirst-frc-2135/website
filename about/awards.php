@@ -339,7 +339,7 @@ require 'inc/header.php';
     </div>
 
     <div class="card mb-3">
-      <div class=" row m-0 mt-3 mb-3">
+      <div class="row m-0 mt-3 mb-3">
         <div class="col-sm-3 order-1 order-sm-1">
           <img class="img-fluid" src="/about/img/about_awards/2016_MTTD_Wow_Factor.jpg" alt="2016_Wow_Factor">
         </div>
