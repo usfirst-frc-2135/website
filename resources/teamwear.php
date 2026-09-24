@@ -16,6 +16,16 @@ require 'inc/header.php';
       <div>
         <img class="img-fluid" src="/resources/img/resources_teamwear/TeamwearSweatshirt2.jpg" alt="2135 Sweatshirt">
       </div>
+    </div> <div class="card bg-body-secondary m-0 mb-3">
+      <div>
+        <h3 class="card-header">2026 - 20th Season</h3>
+      </div>
+      <div>
+        <img class="img-fluid" src="/resources/img/resources_teamwear/Teamwear_fall2025.jpg" alt>
+      </div>
+      <div>
+        <img class="img-fluid" src="/resources/img/resources_teamwear/Teamwear2026.jpg" alt>
+      </div>
     </div>
     <div class="card bg-body-secondary m-0 mb-3">
       <div>

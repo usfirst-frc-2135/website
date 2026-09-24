@@ -12,6 +12,10 @@ require 'inc/header.php';
     <h1 class="fw-bold mt-3">Photos</h1>
     <hr>
     <div class="col-sm-3">
+      <a href="photos_2025-26.php"> <img class="mb-3" src="/news/img/slides/button_images/button25-26.jpg" width="180" height="130" alt="Photos25-26" /></a>
+      <p>Photos 2025-26</p>
+    </div>
+    <div class="col-sm-3">
       <a href="photos_2024-25.php"> <img class="mb-3" src="/news/img/slides/button_images/button24-25.jpg" width="180" height="130" alt="Photos24-25" /></a>
       <p>Photos 2024-25</p>
     </div>
